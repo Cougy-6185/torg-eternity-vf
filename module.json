@@ -1,0 +1,30 @@
+{
+  "id": "torg-eternity-vf",
+  "title": "TORG Eternity (V.F.)",
+  "description": "TORG Etermity (V.F.) transforme, à l'aide du module BABELE, l'ensemble des éléments ENGLISH des modules officiels de TORG Eternity en version française.",
+  "authors": [
+    {
+      "name": "Cougy",
+      "flags": {}
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "esmodules": [
+    "register.js"
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "url": "https://github.com/Cougy-6185/torg-eternity-vf",
+  "manifest": ""
+}

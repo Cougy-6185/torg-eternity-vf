@@ -1,0 +1,745 @@
+{
+  "label": "Core Rulebook Handouts (en)",
+  "entries": {
+    "Actors": {
+      "name": "Actors",
+      "pages": {
+        "Aidan McAllister": {
+          "name": "Aidan McAllister",
+          "src": "modules/te001-core-rulebook/images/aidan.webp"
+        },
+        "Alchemist": {
+          "name": "Alchemiste",
+          "src": "modules/te001-core-rulebook/images/MoCE_2.webp"
+        },
+        "Anishaa Nayar": {
+          "name": "Anishaa Nayar",
+          "src": "modules/te001-core-rulebook/images/anishaa.webp"
+        },
+        "Baruk Kaah": {
+          "name": "Baruk Kaah",
+          "src": "modules/te001-core-rulebook/images/baruk-kah.webp"
+        },
+        "Dr. Zytalius Blackburn": {
+          "name": "Dr. Zytalius Blackburn",
+          "src": "modules/te001-core-rulebook/images/bcp-03.webp"
+        },
+        "Father Damien Monels": {
+          "name": "Père Damien Monels",
+          "src": "modules/te001-core-rulebook/images/father-damien-monels.webp"
+        },
+        "Gaunt Man Comic Style": {
+          "name": "Gaunt Man Comic Style",
+          "src": "modules/te001-core-rulebook/images/gaunt-man-comic.webp"
+        },
+        "Gaunt Man iconic": {
+          "name": "Gaunt Man iconic",
+          "src": "modules/te001-core-rulebook/images/gaunt-man-full.webp"
+        },
+        "Gospog": {
+          "name": "Gospog",
+          "src": "modules/te001-core-rulebook/images/gospog.webp"
+        },
+        "Jean Malraux": {
+          "name": "Jean Malraux",
+          "src": "modules/te001-core-rulebook/images/jean-mallreaux.webp"
+        },
+        "Lady Pella Ardinay": {
+          "name": "Lady Pella Ardinay",
+          "src": "modules/te001-core-rulebook/images/lady-pella.webp"
+        },
+        "Lord Kranod": {
+          "name": "Lord Kranod",
+          "src": "modules/te001-core-rulebook/images/lord-kranod.webp"
+        },
+        "Marcus Newman": {
+          "name": "Marcus Newman",
+          "src": "modules/te001-core-rulebook/images/marcus-newman.webp"
+        },
+        "Moonwalker": {
+          "name": "Moonwalker",
+          "src": "modules/te001-core-rulebook/images/moonwalker.webp"
+        },
+        "Officer": {
+          "name": "Officier",
+          "src": "modules/te001-core-rulebook/images/officer-figure.webp"
+        },
+        "Pharao Doctor Mobius": {
+          "name": "Pharaon Doctor Mobius",
+          "src": "modules/te001-core-rulebook/images/dr-mobius.webp"
+        },
+        "Quinn Sebastian": {
+          "name": "Quinn Sebastian",
+          "src": "modules/te001-core-rulebook/images/quinn-sebastian.webp"
+        },
+        "Rama Tut": {
+          "name": "Rama Tut",
+          "src": "modules/te001-core-rulebook/images/rama-tut-figure.webp"
+        },
+        "Reiko Kanawa": {
+          "name": "Reiko Kanawa",
+          "src": "modules/te001-core-rulebook/images/reiko-kanawa.webp"
+        },
+        "Rose-Allain": {
+          "name": "Rose-Allain",
+          "src": "modules/te001-core-rulebook/images/rose-allain.webp"
+        },
+        "Ryuchi Kanawa": {
+          "name": "Ryuchi Kanawa",
+          "src": "modules/te001-core-rulebook/images/kanawa.webp"
+        },
+        "Scrapper": {
+          "name": "Scrapper",
+          "src": "modules/te001-core-rulebook/images/scrapper.webp"
+        },
+        "Shooter": {
+          "name": "Shooter",
+          "src": "modules/te001-core-rulebook/images/shooter.webp"
+        },
+        "Stelae: Aysle": {
+          "name": "Stelae: Aysle",
+          "src": "modules/te001-core-rulebook/images/stelae-aysle.webp"
+        },
+        "Stelae: Cyberpapacy": {
+          "name": "Stelae: Cyberpapacy",
+          "src": "modules/te001-core-rulebook/images/stelae-cyberpapacy.webp"
+        },
+        "Stelae: Living Land": {
+          "name": "Stelae: Living Land",
+          "src": "modules/te001-core-rulebook/images/stelae-living-land.webp"
+        },
+        "Stelae: Orrorsh": {
+          "name": "Stelae: Orrorsh",
+          "src": "modules/te001-core-rulebook/images/stelae-orrorsh.webp"
+        },
+        "Stelae: Pan-Pacifica": {
+          "name": "Stelae: Pan-Pacifica",
+          "src": "modules/te001-core-rulebook/images/stelae-pan-pacifica.webp"
+        },
+        "Stelae: Tharkold": {
+          "name": "Stelae: Tharkold",
+          "src": "modules/te001-core-rulebook/images/stelae-tharkold.webp"
+        },
+        "Tolwyn": {
+          "name": "Tolwyn",
+          "src": "modules/te001-core-rulebook/images/tolwyn.webp"
+        },
+        "Tworek": {
+          "name": "Tworek",
+          "src": "modules/te001-core-rulebook/images/tworek.webp"
+        },
+        "Uthorion": {
+          "name": "Uthorion",
+          "src": "modules/te001-core-rulebook/images/uthorion.webp"
+        },
+        "Viola Villiers": {
+          "name": "Viola Villiers",
+          "src": "modules/te001-core-rulebook/images/viola.webp"
+        },
+        "Wild warrior": {
+          "name": "Wild warrior",
+          "src": "modules/te001-core-rulebook/images/wild-warrior.webp"
+        },
+        "Wu-Han": {
+          "name": "Wu-Han",
+          "src": "modules/te001-core-rulebook/images/wuhan-full.webp"
+        },
+        "Zhang Zhi": {
+          "name": "Zhang Zhi",
+          "src": "modules/te001-core-rulebook/images/zhan-shi.webp"
+        },
+        "Vehicle - 1933 Daimler-Benz": {
+          "name": "Vehicle - 1933 Daimler-Benz",
+          "src": "modules/te001-core-rulebook/images/characters/vehicles/1933_daimler-benz.webp"
+        },
+        "Vehicle - 1938 Halftrack": {
+          "name": "Vehicle - 1938 Halftrack",
+          "src": "modules/te001-core-rulebook/images/characters/vehicles/aaki_truck.webp"
+        },
+        "Vehicle - DC-3": {
+          "name": "Vehicle - DC-3",
+          "src": "modules/te001-core-rulebook/images/characters/vehicles/dc-3.webp"
+        },
+        "Vehicle - GWI Samson": {
+          "name": "Vehicle - GWI Samson",
+          "src": "modules/te001-core-rulebook/images/characters/vehicles/gwi_samson.Avatar.webp"
+        },
+        "Vehicle - Jeep": {
+          "name": "Vehicle - Jeep",
+          "src": "modules/te001-core-rulebook/images/characters/vehicles/jeep.webp"
+        },
+        "Vehicle - Zeppelin": {
+          "name": "Vehicle - Zeppelin",
+          "src": "modules/te001-core-rulebook/images/characters/vehicles/zeppelin.Avatar.webp"
+        },
+        "Abomination": {
+          "name": "Abomination",
+          "src": "modules/te001-core-rulebook/images/characters/abomination-large.webp"
+        },
+        "Demon": {
+          "name": "Demon",
+          "src": "modules/te001-core-rulebook/images/characters/demon-minor-large.webp"
+        },
+        "Church Police Streetbeater": {
+          "name": "Church Police Streetbeater",
+          "src": "modules/te001-core-rulebook/images/characters/church-police-streetbeater-large.webp"
+        },
+        "Crocodile": {
+          "name": "Crocodile",
+          "src": "modules/te001-core-rulebook/images/characters/crocodile-large.webp"
+        },
+        "Cyberpriest": {
+          "name": "Cyberpriest",
+          "src": "modules/te001-core-rulebook/images/characters/cyberpriest-large.webp"
+        },
+        "Dragon": {
+          "name": "Dragon",
+          "src": "modules/te001-core-rulebook/images/characters/dragon-large.webp"
+        },
+        "Edeinos Warrior": {
+          "name": "Edeinos Warrior",
+          "src": "modules/te001-core-rulebook/images/characters/edeinos-warrior-large.webp"
+        },
+        "Ghost": {
+          "name": "Ghost",
+          "src": "modules/te001-core-rulebook/images/characters/ghost-large.webp"
+        },
+        "Ghul": {
+          "name": "Ghul",
+          "src": "modules/te001-core-rulebook/images/characters/ghul-large.webp"
+        },
+        "Infected Human": {
+          "name": "Infected Human",
+          "src": "modules/te001-core-rulebook/images/characters/infected-human-large.webp"
+        },
+        "Jiangshi": {
+          "name": "Jiangshi",
+          "src": "modules/te001-core-rulebook/images/characters/jiangshi-large.webp"
+        },
+        "Kanawa Security Trooper": {
+          "name": "Kanawa Security Trooper",
+          "src": "modules/te001-core-rulebook/images/characters/kanawa-security-trooper-large.webp"
+        },
+        "Lurks": {
+          "name": "Lurks",
+          "src": "modules/te001-core-rulebook/images/characters/lurk-large.webp"
+        },
+        "Masked Marauder": {
+          "name": "Masked Marauder",
+          "src": "modules/te001-core-rulebook/images/characters/masked-marauder-large.webp"
+        },
+        "Nile Empire Shocktrooper": {
+          "name": "Nile Empire Shocktrooper",
+          "src": "modules/te001-core-rulebook/images/characters/nile-empire-shocktrooper-large.webp"
+        },
+        "Ravagon": {
+          "name": "Ravagon",
+          "src": "modules/te001-core-rulebook/images/characters/ravagon-large.webp"
+        },
+        "Sabre-Tooth Cat": {
+          "name": "Sabre-Tooth Cat",
+          "src": "modules/te001-core-rulebook/images/characters/sabretooth-cat-large.webp"
+        },
+        "Soldier": {
+          "name": "Soldier",
+          "src": "modules/te001-core-rulebook/images/characters/soldier-large.webp"
+        },
+        "Technodemon": {
+          "name": "Technodemon",
+          "src": "modules/te001-core-rulebook/images/characters/technodemon-large.webp"
+        },
+        "The Host": {
+          "name": "The Host",
+          "src": "modules/te001-core-rulebook/images/characters/the-host-large.webp"
+        },
+        "Thralls": {
+          "name": "Thralls",
+          "src": "modules/te001-core-rulebook/images/characters/thrall-large.webp"
+        },
+        "Triceratops": {
+          "name": "Triceratops",
+          "src": "modules/te001-core-rulebook/images/characters/triceratops-large.webp"
+        },
+        "Tyrannosaurus Rex": {
+          "name": "Tyrannosaurus Rex",
+          "src": "modules/te001-core-rulebook/images/characters/tyrannosaurus-large.webp"
+        },
+        "Werewolf": {
+          "name": "Werewolf",
+          "src": "modules/te001-core-rulebook/images/characters/werewolf-large.webp"
+        },
+        "White Wolf": {
+          "name": "White Wolf",
+          "src": "modules/te001-core-rulebook/images/characters/white-wolf-large.webp"
+        },
+        "Wight": {
+          "name": "Wight",
+          "src": "modules/te001-core-rulebook/images/characters/wight-light.webp"
+        }
+      }
+    },
+    "Images": {
+      "name": "Images",
+      "pages": {
+        "A fight at night": {
+          "name": "A fight at night",
+          "src": "modules/te001-core-rulebook/images/nightfight.webp"
+        },
+        "Amaat faith": {
+          "name": "Amaat faith",
+          "src": "modules/te001-core-rulebook/images/rama-tut.webp"
+        },
+        "Axethrowing": {
+          "name": "Axethrowing",
+          "src": "modules/te001-core-rulebook/images/axethrowing.webp"
+        },
+        "Blackmarket": {
+          "name": "Blackmarket",
+          "src": "modules/te001-core-rulebook/images/blackmarket.webp"
+        },
+        "Burning Axe": {
+          "name": "Burning Axe",
+          "src": "modules/te001-core-rulebook/images/bcgmp-01.webp"
+        },
+        "Buss Configuration": {
+          "name": "Buss Configuration",
+          "src": "modules/te001-core-rulebook/images/buss-configuration.webp"
+        },
+        "Carchase": {
+          "name": "Carchase",
+          "src": "modules/te001-core-rulebook/images/quinn-sebastian-chase.webp"
+        },
+        "Child rescue": {
+          "name": "Child rescue",
+          "src": "modules/te001-core-rulebook/images/childrescue.webp"
+        },
+        "Chokehold": {
+          "name": "Chokehold",
+          "src": "modules/te001-core-rulebook/images/chokehold.webp"
+        },
+        "Classic Torg: Aysle": {
+          "name": "Classic Torg: Aysle",
+          "src": "modules/te001-core-rulebook/images/classic4.webp"
+        },
+        "Classic Torg: Nile Empire": {
+          "name": "Classic Torg: Nile Empire",
+          "src": "modules/te001-core-rulebook/images/classic3.webp"
+        },
+        "Classic Torg: Wallpaper": {
+          "name": "Classic Torg: Wallpaper",
+          "src": "modules/te001-core-rulebook/images/classic1.webp"
+        },
+        "Classic Torg: Werewulf": {
+          "name": "Classic Torg: Werewulf",
+          "src": "modules/te001-core-rulebook/images/classic2.webp"
+        },
+        "Come on!": {
+          "name": "Come on!",
+          "src": "modules/te001-core-rulebook/images/comeon.webp"
+        },
+        "Contradiction": {
+          "name": "Contradiction",
+          "src": "modules/te001-core-rulebook/images/contradiction.webp"
+        },
+        "Crossed Weapons": {
+          "name": "Crossed Weapons",
+          "src": "modules/te001-core-rulebook/images/crossed-weapons.webp"
+        },
+        "Cyberwitching": {
+          "name": "Cyberwitching",
+          "src": "modules/te001-core-rulebook/images/cyberwitching.webp"
+        },
+        "Dances With Wolves": {
+          "name": "Dances With Wolves",
+          "src": "modules/te001-core-rulebook/images/dances-with-wolves.webp"
+        },
+        "Destroying a tank": {
+          "name": "Destroying a tank",
+          "src": "modules/te001-core-rulebook/images/destroying-tank.webp"
+        },
+        "Eifeltower": {
+          "name": "Eifeltower",
+          "src": "modules/te001-core-rulebook/images/eifeltower.webp"
+        },
+        "Electrosamurai": {
+          "name": "Electrosamurai",
+          "src": "modules/te001-core-rulebook/images/electrosamurai.webp"
+        },
+        "Elven Warden": {
+          "name": "Elven Warden",
+          "src": "modules/te001-core-rulebook/images/elven-warden.webp"
+        },
+        "Evading in the last second": {
+          "name": "Evading in the last second",
+          "src": "modules/te001-core-rulebook/images/evading-in-the-last-second.webp"
+        },
+        "Exorcism": {
+          "name": "Exorcism",
+          "src": "modules/te001-core-rulebook/images/exocism.webp"
+        },
+        "Fighting a gule": {
+          "name": "Fighting a gule",
+          "src": "modules/te001-core-rulebook/images/gulefight.webp"
+        },
+        "Fighting an penanggalan": {
+          "name": "Fighting an penanggalan",
+          "src": "modules/te001-core-rulebook/images/penanggalan.webp"
+        },
+        "Fighting Jiangshi": {
+          "name": "Fighting Jiangshi",
+          "src": "modules/te001-core-rulebook/images/fighting-jiangshi-2.webp"
+        },
+        "Fighting Lurks": {
+          "name": "Fighting Lurks",
+          "src": "modules/te001-core-rulebook/images/fighting-lurks.webp"
+        },
+        "Fighting Wights": {
+          "name": "Fighting Wights",
+          "src": "modules/te001-core-rulebook/images/fighting-wights.webp"
+        },
+        "Firy woods": {
+          "name": "Firy woods",
+          "src": "modules/te001-core-rulebook/images/firywoods.webp"
+        },
+        "Flashback": {
+          "name": "Flashback",
+          "src": "modules/te001-core-rulebook/images/firefight.webp"
+        },
+        "Fleeing": {
+          "name": "Fleeing",
+          "src": "modules/te001-core-rulebook/images/fleeing.webp"
+        },
+        "Forest": {
+          "name": "Forest",
+          "src": "modules/te001-core-rulebook/images/forest.webp"
+        },
+        "Gaunt Man": {
+          "name": "Gaunt Man",
+          "src": "modules/te001-core-rulebook/images/gaunt-man.webp"
+        },
+        "Get away from her": {
+          "name": "Get away from her",
+          "src": "modules/te001-core-rulebook/images/MoCE_5.webp"
+        },
+        "Getting the Drop": {
+          "name": "Getting the Drop",
+          "src": "modules/te001-core-rulebook/images/getting-the-drop.webp"
+        },
+        "Gunman in egypt": {
+          "name": "Gunman in egypt",
+          "src": "modules/te001-core-rulebook/images/gunman-in-egypt.webp"
+        },
+        "Heart of coyote": {
+          "name": "Heart of coyote",
+          "src": "modules/te001-core-rulebook/images/heart-of-coyote.webp"
+        },
+        "Hologram interruption": {
+          "name": "Hologram interruption",
+          "src": "modules/te001-core-rulebook/images/hologram-interruption.webp"
+        },
+        "Looking for answers": {
+          "name": "Looking for answers",
+          "src": "modules/te001-core-rulebook/images/looking-for-answers.webp"
+        },
+        "Maggots!": {
+          "name": "Maggots!",
+          "src": "modules/te001-core-rulebook/images/maggots!.webp"
+        },
+        "Magic in the air": {
+          "name": "Magic in the air",
+          "src": "modules/te001-core-rulebook/images/MoCE_4.webp"
+        },
+        "Magical misshap": {
+          "name": "Magical misshap",
+          "src": "modules/te001-core-rulebook/images/magic-misshap.webp"
+        },
+        "Marcus attacks": {
+          "name": "Marcus attacks",
+          "src": "modules/te001-core-rulebook/images/bcp-02.webp"
+        },
+        "Mobius": {
+          "name": "Mobius",
+          "src": "modules/te001-core-rulebook/images/mobius.webp"
+        },
+        "Mystic society": {
+          "name": "Mystic society",
+          "src": "modules/te001-core-rulebook/images/MoCE_1.webp"
+        },
+        "Nile Confrontation": {
+          "name": "Nile Confrontation",
+          "src": "modules/te001-core-rulebook/images/nile-confrontation.webp"
+        },
+        "Ninja Garden": {
+          "name": "Ninja Garden",
+          "src": "modules/te001-core-rulebook/images/ninja-garden.webp"
+        },
+        "Noodlesoup": {
+          "name": "Noodlesoup",
+          "src": "modules/te001-core-rulebook/images/noodlesoup.webp"
+        },
+        "Psywave": {
+          "name": "Psywave",
+          "src": "modules/te001-core-rulebook/images/psywave.webp"
+        },
+        "Rafting": {
+          "name": "Rafting",
+          "src": "modules/te001-core-rulebook/images/rafting.webp"
+        },
+        "Reality thunder": {
+          "name": "Reality thunder",
+          "src": "modules/te001-core-rulebook/images/reality-thunder.webp"
+        },
+        "Running Away": {
+          "name": "Running Away",
+          "src": "modules/te001-core-rulebook/images/running-away.webp"
+        },
+        "Sasquatch": {
+          "name": "Sasquatch",
+          "src": "modules/te001-core-rulebook/images/sasquatch.webp"
+        },
+        "Shark!": {
+          "name": "Shark!",
+          "src": "modules/te001-core-rulebook/images/sharkattack.webp"
+        },
+        "The Deathhead Knob": {
+          "name": "The Deathhead Knob",
+          "src": "modules/te001-core-rulebook/images/skull-knob.webp"
+        },
+        "Skull Pillar": {
+          "name": "Skull Pillar",
+          "src": "modules/te001-core-rulebook/images/skull-pillar.webp"
+        },
+        "Sliding": {
+          "name": "Sliding",
+          "src": "modules/te001-core-rulebook/images/sliding.webp"
+        },
+        "Strange worlds": {
+          "name": "Strange worlds",
+          "src": "modules/te001-core-rulebook/images/ll-strange-worlds.webp"
+        },
+        "T-Rex Hunt": {
+          "name": "T-Rex Hunt",
+          "src": "modules/te001-core-rulebook/images/trexhunt.webp"
+        },
+        "Taking Cover": {
+          "name": "Taking Cover",
+          "src": "modules/te001-core-rulebook/images/taking-cover.webp"
+        },
+        "Technodemon": {
+          "name": "Technodemon",
+          "src": "modules/te001-core-rulebook/images/techdemon.webp"
+        },
+        "The malefices": {
+          "name": "The malefices",
+          "src": "modules/te001-core-rulebook/images/malefices.webp"
+        },
+        "The might of Lanala": {
+          "name": "The might of Lanala",
+          "src": "modules/te001-core-rulebook/images/the-might-of-lanala.webp"
+        },
+        "The oni blades": {
+          "name": "The oni blades",
+          "src": "modules/te001-core-rulebook/images/oni-blades.webp"
+        },
+        "Tunnels": {
+          "name": "Tunnels",
+          "src": "modules/te001-core-rulebook/images/tunnels.webp"
+        },
+        "Unexpected passenger": {
+          "name": "Unexpected passenger",
+          "src": "modules/te001-core-rulebook/images/unexpected-passenger.webp"
+        },
+        "Uppercut a gospog": {
+          "name": "Uppercut a gospog",
+          "src": "modules/te001-core-rulebook/images/gospog-upercut.webp"
+        },
+        "Usaanta": {
+          "name": "Usaanta",
+          "src": "modules/te001-core-rulebook/images/usaanta.webp"
+        },
+        "Vehicle Combat": {
+          "name": "Vehicle Combat",
+          "src": "modules/te001-core-rulebook/images/vehicle-combat.webp"
+        },
+        "Voice of god": {
+          "name": "Voice of god",
+          "src": "modules/te001-core-rulebook/images/faithshout.webp"
+        },
+        "Zepplin Crash": {
+          "name": "Zepplin Crash",
+          "src": "modules/te001-core-rulebook/images/zepplin-crash.webp"
+        }
+      }
+    },
+    "Maps": {
+      "name": "Maps",
+      "pages": {
+        "Aysle & Tharkold Year 1": {
+          "name": "Aysle & Tharkold Year 1",
+          "src": "modules/te001-core-rulebook/images/bcgmp-05-en.webp"
+        },
+        "Aysle Map": {
+          "name": "Aysle Map",
+          "src": "modules/te001-core-rulebook/images/aysle-en.webp"
+        },
+        "Cyberpapacy in Brazil": {
+          "name": "Cyberpapacy in Brazil",
+          "src": "modules/te001-core-rulebook/images/bcgmp-02-en.webp"
+        },
+        "Cyberpapacy Map": {
+          "name": "Cyberpapacy Map",
+          "src": "modules/te001-core-rulebook/images/cyberpapacy-en.webp"
+        },
+        "Living Land Map": {
+          "name": "Living Land Map",
+          "src": "modules/te001-core-rulebook/images/living-land-en.webp"
+        },
+        "Nile Empire Map": {
+          "name": "Nile Empire Map",
+          "src": "modules/te001-core-rulebook/images/nile-empire-en.webp"
+        },
+        "Nile imperium year 1": {
+          "name": "Nile imperium year 1",
+          "src": "modules/te001-core-rulebook/images/bcgmp-03-en.webp"
+        },
+        "Orrorsh & Pan-Pacifica Year 1": {
+          "name": "Orrorsh & Pan-Pacifica Year 1",
+          "src": "modules/te001-core-rulebook/images/bcgmp-04-en.webp"
+        },
+        "Orrorsh map": {
+          "name": "Orrorsh map",
+          "src": "modules/te001-core-rulebook/images/orrorsh-en.webp"
+        },
+        "Pan-Pacifica map": {
+          "name": "Pan-Pacifica map",
+          "src": "modules/te001-core-rulebook/images/pan-pacifica-en.webp"
+        },
+        "Tharkold map": {
+          "name": "Tharkold map",
+          "src": "modules/te001-core-rulebook/images/tharkold-en.webp"
+        }
+      }
+    },
+    "Threat Cards": {
+      "name": "Threat Cards",
+      "pages": {
+        "Threat Card - Church Police Streetbeater": {
+          "name": "Threat Card - Church Police Streetbeater",
+          "src": "modules/te001-core-rulebook/images/threat-cards/church-police-streetbeater-threat-card.webp"
+        },
+        "Threat Card - Crazed Human": {
+          "name": "Threat Card - Crazed Human",
+          "src": "modules/te001-core-rulebook/images/threat-cards/crazed-human-stormer-threat-card.webp"
+        },
+        "Threat Card - Crocodile": {
+          "name": "Threat Card - Crocodile",
+          "src": "modules/te001-core-rulebook/images/threat-cards/crocodile-threat-card.webp"
+        },
+        "Threat Card - Cyberpriest": {
+          "name": "Threat Card - Cyberpriest",
+          "src": "modules/te001-core-rulebook/images/threat-cards/cyberpriest-threat-card.webp"
+        },
+        "Threat Card - Demon (Minor)": {
+          "name": "Threat Card - Demon (Minor)",
+          "src": "modules/te001-core-rulebook/images/threat-cards/demon-minor-threat-card.webp"
+        },
+        "Threat Card - Dragon": {
+          "name": "Threat Card - Dragon",
+          "src": "modules/te001-core-rulebook/images/threat-cards/dragon-threat-card.webp"
+        },
+        "Threat Card - Edeinos Warrior": {
+          "name": "Threat Card - Edeinos Warrior",
+          "src": "modules/te001-core-rulebook/images/threat-cards/edeinos-warrior-threat-card.webp"
+        },
+        "Threat Card - Edeinos Warror (Stormer)": {
+          "name": "Threat Card - Edeinos Warror (Stormer)",
+          "src": "modules/te001-core-rulebook/images/threat-cards/edeinos-warrior-stormer-threat-card.webp"
+        },
+        "Threat Card - Ghost": {
+          "name": "Threat Card - Ghost",
+          "src": "modules/te001-core-rulebook/images/threat-cards/ghost-threat-card.webp"
+        },
+        "Threat Card - Ghul": {
+          "name": "Threat Card - Ghul",
+          "src": "modules/te001-core-rulebook/images/threat-cards/ghul-threat-card.webp"
+        },
+        "Threat Card - Gospog (First Planting)": {
+          "name": "Threat Card - Gospog (First Planting)",
+          "src": "modules/te001-core-rulebook/images/threat-cards/gospog-threat-card.webp"
+        },
+        "Threat Card - Host": {
+          "name": "Threat Card - Host",
+          "src": "modules/te001-core-rulebook/images/threat-cards/host-threat-card.webp"
+        },
+        "Threat Card - Infected Human": {
+          "name": "Threat Card - Infected Human",
+          "src": "modules/te001-core-rulebook/images/threat-cards/infected-human-threat-card.webp"
+        },
+        "Threat Card - Jiangshi": {
+          "name": "Threat Card - Jiangshi",
+          "src": "modules/te001-core-rulebook/images/threat-cards/jiangshi-threat-card.webp"
+        },
+        "Threat Card - Kanawa Security Trooper": {
+          "name": "Threat Card - Kanawa Security Trooper",
+          "src": "modules/te001-core-rulebook/images/threat-cards/kanawa-security-trooper-threat-card.webp"
+        },
+        "Threat Card - Lurk": {
+          "name": "Threat Card - Lurk",
+          "src": "modules/te001-core-rulebook/images/threat-cards/lurk-threat-card.webp"
+        },
+        "Threat Card - Masked Marauder": {
+          "name": "Threat Card - Masked Marauder",
+          "src": "modules/te001-core-rulebook/images/threat-cards/masked-marauder-threat-card.webp"
+        },
+        "Threat Card - Nibikrid": {
+          "name": "Threat Card - Nibikrid",
+          "src": "modules/te001-core-rulebook/images/threat-cards/nibikrid-threat-card.webp"
+        },
+        "Threat Card - Nile Empire Shocktrooper": {
+          "name": "Threat Card - Nile Empire Shocktrooper",
+          "src": "modules/te001-core-rulebook/images/threat-cards/nile-empire-shocktrooper-threat-card.webp"
+        },
+        "Threat Card - Ravagon": {
+          "name": "Threat Card - Ravagon",
+          "src": "modules/te001-core-rulebook/images/threat-cards/ravagon-threat-card.webp"
+        },
+        "Threat Card - Sabretooth Cat": {
+          "name": "Threat Card - Sabretooth Cat",
+          "src": "modules/te001-core-rulebook/images/threat-cards/sabretooth-cat-threat-card.webp"
+        },
+        "Threat Card - Soldier": {
+          "name": "Threat Card - Soldier",
+          "src": "modules/te001-core-rulebook/images/threat-cards/soldier-threat-card.webp"
+        },
+        "Threat Card - Technodemon": {
+          "name": "Threat Card - Technodemon",
+          "src": "modules/te001-core-rulebook/images/threat-cards/technodemon-threat-card.webp"
+        },
+        "Threat Card - Thrall": {
+          "name": "Threat Card - Thrall",
+          "src": "modules/te001-core-rulebook/images/threat-cards/thrall-threat-card.webp"
+        },
+        "Threat Card - Triceratops": {
+          "name": "Threat Card - Triceratops",
+          "src": "modules/te001-core-rulebook/images/threat-cards/triceratops-threat-card.webp"
+        },
+        "Threat Card - Tyrannosaurus": {
+          "name": "Threat Card - Tyrannosaurus",
+          "src": "modules/te001-core-rulebook/images/threat-cards/tyrannosaurus-threat-card.webp"
+        },
+        "Threat Card - Werewolf": {
+          "name": "Threat Card - Werewolf",
+          "src": "modules/te001-core-rulebook/images/threat-cards/werewolf-threat-card.webp"
+        },
+        "Threat Card - White Wolf": {
+          "name": "Threat Card - White Wolf",
+          "src": "modules/te001-core-rulebook/images/threat-cards/white-wolf-threat-card.webp"
+        },
+        "Threat Card - Wight": {
+          "name": "Threat Card - Wight",
+          "src": "modules/te001-core-rulebook/images/threat-cards/wight-threat-card.webp"
+        }
+      }
+    }
+  }
+}
