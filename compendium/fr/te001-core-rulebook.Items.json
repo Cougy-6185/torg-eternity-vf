@@ -269,9 +269,9 @@
       "description": "<p>Aquired by @UUID[Compendium.te001-core-rulebook.Items.Item.suvUndoA0PTOIWCz]{Ammo Belt/Web Belt}</p><p>5 reloads for a firearm.</p>"
     },
     "Animal Companion (Sabre-Tooth Cat)": {
-      "name": "Animal Companion (Sabre-Tooth Cat)",
-      "description": "<p>The great tigers of the Living Land are fearsome predators capable of taking down all but the largest dinosaurs. A smaller breed exists that seem far more interested in traveling with humans and edeinos &mdash; and less interested in eating them.</p>\n<p>This Perk grants the hero a sabre-tooth cat as a companion. It is as intelligent as the most welltrained dog so it can follow basic commands, such as attacking a foe it&rsquo;s pointed at, protecting a person or area, or going to or waiting at a familiar place the character has marked for it.</p>\n<p>The player controls the cat. The Game Master should only take over if the pet becomes confused, abused, or is off on its own.</p>\n<p>The beast does not have @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.kYP18QiA72P6PlUi#possibilities]{Possibilities} of its own, but the character can spend <em>his</em> possibilities (and Destiny cards) for the creature even if they are separated.</p>\n<p>If the cat is Defeated, it should be considered Incapacitated instead of slain. It returns at the start of the next act. If it&rsquo;s truly and undeniably killed, the character must visit the Living Land and spend several nights in the jungle to bond with a new companion.</p>\n<p>&nbsp;</p>\n<p>@UUID[Compendium.te001-core-rulebook.Actors.JVgXLLgQQX0sFr9g]{Sabre-Tooth Cat}</p>\n<div class=\"row\">\n<div class=\"col-12 col-lg-auto\">&nbsp;</div>\n</div>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "Charisma 8+"
+      "name": "Compagnon animal  (Fauve à dents de sabre)",
+      "description": "<p>Les grands tigres de la Terre-Vivante sont de redoutables prédateurs capables de vaincre n’importe quelle créature à l’exception des plus grands dinosaures. Il existe une sous-espèce un peu plus petite de félins qui semble plus apprécier de voyager avec les humains et les edeinos que de les manger. </p> <p> Cet Atout octroie au héros un chat à dents de sabre comme compagnon. Il est aussi intelligent que le chien le mieux dressé, ce qui signifie qu’il peut obéir à des instructions simples comme attaquer un adversaire désigné, défendre une personne ou un lieu précis et attendre ou aller à un endroit que le personnage a identifié. </p> <p> Le joueur contrôle l’animal. Le MJ n’en prend le contrôle que si l’animal est perturbé, maltraité ou qu’il agit seul. </p> <p> La bête n’a pas de @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.kYP18QiA72P6PlUi#possibilites]{possibilités} mais le personnage peut utiliser <em>ses</em> propres Possibilités (et ses Cartes de Destin) pour la créature même s’ils sont séparés. </p> <p> Si l’animal est vaincu, il doit être considéré neutralisé au lieu d’être tué. Il revient au début de l’acte suivant. Si sa mort est inévitable, le personnage doit revenir dans la Terre Vivante et passer plusieurs nuits dans la jungle pour reforger un lien avec un nouveau compagnon. </p> <p> </p> <p> @UUID[Compendium.te001-core-rulebook.Actors.JVgXLLgQQX0sFr9g]{Fauve à dents de sabre} </p> <p> </p> <p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "Charisme 8+"
     },
     "Animal-hide Canoe": {
       "name": "Animal-hide Canoe",
@@ -359,8 +359,8 @@
       "range": "10 meters radius"
     },
     "Axiom Increase": {
-      "name": "Axiom Increase",
-      "description": "<p>This Perk may be taken multiple times. The Storm Knight may increase any one of her axioms by one each time this Perk is chosen. See @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.d78XGWvCtF85JyAZ#contradictions]{Contradictions} for more on axiom levels and Contradictions.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "name": "Augmentation d’axiome",
+      "description": "<p>Cet Atout peut être choisi plusieurs fois. Le Chevalier des tempêtes peut augmenter l’un de ses axiomes de 1 point à chaque fois que cet Atout est choisi. Voir @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.d78XGWvCtF85JyAZ#contradictions]{Contradictions}  pour plus d’informations sur les niveaux d’axiomes et les Contradictions. </p> \n <p> </p> \n <p>Présent dans <strong>Core Rules</strong></p>",
       "prerequisites": ""
     },
     "Ayslish Cannon": {
@@ -431,14 +431,14 @@
       "description": "<p>Aquired by @UUID[Compendium.te001-core-rulebook.Items.Item.YkHrlUVPNEv4oUiW]{Bean Bag}.</p><p><span style=\"font-family:'Palatino Linotype'\">These shells may be loaded into any shotgun. They expand into bags that hit with enough force to stagger most opponents and knock the wind out of them. Bean bag rounds deal nonlethal damage and Stymie any foe they hit.</span></p>"
     },
     "Bearded/Braided": {
-      "name": "Bearded/Braided",
-      "description": "<p>Most Ayslish dwarves <q>go shaggy</q> when it comes to their beards or hair. It’s a sign of the shame they feel for failing to defeat Uthorion on their home world.</p><p>When a dwarf regains his honor, however, he begins to groom again. Bearded/Braided dwarves lace their hair (and beards, for males) with gold medals etched with their deeds.</p><p>The honor bolsters the warrior’s will and pride, giving her courage to carry on despite overwhelming odds. This grants her one extra wound.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.2AQ87OBFRFvaPeuX]{Dwarf}, at least three adds in melee weapons, must have personally played a Glory card</p>"
+      "name": "Barbe/Tresses",
+      "description": "<p> La plupart des nains aysliens n’entretiennent plus leur barbe ni leur chevelure. C’est le reflet de la honte qu’ils éprouvent d’avoir été vaincus par Uthorion dans leur monde natal. </p> <p> Quand un nain regagne son honneur, cependant, il recommence à en prendre soin. Les nains avec cet Atout tressent leurs cheveux (et leurs barbes pour les mâles) avec des médailles en or sur lesquelles sont gravés leurs exploits. </p> <p> L’honneur regagné renforce leur volonté et leur fierté et leur donne le courage de persévérer malgré l’adversité. Ils peuvent encaisser 1 Blessure supplémentaire. </p> \n <p> </p> \n <p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.2AQ87OBFRFvaPeuX]{Nain}, au moins 3 rangs dans Armes de mếlée, doit avoir personnellement joué une carte Gloire</p>"
     },
     "Beast Rider": {
       "name": "Beast Rider",
-      "description": "<p>Edeinos and transformed humans make use of the various beasts of the Living Land for transport and battle. Some riders are particularly adept at combat from the back of their mounts. Interactions against the creature are against the beast&rsquo;s defense or the rider&rsquo;s, whichever is better. The rider may also ignore the penalty if the beast runs (see @UUID[Compendium.te001-core-rulebook.rules.JournalEntry.pwneQ55M0nnDH0Us.JournalEntryPage.kYP18QiA72P6PlUi#beast-riding-(dexterity)]{Beast Riding}).</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "At least three adds in beast riding"
+      "description": "<p>Les edeinos et les humains transformés utilisent les différentes bêtes de la Terre Vivante pour le transport et le combat. Certains cavaliers sont particulièrement doués pour se battre à dos de monture. Les interactions avec la créature sont effectuées contre les défenses de la bête ou celles du cavalier, en fonction de celles qui sont les plus avantageuses. Le cavalier peut aussi ignorer les malus si la bête court (voir @UUID[Compendium.te001-core-rulebook.rules.JournalEntry.pwneQ55M0nnDH0Us.JournalEntryPage.kYP18QiA72P6PlUi#equitation-(dexterite)]{Équitation (compétence dextérité)}).</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "Au moins 3 rangs dans Équitation."
     },
     "BelleView 20-20 Cyber Eye": {
       "name": "BelleView 20-20 Cyber Eye",
@@ -451,9 +451,9 @@
       "notes": "Ignore 2 points of Darknes penalties"
     },
     "Berserk": {
-      "name": "Berserk",
-      "description": "<p>Some warriors become so enraged in the heat of combat they often become a danger to their own allies—and a cyclone of death to their foes!</p><p>When a Berserker suffers a wound, she automatically becomes enraged. She charges the nearest enemy regardless of danger and engages in hand-to-hand combat.</p><p>For the rest of the encounter, the warrior adds her wound penalties to her <em>melee weapons</em> or <em>unarmed combat</em> damage. If she takes shock in excess of her limit, she doesn’t fall immediately but instead makes a <em>Spirit</em> roll at the start of each turn thereafter. If a test fails, she’s KO’ed as usual. If the test succeeds she fights on, rolling again at the start of each turn. A Berserker can stop testing <em>Spirit</em> if shock is restored.</p><p>A Berserker is dangerous to her own, however. If she rolls a Mishap on a <em>melee weapons</em> or <em>unarmed combat</em> test (and the GM decides it’s possible), she hits an ally for her normal damage + 1 BD. The Game Master can choose the target that makes the most sense or select one randomly if the situation is unclear.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "Spirit 8+"
+      "name": "Berserker",
+      "description": "<p>Certains guerriers deviennent tellement enragés dans la fureur du combat qu’ils sont souvent un danger pour leurs propres alliés et un cyclone de destruction pour leurs adversaires ! </p> <p> Quand un Berserker subit une Blessure, il devient automatiquement enragé. Il charge l’ennemi le plus proche, quel que soit le danger, et l’engage au corps à corps. </p> <p> Pour le reste de la rencontre, le guerrier ajoute ses malus de Blessures à ses dommages d’<em>Armes de mêlée</em> ou de <em>Combat à mains nues</em>. S’il subit plus de points de Choc que sa limite, il ne s’effondre pas immédiatement mais, au lieu de cela, il effectue au début de chaque tour un test d’<em>Esprit</em>. Si le test échoue, il est mis KO comme d’habitude. Si le test réussit, il continue le combat et effectue un nouveau test au début du prochain tour. S’il retombe sous sa limite de points de Choc, un Berserker peut cesser d’effectuer des tests d’<em>Esprit</em>. </p> <p> Cependant, un Berserker est également dangereux pour ses alliés. S’il obtient un échec critique à un test d’<em>Armes de mêlée</em> ou de <em>Combat à mains nues</em> (et que le MJ juge que c’est possible), il touche un allié et il lui inflige des dommages normaux plus un Dé Bonus. Le MJ peut sélectionner la cible qui est la plus logiquement affectée ou il en détermine une aléatoirement si la situation n’est pas claire. </p>\n<p> </p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "Esprit 8+"
     },
     "Binoculars": {
       "name": "Binoculars",
@@ -544,14 +544,14 @@
       "range": "10 meters"
     },
     "Brawler": {
-      "name": "Brawler",
-      "description": "<p>The fighter hits hard thanks to anything from dirty tricks and a good uppercut to training in karate, jujitsu, tae kwon do, or similar hand-tohand fighting styles. Characters with this Perk cause <em>Strength</em> +2 damage with their bare hands when attacking with <em>unarmed combat</em>. This stacks with any other <em>unarmed combat</em> bonuses such as an edeinos’s claw attack.</p><p>More advanced and exotic techniques are taught in Pan-Pacifica under the @UUID[Compendium.te001-core-rulebook.rules.JournalEntry.pwneQ55M0nnDH0Us.JournalEntryPage.kYP18QiA72P6PlUi#ki-powers]{Ki Powers} Perks.</p><p> </p><p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "At least two adds in unarmed combat"
+      "name": "Bagarreur",
+      "description": "<p>Le combattant cogne fort en ayant recours à des coups vicieux et un bon uppercut grâce à ses entraînements au karaté, au jujitsu, au taekwondo et autres sports de combat. Les personnages avec cet Atout infligent <em>Force</em> + 2 points de dommages à mains nues quand ils attaquent avec la compétence <em>Combat à mains nues</em>. C’est cumulable avec tout autre bonus de <em>Combat à mains nues</em> tels que les attaques de griffes des edeinos. </p> \n <p> Des techniques plus complexes peuvent être apprises avec les Atouts <strong>@UUID[Compendium.te001-core-rulebook.rules.JournalEntry.pwneQ55M0nnDH0Us.JournalEntryPage.kYP18QiA72P6PlUi#pouvoirs-du-ki]{Pouvoirs du Ki}</strong> du Pan-Pacifica. </p> <p> </p> <p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "Au moins 2 rangs dans Combat à mains nues"
     },
     "Brute": {
       "name": "Brute",
-      "description": "<p>The character can always use <em>Strength</em> when testing for <strong>Defeat</strong>, regardless of her <em>Spirit</em>.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "Strength 8+"
+      "description": "<p>Le personnage peut toujours utiliser sa <em>Force</em> quand il effectue un test de <strong>D&eacute;faite</strong>, quel que soit son <em>Esprit</em>.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "Force 8+"
     },
     "Bull Whip": {
       "name": "Fouet",
@@ -570,8 +570,24 @@
     },
     "Bulletsmith": {
       "name": "Armurier ★",
-      "description": "<p>Adventurers of Orrorsh long ago learned lead bullets and steel blades were no match for the horrors of their realm. Alchemy proved a great help to their cause, and some intrepid souls eventually combined that arcane craft with the more practical skill of marksmanship.</p><p>When this Perk is taken, the user has a @UUID[Compendium.te001-core-rulebook.Items.Item.atrG9LBk4HbsJqqc]{Slayer's Gun} and knows how to create various rounds for it. He receives his weapon and the knowledge to make basic metal slugs (damage 14) and any three of the specialized rounds below. Crafted for close encounters, the short-barrel carbine design of the slayer’s gun allows it to be used in melee like a pistol.</p><p>Because the bullets are necessarily large and require exacting specifications, monster hunters who make use of them have standardized a sixchambered, carbine-style gun to fire them—the rounds don’t work in any other kind of weapon.</p><ul><li><strong>@UUID[Compendium.te001-core-rulebook.Items.Item.atrG9LBk4HbsJqqc]{Slayer's Gun:}</strong> Range 50/100/200, damage 14, Shots 6</li></ul><p>Bulletsmiths can keep and maintain up to six special bullets as long as they have access to their gear (which always contains a small bullet-making kit). If more rounds are created, they lose the magical essence the Bulletsmith inherently provides and act as regular slugs (damage 14). Replacement rounds may be created between scenes, or during downtime if the Game Master feels it’s appropriate.</p><p>Slayer’s guns are designed to rotate quickly and so can fire any one of their preloaded six chambers (specified before use). Swapping or reloading up to three rounds is an action.</p><p><strong>@UUID[Compendium.te001-core-rulebook.Items.Item.9R8jAGlgkkwoJ8rd]{Slayer's Bandoleer}:</strong> Monster hunters wear a specialized bandoleer designed to hold 18 shells total (12 regular shells and their six special rounds).</p><p><strong>Extra Shells:</strong> This Perk may be taken more than once. Each time after the first the Bulletsmith learns to make a new type of shell and may maintain two more special rounds at a time.</p><p>Here are some of the shells Bulletsmiths have thus far discovered:</p><ul><li><strong>Adamant Shell:</strong> Some of the Victorians’ foes are armored from head to toe with metal, scales, or even a carapace. These shells are designed to cut through them, causing Armor Piercing 4.</li><li><strong>Electric Shell:</strong> Water-based creatures or creatures standing in water take an additional +4 damage when hit by electric shells. A previously unknown side-effect of these rounds is that they can cause glitches in high-tech <em>electronic</em> equipment. Robots and machines take the extra damage, and sensitive equipment shorts out and is inoperable for three rounds.</li><li><strong>Explosive Shell:</strong> The most dangerous of the Bullet Smith’s shells causes damage 15 in a Zone d'Effet Limitée Radius.</li><li><strong>Giant Killer Shell:</strong> The Victorians developed these heavy shells to take down the Gaunt Man’s biggest horrors. They cause +5 damage against Large or greater creatures.</li><li><strong>Holy Water Shell:</strong> +2 damage versus any supernaturally evil creature, including gospog, vampires, and undead.</li><li><strong>Phantom Shell:</strong> These rounds are made from various reagents such as cold iron, salt, and holy water that allows them to affect ethereal creatures normally.</li><li><strong>Silver Shell:</strong> Creatures with the Lycanthrope Special Ability take +4 damage from silver shells.</li><li><p><strong>Sun Shell:</strong> These rounds contain something the alchemists call <q>liquid sunlight.</q> They explode with ultraviolet light in a Medium Zone d'effet, causing any creatures <q>hit</q> by them to be Very Vulnerable if they have a sensitivity to light or sunlight. Most creatures that can see in darkness are affected by sun shells.</p></li></ul><p>@UUID[Compendium.te014-orrorsh.orrorsh-items.Item.te6B9zVXXm3ky8iQ]{More Shells} Présent dans Orrorsh Sourcebook Module</p>",
-      "prerequisites": "At least 2 adds in science"
+      "description": "<p> Les aventuriers d’Orrorsh ont appris il y a bien longtemps que les balles en plomb et les lames en acier étaient inutiles contre les horreurs de leur royaume. L’alchimie leur a été d’un grand secours et certaines âmes intrépides sont parvenues à combiner cet art occulte avec celui de la fabrication des armes. </p> <p> Quand il choisit cet Atout, l’utilisateur obtient un @UUID[Compendium.te001-core-rulebook.Items.Item.atrG9LBk4HbsJqqc]{Fusil de tueur} et sait fabriquer des munitions pour cette arme. Il reçoit son arme et les connaissances nécessaires pour fabriquer des projectiles métalliques basiques (dommages 14) et trois des balles spécialisées présentées ci-après. Conçu pour le combat rapproché, la conception du fusil de tueur à canon court permet à son utilisateur de s’en servir en mêlée, comme un pistolet. </p> <p> Comme les balles sont forcément volumineuses et ont des spécifications exigeantes, les chasseurs de monstres qui les utilisent ont créé un fusil standardisé à six coups dont les balles ne peuvent être utilisées avec une autre arme. </p> <ul> <li> <strong>@UUID[Compendium.te001-core-rulebook.Items.Item.atrG9LBk4HbsJqqc]{Fusil de tueur}</strong> : portée 50/100/200, dommages 14, munitions 6. </li> </ul> <p> Les Armuriers peuvent conserver jusqu’à six balles spéciales en même temps tant qu’ils ont accès à leur matériel (qui contient toujours un petit kit de fabrication de balles). S’ils fabriquent plus de balles, ces dernières perdent l’essence magique dont les imprègnent les Armuriers et deviennent des balles normales (dommages 14). De nouvelles balles peuvent être fabriquées entre deux Scènes ou pendant un moment calme si le MJ considère que c’est approprié. </p> <p> Le barillet d’un fusil de tueur est conçu pour tourner rapidement afin que son utilisateur puisse tirer n’importe laquelle des six balles chargées (à spécifier avant usage). Échanger ou recharger trois balles est une action. </p> <p> <strong>@UUID[Compendium.te001-core-rulebook.Items.Item.9R8jAGlgkkwoJ8rd]{Cartouchière du tueur}</strong> : les chasseurs de monstres sont équipés d’une cartouchière spéciale conçue pour contenir 18 cartouches (12 normales et 6 balles spécialisées). </p> <p> <strong>Balles supplémentaires</strong> : cet Atout peut être choisi plusieurs fois. À chaque fois après la première, l’Armurier apprend à fabriquer un nouveau type de balles et peut avoir 2 balles spéciales de plus en même temps. </p> <p> Voici les balles découvertes pour l’instant par les Armuriers. </p> <ul> <li> <strong>Cartouche d’argent </strong> : les créatures dotées de la capacité spéciale Lycanthropie subissent +4 points de dommages avec ces balles. </li> <li> <strong>Cartouche d’eau bénite</strong> : +2 dommages contre toutes les créatures surnaturelles maléfiques y compris les gospogs, les vampires et les morts-vivants. </li> <li> <strong>Cartouche en adamantite</strong> : certains adversaires des Victoriens sont protégés de la tête aux pieds par des plaques, des écailles et même des carapaces. Ces balles sont conçues pour perforer ces protections et ont donc la caractéristique Pénétration d’armure 4. </li> <li> <strong>Cartouche explosive</strong> : cartouche la plus dangereuse des Armuriers, elle inflige 15 points de dommages dans une Zone d’effet limitée. </li> <li> <strong>Cartouche fantôme</strong> : ces balles sont fabriquées avec différents réactifs comme du fer froid, du sel et de l’eau bénite, ce qui leur permet d’affecter normalement les créatures éthérées. </li> <li> <strong>Cartouche foudroyante</strong> : les créatures aquatiques ou qui se tiennent dans l’eau subissent 4 points de dommages supplémentaires quand elles sont touchées par ce type de balles. Un effet secondaire de ces balles, inconnu jusqu’alors, est qu’elles peuvent provoquer des dysfonctionnements dans les équipements électroniques. Les robots et les machines subissent les dégâts supplémentaires et les équipements sensibles sont court-circuités et cessent de fonctionner pendant trois rounds. </li> <li> <strong>Cartouche solaire</strong> : ces balles contiennent une substance que les alchimistes appellent du « soleil liquide ». Elles explosent en émettant des ultraviolets dans une Zone d’effet moyenne. Les créatures prises dans la zone d’effet sont considérées comme Très Vulnérables si elles sont sensibles à la lumière ou à la lumière du soleil. La plupart des créatures qui peuvent voir dans les ténèbres sont affectées par des cartouches solaires. </li> <li> <strong>Cartouche tueuse de géant</strong> : les Victoriens ont mis au point ces cartouches lourdes pour abattre les horreurs les plus massives du Décharné. Elles infligent 5 points de dommages supplémentaires aux créatures de Grande taille ou supérieure. </li> </ul> <p> @UUID[Compendium.te014-orrorsh.orrorsh-items.Item.te6B9zVXXm3ky8iQ]{Plus de munitions} Présent dans Orrorsh Sourcebook Module </p>",
+      "prerequisites": "Au moins 2 rangs en Science",
+      "enhancement01description": "les créatures dotées de la capacité spéciale Lycanthropie subissent +4 points de dommages avec ces balles.",
+      "enhancement01title": "Cartouche d’argent",
+      "enhancement02description": "+2 dommages contre toutes les créatures surnaturelles maléfiques y compris les gospogs, les vampires et les morts-vivants.",
+      "enhancement02title": "Cartouche d’eau bénite",
+      "enhancement03description": "certains adversaires des Victoriens sont protégés de la tête aux pieds par des plaques, des écailles et même des carapaces. Ces balles sont conçues pour perforer ces protections et ont donc la caractéristique Pénétration d’armure 4.",
+      "enhancement03title": "Cartouche en adamantite",
+      "enhancement04title": "Cartouche explosive",
+      "enhancement05title": "Cartouche fantôme",
+      "enhancement06title": "Cartouche foudroyante",
+      "enhancement07title": "Cartouche solaire",
+      "enhancement08title": "Cartouche tueuse de géant",
+      "enhancement04description": "cartouche la plus dangereuse des Armuriers, elle inflige 15 points de dommages dans une Zone d’effet limitée.",
+      "enhancement05description": "ces balles sont fabriquées avec différents réactifs comme du fer froid, du sel et de l’eau bénite, ce qui leur permet d’affecter normalement les créatures éthérées.",
+      "enhancement06description": "les créatures aquatiques ou qui se tiennent dans l’eau subissent 4 points de dommages supplémentaires quand elles sont touchées par ce type de balles. Un effet secondaire de ces balles, inconnu jusqu’alors, est qu’elles peuvent provoquer des dysfonctionnements dans les équipements électroniques. Les robots et les machines subissent les dégâts supplémentaires et les équipements sensibles sont court-circuités et cessent de fonctionner pendant trois rounds.",
+      "enhancement07description": "ces balles contiennent une substance que les alchimistes appellent du « soleil liquide ». Elles explosent en émettant des ultraviolets dans une Zone d’effet moyenne. Les créatures prises dans la zone d’effet sont considérées comme Très Vulnérables si elles sont sensibles à la lumière ou à la lumière du soleil. La plupart des créatures qui peuvent voir dans les ténèbres sont affectées par des cartouches solaires.",
+      "enhancement08description": "les Victoriens ont mis au point ces cartouches lourdes pour abattre les horreurs les plus massives du Décharné. Elles infligent 5 points de dommages supplémentaires aux créatures de Grande taille ou supérieure."
     },
     "Bulletsmith Kit": {
       "name": "Bulletsmith Kit",
@@ -2045,19 +2061,25 @@
       "range": "Self"
     },
     "Focused Strike": {
-      "name": "Focused Strike",
-      "description": "<p>The hero summons all his concentration and strikes at a foe’s most vulnerable point. After generating a <em>melee weapons</em> or <em>unarmed combat</em> damage total, she may take one shock to give her attack Armor Piercing 4. This stacks with any other applicable Armor Piercing ability.</p><p>Also Présent dans Pan-Pacifica Sourcebook Module</p>",
-      "prerequisites": "Spirit 8+, at least three adds in melee weapons or unarmed combat"
+      "name": "Attaque localisée ★",
+      "description": "<p>Le héros fait appel à toute sa concentration et frappe le point le plus vulnérable d’un adversaire. Après avoir calculé le total de dommages d’un test d’<em>Armes de mêlée</em> ou de <em>Combat à mains nues</em>, le héros peut subir un point de Choc pour conférer à son attaque la caractéristique Pénétration d’armure 4. Cela est cumulable avec toute autre capacité octroyant une Pénétration d’armure. </p> <p>Aussi Présent dans Pan-Pacifica Sourcebook Module</p>",
+      "prerequisites": "Esprit 8+, Au moins trois rangs dans Armes de mêlée ou Combat à mains nues."
     },
     "Followers": {
-      "name": "Followers",
-      "description": "<p>Followers may be taken multiple times. The first time it’s taken, the Storm Knight has a single follower of some sort. The character is an Ord created by the Game Master with 36 points of attributes, 12 points in skills, and 2 Wounds. Each additional time this Perk is selected either add an additional follower, or an existing follower may gain a Perk (player’s choice).</p><p>The player character controls these followers in most situations. They are loyal for the most part, but not suicidal. Losses are replaced at the start of the next act, or as soon as it makes sense in the story (Game Master’s decision). New followers don’t just show up in the middle of the Living Land looking for someone. But the group might stumble upon a settlement and find men and women willing to join the group after they’ve shared food and tales of the Storm Knights’ adventures.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "Charisma 8+, and the character must have successfully played a Glory card"
+      "name": "Compagnons",
+      "description": "<p>Cet Atout peut être choisi plusieurs fois. La première fois, le Chevalier des Tempêtes gagne un compagnon. Ce compagnon est un Ord créé par le MJ avec 36 points d’attributs et 12 points de compétences. À chaque fois que cet Atout est de nouveau sélectionné, soit le héros obtient un nouveau compagnon, soit un de ses compagnons déjà en jeu gagne un Atout (au choix du joueur). </p> <p> Le joueur contrôle ses compagnons dans la plupart des situations. Ils sont globalement loyaux mais pas suicidaires. Les pertes sont remplacées au début du prochain Acte ou dès que cela a un sens dans l’histoire (à la discrétion du MJ). De nouveaux compagnons n’apparaissent pas en plein milieu de la Terre Vivante à la recherche de quelqu’un. Mais le groupe peut tomber sur une communauté et y trouver des hommes et des femmes disposés à se joindre au groupe après avoir partagé des vivres et le récit des aventures des Chevaliers des tempêtes. </p>",
+      "prerequisites": "Charisme 8+, et le personnage doit avoir joué avec succès une carte Gloire."
     },
     "Force Field": {
-      "name": "Force Field",
-      "description": "<p>A shield of invisible energy surrounds the hero.</p>\n<p>The force field has three <q>charges.</q> Each time the hero suffers a wound, the field expends a charge to block the wound and 2 shock.</p>\n<p>The field recharges at the rate of one charge per hour.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": ""
+      "name": "Champ de force ★",
+      "description": "<p>Le héros est environné d’un bouclier d'énergie invisible. </p> <p> Le champ de force a trois <q>charges</q>. À chaque fois que le héros subit une Blessure, le champ perd une de ses charges pour bloquer la Blessure et 2 points de Choc. </p> <p>Le champ régénère une charge par heure.</p> <p> </p> <p>Présent dans <strong>Core Rules</strong></p> ",
+      "prerequisites": "",
+      "enhancement01description": "Le champ a 5 charges.",
+      "enhancement01title": "Puissance",
+      "enhancement02description": "Le champ régénère une charge toutes les 10 minutes.",
+      "enhancement02title": "Rechargement",
+      "enhancement03description": "Le champ peut être utilisé pour protéger un allié adjacent.",
+      "enhancement03title": "Taille"
     },
     "Foreshadow": {
       "name": "Foreshadow",
@@ -2086,9 +2108,9 @@
       "notes": "Zone d'effet moyenne"
     },
     "Frightening Aspect": {
-      "name": "Frightening Aspect",
-      "description": "<p>The dark hero’s physical appearance takes on an unpleasant characteristic of some sort. Perhaps his skin becomes pale and sickly or his eyes become red and haunted.</p><p>The character’s <em>Charisma</em> is permanently reduced by one, but he becomes Favored at <em>intimidation</em> tests.</p><p>In addition, a successful <em>intimidation</em> when it’s the Approved Action grants the player <em>two</em> Destiny cards instead of one. Choose one to keep as usual and discard the other.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "No Light Perks"
+      "name": "Aspect Effrayant ★",
+      "description": "<p> L’apparence physique du sombre héros a une caractéristique déplaisante. Il peut être pâle et avoir un aspect maladif ou ses yeux peuvent être rouges avec un regard tourmenté. </p> <p> Le Charisme du personnage est réduit d’un point de manière permanente mais il est Favorisé pour ses tests d’Intimidation. </p> <p> De plus, un test réussi d’Intimidation quand il s’agit d’une Action approuvée octroie au joueur deux Cartes de Destin au lieu d’une. Choisissez-en une à conserver, comme d’habitude, et défaussez l’autre. </p> \n <p> </p> \n <p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "Aucun Atout de Lumière"
     },
     "GM-94 Launcher": {
       "name": "Lance-grenade GM-94",
@@ -2914,9 +2936,9 @@
       "restrictions": ""
     },
     "Natural Leader": {
-      "name": "Natural Leader",
-      "description": "<p>The character may spend a Possibility&nbsp;to immediately play two cards from her hand into any other characters&rsquo; Action Pools. This may be done at any time as a free action.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "Charisma 8+"
+      "name": "Chef naturel",
+      "description": "<p>Le personnage peut d&eacute;penser une Possibilit&eacute; pour poser imm&eacute;diatement deux cartes de sa main dans la R&eacute;serve d&rsquo;Action d&rsquo;un autre personnage. Cela peut &ecirc;tre fait &agrave; n&rsquo;importe quel moment en tant qu&rsquo;action gratuite.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "Charisme 8+"
     },
     "Natural Weapons (Edeinos)": {
       "name": "Natural Weapons (Edeinos)",
@@ -3487,9 +3509,9 @@
       "description": "<p>A silencer is a tube or baffle added to the barrel of a weapon that suppresses the amount of noise it makes when fired. This lowers the damage value of the firearm by two, but reduces the sound of most weapons by enough that firing doesn’t automatically give away a hidden character’s position. Silenced weapons can only be fired out to Medium range.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Situational Awareness": {
-      "name": "Situational Awareness",
-      "description": "<p>Veteran Storm Knights become hyper-aware of their surroundings when danger nears, marking exits, reading their foes’ intent, and knowing when and where to maneuver next.</p><p>Once per scene, a character with Situational Awareness may play a single card directly from her hand into her pool (and use it immediately if desired).</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "Mind 8+"
+      "name": "Conscience environnementale",
+      "description": "<p>Les Chevaliers des tempêtes aguerris sont hyper conscients de leur environnement quand le danger menace. Ils notent les sorties possibles, perçoivent les intentions de leurs adversaires et savent quand et comment il convient d’agir.</p> <p>Une fois par scène, un personnage avec Conscience environnementale peut poser une seule carte directement de sa main dans sa Réserve (et l’utiliser immédiatement s’il le souhaite).</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "Raison 8+"
     },
     "Size (Dwarf)": {
       "name": "Size (Dwarf)",
@@ -3505,15 +3527,15 @@
       "description": "<p>Attaching a slaver collar requires several minutes, and is linked to a <q>master</q> device. If the wearer moves more than 500 meters away, the master device stops transmitting, or the master dies, the collar detonates dealing [[/r 2d6x6max5+24]]{24 +2 BD} damage. The collar is placed underneath any worn armor, ignoring it.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Slayer's Bandoleer": {
-      "name": "Slayer's Bandoleer",
-      "description": "<p>Aquired by @UUID[Compendium.te001-core-rulebook.Items.Item.iKjiXUHRWLiyQY3S]{Bulletsmith}</p><p>Monster hunters wear a specialized bandoleer designed to hold 18 shells total (12 regular shells and their six special rounds).</p><p>Note here which bullets are prepared.</p>"
+      "name": "Cartouchi&egrave;re du tueur",
+      "description": "<p>Acquis par le talent by @UUID[Compendium.te001-core-rulebook.Items.Item.iKjiXUHRWLiyQY3S]{Armurier ★}</p><p>les chasseurs de monstres sont &eacute;quip&eacute;s d&rsquo;une cartouchi&egrave;re sp&eacute;ciale con&ccedil;ue pour contenir 18 cartouches (12 normales et 6 balles sp&eacute;cialis&eacute;es).<p>Indiquer ici quelles munitions sont utilisées.</p>"
     },
     "Slayer's Gun": {
-      "name": "Slayer's Gun",
-      "description": "<p>Acquired by @UUID[Compendium.te001-core-rulebook.Items.Item.iKjiXUHRWLiyQY3S]{Bulletsmith}</p><p>@UUID[Compendium.te001-core-rulebook.rules.JournalEntry.pwneQ55M0nnDH0Us.JournalEntryPage.EhKa65cpHvodUl2L#tirer-sur-des-cibles-en-melee]{Pistol}</p>",
+      "name": "Fusil de tueur",
+      "description": "<p>Acquis par le talent @UUID[Compendium.te001-core-rulebook.Items.Item.iKjiXUHRWLiyQY3S]{Armurier ★}</p><p>@UUID[Compendium.te001-core-rulebook.rules.JournalEntry.pwneQ55M0nnDH0Us.JournalEntryPage.EhKa65cpHvodUl2L#tirer-sur-des-cibles-en-melee]{Pistolet}</p>",
       "range": "50/100/200",
       "chatNote": "",
-      "notes": "Uses special shells, Pistol"
+      "notes": "Utilise des munitions spéciales, Pistolet"
     },
     "Sling": {
       "name": "Fronde",
@@ -3549,9 +3571,9 @@
       "description": "<p>Has no effect on its own other than to allow the use of @UUID[Compendium.te001-core-rulebook.Items.qEbyBsLTvxVqiZ29]{Smart Ammo} with the weapon. The attachment records footage of the weapon&rsquo;s targets, and a connected cyber eye (see @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#cyberware]{Cyberware}) also sees through the weapon&rsquo;s sensors.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Smiling Deceiver": {
-      "name": "Smiling Deceiver",
-      "description": "<p>The character knows how to hide his Frightening Aspect behind false smiles and platitudes. <em>Persuasion</em>, <em>streetwise</em>, and <em>taunt</em> tests become Favored. However, if the deceiver fails a test in any of those skills (including opposed tests), his Frightening Aspect becomes immediately visible for all to see. The bonuses of this Perk are then lost for the remainder of the scene.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.buhBg51Wc3Dc4de1]{Frightening Aspect}</p>"
+      "name": "Charmant imposteur ★",
+      "description": "<p>Le personnage sait dissimuler son Aspect effrayant derrière un faux sourire et des platitudes. Ses tests de <em>Persuasion</em>, <em>Débrouillardise</em> et <em>Provocation</em> sont Favorisés. Cependant, s’il rate l’un de ces tests (y compris des tests en opposition), son Aspect effrayant est immédiatement révélé à tous ceux qui peuvent le voir. Les bonus de cet Atout sont alors perdus pour le reste de la scène.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.buhBg51Wc3Dc4de1]{Aspect Effrayant}</p>"
     },
     "Smoke Pellets": {
       "name": "Smoke Pellets",
@@ -3608,9 +3630,9 @@
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Speed Demon": {
-      "name": "Speed Demon",
-      "description": "<p>Motorcycles are the preferred mode of transportation for most Electric Samurai thanks to the combination of speed, maneuverability, and the lack of an outer frame to hamper sword use! When a Speed Demon makes a melee attack from a motorcycle (or from any vehicle that allows unrestrained attacks, such as riding in an opentopped vehicle) he gains a +2 bonus to damage..</p><p> </p><p>@UUID[Compendium.te016-pan-pacifica.pan-pacifica-items.Item.nnZDprTjdi14HA3Q]{Updated version} Présent dans Pan-Pacifica Sourcebook Module</p>",
-      "prerequisites": "At least two adds in land vehicles"
+      "name": "Bête de course",
+      "description": "<p>La moto est le mode de transport préféré de la plupart des Samouraïs électriques à cause de sa vitesse, de sa manœuvrabilité et surtout parce qu’aucun carénage ne limite l’utilisation de leur épée. Quand une Bête de course effectue une attaque de mêlée à partir d’une moto (ou de tout autre engin en mouvement qui permet d’attaquer librement, comme à bord d’un véhicule sans toit) il bénéficie d’un bonus de +2 aux dommages.</p><p> </p><p>@UUID[Compendium.te016-pan-pacifica.pan-pacifica-items.Item.nnZDprTjdi14HA3Q]{Mise à jour} Présent dans Pan-Pacifica Sourcebook Module</p>",
+      "prerequisites": "Au moins 2 rangs dans Véhicules terrestres."
     },
     "Spell Component Bag": {
       "name": "Spell Component Bag",
