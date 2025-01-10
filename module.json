@@ -26,5 +26,6 @@
     ]
   },
   "url": "https://github.com/Cougy-6185/torg-eternity-vf",
-  "manifest": ""
+  "manifest": "https://github.com/Cougy-6185/torg-eternity-vf/releases/download/1.0.0/module.json",
+  "download": "https://github.com/Cougy-6185/torg-eternity-vf/releases/download/1.0.0/torg-eternity-vf.zip"
 }
