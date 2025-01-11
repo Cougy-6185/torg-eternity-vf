@@ -365,7 +365,7 @@
     },
     "Ayslish Cannon": {
       "name": "Canon ayslien",
-      "description": "<p>@UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#rechargement-:]{Rechargement}</p>\n<p>D&rsquo;une taille comparable au canon de 12 livres de la Prime Terre du 15e si&egrave;cle, ce type de canon commence &agrave; &ecirc;tre d&eacute;ploy&eacute; en grand nombre par les aysliens. Les nains les fabriquent g&eacute;n&eacute;ralement pour qu&rsquo;ils ressemblent &agrave; des dragons ou &agrave; d&rsquo;autres monstres.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "description": "<p>@UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#rechargement-:]{Rechargement}</p>\n<p>D&rsquo;une taille comparable au canon de 12 livres de la Terre Prime du 15e si&egrave;cle, ce type de canon commence &agrave; &ecirc;tre d&eacute;ploy&eacute; en grand nombre par les aysliens. Les nains les fabriquent g&eacute;n&eacute;ralement pour qu&rsquo;ils ressemblent &agrave; des dragons ou &agrave; d&rsquo;autres monstres.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
       "range": "100 / 250 / 500",
       "chatNote": "",
       "notes": "Rechargement"
@@ -490,9 +490,9 @@
       "description": "<p>Gains 10 shots for any firearm that have been blessed by a Miracle worker for the Delphi Council. These rounds are +1 Damage against creatures of Supernatural Evil - including gospog. These bullets are still in short supply, but Beta Clearance teams have preferential access to them.</p><p>Use @UUID[Compendium.te001-core-rulebook.Items.Item.z8uFjYC2wvOYTRlI]{Blessed Ammo Rechargements}</p>"
     },
     "Block Strike": {
-      "name": "Block Strike",
-      "description": "<p>When a foe misses the martial artist with a melee attack, she may take one shock to immediately make a melee attack of her own against that opponent.</p><p>@UUID[Compendium.te016-pan-pacifica.pan-pacifica-items.Item.JyR5TmdlsP8agZmO]{Updated version} Présent dans Pan-Pacifica Sourcebook Module</p>",
-      "prerequisites": "Spirit 8+, at least three adds in unarmed combat"
+      "name": "Parade offensive ★",
+      "description": "<p>Quand un adversaire rate le personnage avec une attaque de m&ecirc;l&eacute;e, ce dernier peut subir un point de Choc pour imm&eacute;diatement effectuer une attaque de m&ecirc;l&eacute;e contre cet adversaire.</p><p>@UUID[Compendium.te016-pan-pacifica.pan-pacifica-items.Item.JyR5TmdlsP8agZmO]{Mise à jour} Présent dans Pan-Pacifica Sourcebook Module</p>",
+      "prerequisites": "Esprit 8+, au moins 3 rangs en Combat à mains nues."
     },
     "Blow Gun": {
       "name": "Sarbacane",
@@ -509,9 +509,9 @@
       "notes": "Rechargement"
     },
     "Bodyguard": {
-      "name": "Bodyguard",
-      "description": "<p>The character selflessly puts herself in harm’s way, protecting friends and allies with her own body. Once it’s determined a nearby ally has been hit by a physical attack (ranged or melee), the Bodyguard may redirect the attack to herself instead. The damage affects her normally. She may do this once per turn.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "At least two adds in maneuver"
+      "name": "Garde du corps",
+      "description": "<p>Au m&eacute;pris du danger, le personnage s&rsquo;interpose et prot&egrave;ge de son corps ses amis et ses alli&eacute;s. Une fois qu&rsquo;il a &eacute;t&eacute; d&eacute;termin&eacute; qu&rsquo;un alli&eacute; proche a &eacute;t&eacute; touch&eacute; par une attaque physique (&agrave; distance ou en m&ecirc;l&eacute;e), le Garde du corps peut rediriger l&rsquo;attaque sur lui. Les dommages l&rsquo;affectent normalement. Il peut agir ainsi une fois par tour.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "Au moins 2 rangs dans Manœuvre."
     },
     "Boilerplate Hauberk": {
       "name": "Haubert de plates",
@@ -519,9 +519,9 @@
       "notes": "Fatigue"
     },
     "Bolster": {
-      "name": "Bolster",
-      "description": "<p>A true leader can empower his allies with a stern gaze, a short speech, or some other act that steels their resolve against adverse circumstances.</p>\n<p>Characters with this Perk can spend a @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.kYP18QiA72P6PlUi#possibilities]{possibility} to counter any Disadvantage affecting his party on the current Drama card&rsquo;s Conflict Line. This completely negates the Conflict Line for his side, but has no effect on the rivals&rsquo; result. It can be done at any time the card is still active.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "Charisma 8+, at least one add in reality"
+      "name": "Soutien",
+      "description": "<p>Un vrai chef sait motiver ses alliés d’un simple regard, avec un bref discours ou toute autre action qui renforce leur détermination face à l’adversité. </p> <p> Les personnages avec cet Atout peuvent dépenser une @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.kYP18QiA72P6PlUi#possibilites]{Possibilité} pour contrer un Désavantage affectant le groupe sur la Carte d’Action actuelle de la Ligne de Conflit. Cela annule complètement la Ligne de conflit pour son camp mais n’a aucun effet sur le résultat des rivaux. Cela peut être fait à n’importe quel moment tant que la carte est encore active. </p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "Charisme 8+, au moins 1 rang en Réalité."
     },
     "Bone Knife": {
       "name": "Couteau en os",
@@ -670,8 +670,8 @@
       "description": "<p>Once activated, these clothes shift color to match the environment around them. The effect isn’t perfect, but grants a stationary wearer a +4 bonus to stealth.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Chameleon Skin": {
-      "name": "Chameleon Skin",
-      "description": "<p>Some very rare edeinos have a strange mutation that allows their skin to change color to match their environment. As long as they don’t wear excessive clothing or armor that obscures their scales, they are Favored at <em>stealth</em> tests. If the edeinos uses an Active Defense all ranged attacks against him suffer an extra –2 penalty.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "name": "Peau de caméléon",
+      "description": "<p>Quelques tr&egrave;s rares edeinos ont une &eacute;trange mutation qui leur permet de modifier la couleur de leur peau afin de se fondre dans leur environnement. Tant qu&rsquo;ils ne portent pas trop de v&ecirc;tements ou une armure qui couvre trop leurs &eacute;cailles, leurs tests de <em>Discr&eacute;tion</em> sont Favoris&eacute;s. Si l&rsquo;edeinos utilise une D&eacute;fense active, toutes les attaques &agrave; distance contre lui subissent un malus suppl&eacute;mentaire de -2.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
       "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.R7iwjAD49l0zullR]{Edeinos}</p>"
     },
     "Chod Rabbitjack MK II": {
@@ -807,8 +807,8 @@
     },
     "Conviction": {
       "name": "Conviction",
-      "description": "<p><strong>Cosms:</strong> Core Earth, Aysle, Cyberpapacy, Living Land, Nile Empire, Orrorsh</p>\n<p>The chosen true believers can better weather the trials and tribulations of failure. When a character with Conviction fails to invoke a miracle he suffers one less shock than usual.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.W6HcoYyOqi6pGGfD]{Miracles}, at least three adds in faith</p>"
+      "description": "<p><strong>Cosm :</strong> Terre Prime, Aysle, Cyberpapauté, La Terre Vivante, L'Empire du Nil, Orrorsh.</p><p> Les vrais croyants qui ont été choisis peuvent mieux résister aux conséquences d’un échec. Quand un personnage avec Conviction échoue lors de l’invocation d’un miracle, il subit un point de Choc de moins. </p> \n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.W6HcoYyOqi6pGGfD]{Miracles}, au moins 3 rangs en Foi.</p>"
     },
     "Copycat": {
       "name": "Copycat",
@@ -835,9 +835,9 @@
       "notes": ""
     },
     "Critical Strike": {
-      "name": "Critical Strike",
-      "description": "<p>The dark hero knows how to make the most of a bad situation—for his foe! If he makes an AllOut attack against a Vulnerable or Very Vulnerable opponent and declares it to be a Critical Strike, he may play Destiny cards from his hand that directly affect the attack.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.buhBg51Wc3Dc4de1]{Frightening Aspect}</p><p></p>"
+      "name": "Coup critique ★",
+      "description": "<p>Le sombre h&eacute;ros sait tirer profit d&rsquo;une mauvaise situation dans laquelle se retrouve son adversaire. S&rsquo;il effectue une Attaque totale contre un adversaire Vuln&eacute;rable ou Tr&egrave;s vuln&eacute;rable et qu&rsquo;il annonce qu&rsquo;il s&rsquo;agit d&rsquo;un Coup critique, il peut jouer des Cartes de Destin de sa main, qui affectent l&rsquo;attaque.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.buhBg51Wc3Dc4de1]{Aspect Effayant}</p>"
     },
     "Crushed Crystals": {
       "name": "Crushed Crystals",
@@ -881,8 +881,8 @@
       "description": "<p>Ein leistungsstarker PC, der direkt mit dem Gehirn des Benutzers verbunden ist. Die <em>Computer</em>-Fertigkeit des verbundenen Benutzers zählt als Begünstigt.</p><p>@UUID[Compendium.te010-cyberpapacy.cyberpapacy-items.Item.te59INT9pS0If9zQ]{Updated version} Présent dans Cyberpapacy Sourcebook Module</p>"
     },
     "Cyberware Implants": {
-      "name": "Cyberware Implants",
-      "description": "<p>When this Perk is selected, the character may choose up to $10 000 worth of @UUID[Compendium.te001-core-rulebook.rules.JournalEntry.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#cyberware]{Cyberware}.</p><p>Official Church-approved cyberware is linked directly to the GodNet and carefully monitored. Devices bought via this Perk are <q>hacked</q> and don’t link to the GodNet (unless the wearer wants it to for some reason). Its installation is safe and free from risk of injury.</p><p>Hacked cyberware is a crime in the Cyberpapacy, however. Heroes who <q>chrome</q> their bodies best beware of the Church Police—they are <em>always</em> watching.</p><p><strong>New Implants:</strong> This Perk may be taken more than once. Each time after the first, it grants the user another $5 000 worth of implants.</p><p> </p><p>Présent dans <strong>Core Rules</strong></p>",
+      "name": "Implants cybernétiques",
+      "description": "<p>Quand il prend cet Atout, le personnage peut choisir des @UUID[Compendium.te001-core-rulebook.rules.JournalEntry.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#cyberware]{Implants cybernétique} pour une valeur maximale de 10 000 $.</p> <p>Les implants officiellement approuvés par l’Église sont directement connectés au Réseau Divin et sont étroitement surveillés. Les appareils achetés grâce à cet Atout sont « piratés » et ne sont pas connectés au Réseau Divin (à moins que l’utilisateur ne le veuille). L’installation est sans risque.</p> <p>Cependant, posséder des implants piratés est un crime dans la Cyberpapauté. Les héros qui « chroment » leur corps feraient bien de se méfier de la police de l’Église, elle est <em>toujours</em> vigilante. </p> <p> <strong>Nouveaux implants :</strong> cet Atout peut être choisi plusieurs fois. À chaque fois qu’un personnage le choisit après la première fois, il accorde de nouveaux implants pour une valeur de 5 000 $. </p><p> </p><p>Présent dans <strong>Core Rules</strong></p>",
       "prerequisites": ""
     },
     "Dagger": {
@@ -902,8 +902,8 @@
       "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.ntqopmBBhU5nzwGn]{Elf}</p><p></p>"
     },
     "Dart Thrower": {
-      "name": "Dart Thrower",
-      "description": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.eItDWecF1ue7Hvp0]{Dragon Warrior}-Enhancement</p><p>A compartment on one of the dwarf’s forearms contains six deadly iron darts. Each dart deals 13 damage, range 10/20/40, may use a @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#short-burst]{Rafale Courte}, and uses missile weapons to hitCompartments in the armor hold 12 additional darts. Any dwarf who has this Perk knows how to make more from metal scraps. Assume the weapon and ammunition compartment are replenished between acts or whenever the Game Master feels the wearer has sufficient time to do so.</p>",
+      "name": "Lance-fl&eacute;chettes",
+      "description": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.eItDWecF1ue7Hvp0]{Guerrier Dragon}-Amélioration</p><p>un compartiment dans un des avant-bras de l’armure du nain contient six fléchettes en fer. Elles infligent 13 points de dommages, ont une portée de 10/20/40, permettent d’utiliser l’option @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#tir-en-rafale]{Rafale Courte} et nécessitent la compétence <em>Armes de jet</em> pour toucher.<br/> Des @UUID[Compendium.te001-core-rulebook.Items.Item.FMuEU14QIeJz3EG1]{Compartiments} dans l’armure contiennent 12 fléchettes supplémentaires. Tout nain doté de cet Atout sait fabriquer des fléchettes à partir de fragments métalliques. L’arme et les compartiments à munitions sont considérés comme à nouveau pleins au début de chaque nouvel Acte ou à chaque fois que le MJ estime que le personnage a suffisamment de temps pour le faire.</p>",
       "range": "10 / 20 / 40",
       "chatNote": "",
       "notes": "Rafale Courte"
@@ -925,12 +925,12 @@
       "notes": "Warns if food or drink is poisoned"
     },
     "Death Claw": {
-      "name": "Death Claw",
-      "description": "<p>When the black stone of the great volcanoes turns to liquid, the bravest of edeinos may undergo the <q>ritual of the death claw.</q> They do this only under the supervision of their optant, who prays to Lanala for life while the warrior attacks the molten stone with his claws, dipping, slashing, and punching until his hands burn brilliant orange. If he survives this ritual, his talons are forever after black as night and harder than steel.</p><p>Edeinos with the Death Claw Perk cause <em>Strength</em> +3 damage, Armor Piercing 2 when attacking with their claws.</p><p>Use @UUID[Compendium.te001-core-rulebook.Items.Item.Uv4DVpy4yvtNsoPX]{Death Claw (Attack)}.</p><p> </p><p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.R7iwjAD49l0zullR]{Edeinos}, Spirit 10+</p>"
+      "name": "Griffes mortelles",
+      "description": "<p>Quand les pierres noires des grands volcans se liquéfient, les plus braves edeinos peuvent entreprendre le « rituel des Griffes mortelles ». Ils ne peuvent le faire que sous la supervision de leur élu qui prie Lanala pour accorder la vie à celui qui s’attaque à la pierre fondue avec ses griffes, en la creusant, en la griffant et en la frappant jusqu’à ce que ses mains brillent d’une lueur orange. S’il survit au rituel, ses griffes sont à jamais aussi noires que la nuit et aussi dures que l’acier. </p> <p>Quand ils attaquent avec leurs griffes, les edeinos possédant cet Atout infligent des dommages égaux à <em>Force</em> +3, Pénétration d’armure 2. </p> <p>Utilisez @UUID[Compendium.te001-core-rulebook.Items.Item.Uv4DVpy4yvtNsoPX]{Griffes Mortelles (Attaque)}. </p><p> </p><p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.R7iwjAD49l0zullR]{Edeinos}, Esprit 10+</p>"
     },
     "Death Claw (Attack)": {
-      "name": "Death Claw (Attack)",
+      "name": "Griffes mortelles (Attaque)",
       "description": "<p>Attack for @UUID[Compendium.te001-core-rulebook.Items.Item.2ULXusUAoAw9iMDD]{Death Claw} Perk</p><p>When the black stone of the great volcanoes turns to liquid, the bravest of edeinos may undergo the <q>ritual of the death claw.</q> They do this only under the supervision of their optant, who prays to Lanala for life while the warrior attacks the molten stone with his claws, dipping, slashing, and punching until his hands burn brilliant orange. If he survives this ritual, his talons are forever after black as night and harder than steel.</p><p>Edeinos with the Death Claw Perk cause <em>Strength</em> +3 damage, Armor Piercing 2 when attacking with their claws.</p>",
       "chatNote": "",
       "notes": ""
@@ -943,9 +943,9 @@
       "notes": "Zone d'Effet Limitée, Fire"
     },
     "Demoniacal Frenzy": {
-      "name": "Demoniacal Frenzy",
-      "description": "<p>The dire nature of combat drives many souls to pure fury and rage, but warriors of Orrorsh can call on far darker forces if they wish.</p>\n<p>Once per act, an Orrorshan with this Perk may add +2 to his <em>melee</em> or <em>unarmed</em> attack totals for the remainder of a scene. At the end of the scene, the hero must make a @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.ZRbnaSxflluKpsJ4#the-law-of-eternal-corruption]{Corruption test}.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "None, The Gaunt Man eagerly awaits your descent into madness"
+      "name": "Frénésie démoniaque ★",
+      "description": "<p>La nature sanguinaire d’un combat pousse de nombreuses âmes à céder à la fureur et à la rage mais les guerriers d’Orrorsh peuvent en appeler à des puissances beaucoup plus sombres s’ils le désirent. </p> <p> Une fois par Acte, un orrorshien avec cet Atout peut ajouter +2 à son total d’attaque en Mêlée ou à Mains nues pour le reste de la Scène. À la fin de la Scène, le héros doit effectuer un @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.ZRbnaSxflluKpsJ4#la-loi-de-l'eternelle-corruption]{Test de Corruption}.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "Aucun, Le Décharné attend avec impatience que vous sombriez dans la folie."
     },
     "Detached Strategist": {
       "name": "Detached Strategist",
@@ -953,9 +953,9 @@
       "prerequisites": "<p>Beta Clearance, @UUID[Compendium.te001-core-rulebook.Items.Item.VolVbsElAMc8KiPt]{Situational Awareness}</p>"
     },
     "Detect Darkness": {
-      "name": "Detect Darkness",
-      "description": "<p>Once per scene, a radiant Storm Knight may make an opposed <em>Spirit</em> test against a chosen target. If the hero wins, he knows whether or not the target has any Darkness Perks. With a Good success he knows one Darkness Perk the target possesses (if any), and all of them with an Outstanding success.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.eQOBHyRFjaHJK1xv]{Radiant}</p>"
+      "name": "Détection des Ténèbres ★",
+      "description": "<p>Une fois par scène, un Chevalier des tempêtes Rayonnant peut effectuer un test d’<em>Esprit</em> en opposition contre la cible de son choix. Si le héros l’emporte, il sait si sa cible a ou non le moindre Atout des Ténèbres. Avec un succès Supérieur il connaît l’un des Atouts des Ténèbres de la cible (s’il en a) et, avec un succès Spectaculaire, tous les Atouts des ténèbres qu’elle possède. </p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.eQOBHyRFjaHJK1xv]{Rayonnant}</p>"
     },
     "Detect Magic": {
       "name": "Detect Magic",
@@ -967,9 +967,9 @@
       "range": "25 meters"
     },
     "Diabolist": {
-      "name": "Diabolist",
-      "description": "<p>Most Orrorshan sorcerers skirt the edges of the Abyss when they learn the arcane arts. Diabolists jump right into the inferno, entreating with demons, devils, and all manner of foul beings for additional power.</p>\n<p>Once per act, a Diabolist may add +5 to her next three magical skill totals. When the act ends or the final spell is resolved she must make a @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.ZRbnaSxflluKpsJ4#the-law-of-eternal-corruption]{Corruption test} at &ndash;2.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.veILcJaF0ucF9xAA]{Spellcaster}</p>"
+      "name": "Diaboliste ★",
+      "description": "<p> La plupart des ensorceleurs d’Orrorsh flirtent avec les Abysses quand ils apprennent à maîtriser les arts occultes. Les Diabolistes pactisent avec l’enfer en sollicitant les démons, les diables et toutes les entités les plus viles pour obtenir plus de pouvoirs. </p> \n <p> Une fois par Acte, un Diaboliste peut ajouter un bonus de +5 à ses trois prochains totaux de compétences magiques. Quand l’Acte se termine ou que le dernier sort est lancé, il doit effectuer un test de @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.ZRbnaSxflluKpsJ4#la-loi-de-l'eternelle-corruption]{Corruption} avec un malus de -2. </p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.veILcJaF0ucF9xAA]{Lanceur de sort}</p>"
     },
     "Diffrax Plate": {
       "name": "Armure Diffrax",
@@ -1028,32 +1028,46 @@
       "range": "25 meters"
     },
     "Double Tap": {
-      "name": "Double Tap",
-      "description": "<p>Anyone can fire two shots from a weapon, but a well-trained marksman can make that extra shot really count. The character gains the option of firing two bullets at a target and gain a +1 bonus to attack.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "At least 2 adds in energy weapons or fire combat"
+      "name": "Double Tir",
+      "description": "<p>Tout le monde peut tirer deux fois avec une arme&nbsp;mais un tireur d&rsquo;&eacute;lite bien entra&icirc;n&eacute; peut faire en sorte que ce second tir soit d&eacute;terminant. Le personnage a la possibilit&eacute; de tirer deux balles sur une cible et&nbsp;gagne un bonus de +1 pour attaquer.&nbsp;</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "Au moins 2 rangs dans Armes Énergétiques ou Armes à Feu."
     },
     "Dragon Breath": {
-      "name": "Dragon Breath",
-      "description": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.eItDWecF1ue7Hvp0]{Dragon Warrior}-Enhancement</p><p>One of the warrior’s bracers is lined with a long tube leading to a chamber of compressed fuel hidden on his back armor. When activated with missile weapons the tube spurts fire in a 10-meter-long stream as a @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.EhKa65cpHvodUl2L#explosives-and-area-effect-attacks]{Zone d'Effet Limitée}. Everything within the blast suffers 16 @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.EhKa65cpHvodUl2L#fire]{Fire damage}. The chamber holds enough fuel for three individual blasts. The container magically recharges at the end of the scene or during a long break in the action of a few hours or more (Game Master’s discretion).</p>",
+      "name": "Souffle du Dragon",
+      "description": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.eItDWecF1ue7Hvp0]{Guerrier Dragon}-Amélioration</p><p>le long d’un des poignets se trouve un long tube menant à un réservoir dans le dos de l’armure contenant un carburant sous pression. Quand il est activé avec Armes de jet, le tube crache une langue de feu de 10 mètres de long avec une @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.EhKa65cpHvodUl2L#explosifs-et-attaques-a-effets-de-zone]{Zone d'Effet Limitée}. Tout ce qui se trouve dans la zone d’effet subit 16 points de dommages de feu (voir @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.EhKa65cpHvodUl2L#feu]{Feu}). Le réservoir contient assez de liquide pour trois tirs. Le réservoir se recharge magiquement à la fin de la Scène ou au cours d’une longue pause d’au moins quelques heures (à la discrétion du MJ).</p>",
       "range": "10",
       "chatNote": "",
-      "notes": "Zone d'Effet Limitée, Fire"
+      "notes": "Zone d'Effet Limitée, Feu"
     },
     "Dragon Claws (Attack)": {
-      "name": "Dragon Claws (Attack)",
-      "description": "<p>Attack for @UUID[Compendium.te001-core-rulebook.Items.Item.eItDWecF1ue7Hvp0]{Dragon Warrior}-Enhancement</p><p>One of the gauntlets ends in a claw tipped with diamonds. The gauntlet uses unarmed combat to hit, and causes Strength +3, Armor Piercing 2 damage.</p>",
+      "name": "Griffes du Dragon (Attaque)",
+      "description": "<p>Attaque de l'@UUID[Compendium.te001-core-rulebook.Items.Item.eItDWecF1ue7Hvp0]{Armure du Dragon}-Amélioration</p><p>l'un des gantelets est dot&eacute; de griffes &agrave; pointes de diamant. Le gantelet s&rsquo;utilise avec la comp&eacute;tence <em>Combat &agrave; mains nues</em> pour toucher et il inflige des dommages &eacute;gaux &agrave; <em>Force</em> +3, P&eacute;n&eacute;tration d&rsquo;armure 2.</p>",
       "chatNote": "",
       "notes": ""
     },
     "Dragon Warrior": {
-      "name": "Dragon Warrior",
-      "description": "<p>Dragon Warriors are the last champions of the dwarves who were virtually annihilated in Aysle. As a final desperate measure, they built suits of powerful, arcane armor designed to slay Uthorion’s hated minions. Most knew they would perish in them.</p><p>@UUID[Compendium.te001-core-rulebook.Items.Item.kKfw6Od1PySvYsOs]{Dragon Warrior Armor} contains incredible weapons, gadgets, and devices that transform the wearer into an engine of vengeance. It counts as Full Body armor, adds Armor +4, limits the wearer’s Dexterity to 8, and causes two extra points of shock any time @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.EhKa65cpHvodUl2L#fatigued]{fatigued} comes up on the Conflict Line.</p><p>When Dragon Warrior is taken, the dwarf can choose one enhancement from the list below.</p><p><strong>New Enhancements:</strong> This Perk may be taken more than once. Each time after the first it grants another one of the enhancements listed below. Unless it says otherwise, each enhancement may only be taken once.</p><ul><li><p><strong>@UUID[Compendium.te001-core-rulebook.Items.Item.H50jH4U07o3VQPIP]{Dart Thrower}:</strong> A compartment on one of the dwarf’s forearms contains six deadly iron darts. Each dart deals 13 damage, range 10/20/40, may use a @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#short-burst]{Rafale Courte}, and uses <em>missile weapons</em> to hit<br />@UUID[Compendium.te001-core-rulebook.Items.Item.FMuEU14QIeJz3EG1]{Compartments} in the armor hold 12 additional darts. Any dwarf who has this Perk knows how to make more from metal scraps. Assume the weapon and ammunition compartment are replenished between acts or whenever the Game Master feels the wearer has sufficient time to do so.<br />A second dart thrower may be placed on the dwarf’s <span style=\"font-family:var(--font-primary)\"><em style=\"font-family:var(--font-primary);font-size:var(--font-size-14)\">other</em> arm by taking this enhancement a second time (as well as a second compartment).</span></p></li></ul><ul><li><strong>@UUID[Compendium.te001-core-rulebook.Items.Item.ai2XQyTQKULhkmVz]{Dragon Breath}:</strong> One of the warrior’s bracers is lined with a long tube leading to a chamber of compressed fuel hidden on his back armor. When activated with missile weapons the tube spurts fire in a 10-meter-long stream as a @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.EhKa65cpHvodUl2L#explosives-and-area-effect-attacks]{Zone d'Effet Limitée}. Everything within the blast suffers 16 @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.EhKa65cpHvodUl2L#fire]{Fire damage}. The chamber holds enough fuel for three individual blasts. The container magically recharges at the end of the scene or during a long break in the action of a few hours or more (Game Master’s discretion)</li><li><strong>@UUID[Compendium.te001-core-rulebook.Items.Item.Omp8wSKElAyzWbYA]{Dragon Claws}:</strong> One of the gauntlets ends in a claw tipped with diamonds. The gauntlet uses <em>unarmed combat</em> to hit, and causes <em>Strength</em> +3, Armor Piercing 2 damage.</li><li><strong>Dragon Scales:</strong> The armor is enchanted with magical runes that grant it +10 Armor versus fire (instead of +4).</li><li><strong>Giant Strength:</strong> A series of pneumatic compressors take in air and channel it to the dwarf’s arms. Along with cleverly placed levers along the inside of the armor, it increases his <em>Strength</em> by +2 for tests and determining damage. Toughness remains unaffected</li><li><strong>Mad Jacks:</strong> Cylinders of magically compressed gas are hidden in compartments of the dwarf’s heavy boots. When activated, gouts of fire propel her into the air, allowing her to jump up to 10 meters vertically and 30 meters horizontally. If used in conjunction with an All-Out attack, the dwarf gains an additional +2 to his action total. Mad Jacks magically recharge once every 24 hours</li><li><strong>Rune of Replenishment:</strong> The armor only deals one extra shock when Fatigue appears on the Conflict Line, and the wearer recovers an extra shock when Inspiration appears</li></ul><p> </p><p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.2AQ87OBFRFvaPeuX]{Dwarf}, Strength 10+</p>"
+      "name": "Guerrier dragon ★",
+      "description": "<p> Les Guerriers dragons sont les derniers champions nains qui ont été virtuellement annihilés à Aysle. Dans un ultime sursaut, ils ont conçu de puissantes armures ensorcelées destinées à détruire les sbires maudits d’Uthorion. La plupart savaient qu’elles seraient leur tombeau. </p> <p> @UUID[Compendium.te001-core-rulebook.Items.Item.kKfw6Od1PySvYsOs]{L'Armure du Guerrier Dragon} est dotée d’incroyables armes, gadgets et appareils qui transforment celui qui la revêt en machine de destruction. Elle compte comme une armure Intégrale et octroie un bonus de +4 en Armure, limite la Dextérité à 8, et inflige deux points de Choc supplémentaires à chaque phase de @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.EhKa65cpHvodUl2L#fatigues]{Fatigue} sur la Ligne de Conflit (voir @Compendium[te001-core-rulebook.regles.YHcQM30OGsiNdBpl]{Le paquet d'Action}). </p> <p> Quand l’Atout Guerrier dragon est choisi, le nain peut sélectionner une amélioration de la liste ci-dessous. </p> <p> <strong>Nouvelles améliorations </strong>: cet Atout peut être choisi plusieurs fois. À chaque fois il accorde une autre des améliorations indiquées ci-dessous. À moins que le contraire ne soit indiqué, chaque amélioration ne peut être choisie qu’une seule fois. </p> <ul> <li> <strong>Cylindres de saut</strong> : des cylindres contenant un gaz magiquement compressé sont cachés dans des compartiments à l’intérieur des lourdes bottes du nain. Quand il les active, le personnage est propulsé en l’air par des jets de flamme, ce qui lui permet d’effectuer un bond de 10 mètres verticalement et de 30 mètres horizontalement. Utilisés en conjonction avec Attaque totale, le nain gagne un bonus supplémentaire de +2 à son total d’action. Les propulseurs se rechargent magiquement au bout de 24 heures. </li> <li> <strong>Écailles de dragon</strong> : l’armure est enchantée avec des runes magiques qui lui confèrent un bonus de +10 contre le feu (au lieu de +4). </li> <li> <strong>Force de géant</strong> : une série de compresseurs pneumatiques transfèrent de l’air comprimé dans les bras du nain. En conjonction avec des mécanismes astucieusement placés à l’intérieur de l’armure, cette amélioration octroie à sa Force un bonus de +2 pour ses tests et pour déterminer les dommages. Sa Résistance n’est pas modifiée. </li> <li> <strong>@UUID[Compendium.te001-core-rulebook.Items.Item.Omp8wSKElAyzWbYA]{Griffes de dragon}</strong> : l'un des gantelets est doté de griffes à pointes de diamant. Le gantelet s’utilise avec la compétence <em>Combat à mains nues</em> pour toucher et il inflige des dommages égaux à <em>Force</em> +3, Pénétration d’armure 2. </li> <li><p> <strong>@UUID[Compendium.te001-core-rulebook.Items.Item.H50jH4U07o3VQPIP]{Lance-fléchettes}</strong> : un compartiment dans un des avant-bras de l’armure du nain contient six fléchettes en fer. Elles infligent 13 points de dommages, ont une portée de 10/20/40, permettent d’utiliser l’option @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#tir-en-rafale]{Rafale Courte} et nécessitent la compétence <em>Armes de jet</em> pour toucher.<br/> Des @UUID[Compendium.te001-core-rulebook.Items.Item.FMuEU14QIeJz3EG1]{Compartiments} dans l’armure contiennent 12 fléchettes supplémentaires. Tout nain doté de cet Atout sait fabriquer des fléchettes à partir de fragments métalliques. L’arme et les compartiments à munitions sont considérés comme à nouveau pleins au début de chaque nouvel Acte ou à chaque fois que le MJ estime que le personnage a suffisamment de temps pour le faire.<br/>Un second lance-fléchettes (et un autre compartiment) peut être installé sur le <span style=\"font-family: var(--font-primary)\" ><em style=\" font-family: var(--font-primary); font-size: var(--font-size-14); \" >second</em> avant-bras de l’armure en prenant une deuxième fois cette amélioration</span>.</p> </li> <li> <strong>Rune de récupération</strong> : l’armure n’inflige plus qu’un point de Choc supplémentaire lors d’une phase de Fatigue sur la Ligne de conflit et l’utilisateur récupère d’un point de Choc supplémentaire lors d’une phase Inspiration. </li> <li> <strong>@UUID[Compendium.te001-core-rulebook.Items.Item.ai2XQyTQKULhkmVz]{Souffle de dragon}</strong> : long d’un des poignets se trouve un long tube menant à un réservoir dans le dos de l’armure contenant un carburant sous pression. Quand il est activé avec Armes de jet, le tube crache une langue de feu de 10 mètres de long avec une @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.EhKa65cpHvodUl2L#explosifs-et-attaques-a-effets-de-zone]{Zone d'Effet Limitée}. Tout ce qui se trouve dans la zone d’effet subit 16 points de dommages de feu (voir @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.EhKa65cpHvodUl2L#feu]{Feu}). Le réservoir contient assez de liquide pour trois tirs. Le réservoir se recharge magiquement à la fin de la Scène ou au cours d’une longue pause d’au moins quelques heures (à la discrétion du MJ). </li> </ul><p> </p><p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.2AQ87OBFRFvaPeuX]{Nain}, Force 10+</p>",
+      "enhancement01description": "Des cylindres contenant un gaz magiquement compressé sont cachés dans\ndes compartiments à l’intérieur des lourdes bottes du nain. Quand il les active, le personnage est propulsé en l’air par des jets de flamme, ce\nqui lui permet d’effectuer un bond de 10 mètres verticalement et de 30 mètres horizontalement.\nUtilisés en conjonction avec Attaque totale, le nain gagne un bonus supplémentaire de +2 à son total d’action. Les propulseurs se rechargent\nmagiquement au bout de 24 heures.",
+      "enhancement01title": "Cylindres de saut",
+      "enhancement02description": "L’armure est enchantée avec des runes magiques qui lui confèrent un bonus de +10 contre le feu (au lieu de +4).",
+      "enhancement02title": "Écailles de dragon",
+      "enhancement03description": "Une série de compresseurs pneumatiques transfèrent de l’air comprimé\ndans les bras du nain. En conjonction avec des mécanismes astucieusement placés à l’intérieur de l’armure, cette amélioration octroie à sa Force un bonus de +2 pour ses tests et pour déterminer les dommages. Sa Résistance n’est pas modifiée.",
+      "enhancement03title": "Force de géant",
+      "enhancement04title": "Griffes de dragon",
+      "enhancement04description": "Un des gantelets est doté de griffes à pointes de diamant. Le gantelet s’utilise avec la compétence Combat à mains nues pour toucher et il inflige des dommages égaux à Force +3, Pénétration d’armure 2.",
+      "enhancement05title": "Lance-fléchettes",
+      "enhancement05description": "Un compartiment dans un des avant-bras de l’armure du nain contient six fléchettes en fer. Elles infligent 13 points de dommages, ont une portée de 10/20/40, permettent d’utiliser l’option Rafale courte (voir Tir en rafale, page 126) et nécessitent la compétence Armes de jet pour toucher.\nDes compartiments dans l’armure contiennent 12 fléchettes supplémentaires. Tout nain doté de cet Atout sait fabriquer des fléchettes à partir de fragments métalliques. L’arme et les compartiments à munitions sont considérés comme à nouveau pleins au début de chaque nouvel Acte ou à chaque fois que le MJ estime que le personnage a suffisamment de temps pour le faire.\nUn second lance-fléchettes (et un autre compartiment) peut être installé sur le second avant-bras de l’armure en prenant une deuxième fois cette amélioration.",
+      "enhancement06title": "Rune de récupération",
+      "enhancement06description": "L’armure n’inflige plus qu’un point de Choc supplémentaire lors d’une phase de Fatigue sur la Ligne de conflit et l’utilisateur récupère d’un point de Choc supplémentaire lors d’une phase Inspiration.",
+      "enhancement07title": "Souffle de dragon",
+      "enhancement07description": "Le long d’un des poignets se trouve un long tube menant à un réservoir dans le dos de l’armure contenant un carburant sous pression. Quand il est activé avec Armes de jet, le tube crache une langue de feu de 10 mètres de long avec une Zone d’effet limitée (voir Zones d’effet page 124). Tout ce qui se trouve dans la zone d’effet subit 16 points de dommages de feu (voir page 136). Le réservoir contient assez de liquide pour trois tirs.\nLe réservoir se recharge magiquement à la fin de la Scène ou au cours d’une longue pause d’au moins quelques heures (à la discrétion du MJ)."
     },
     "Dragon Warrior Armor": {
-      "name": "Dragon Warrior Armor",
-      "description": "<p>Provided by @UUID[Compendium.te001-core-rulebook.Items.Item.eItDWecF1ue7Hvp0]{Dragon Warrior} Perk</p><p>@UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#fatigue-:]{Fatigue}</p><p>@UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#integrale/torse-:]{Intégrale/Torse}</p>",
-      "notes": "Fatigues, Full Body"
+      "name": "Armure du Guerrier Dragon",
+      "description": "<p>Fournit par l'Atout @UUID[Compendium.te001-core-rulebook.Items.Item.eItDWecF1ue7Hvp0]{Guerrier Dragon}</p><p>@UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#fatigue-:]{Fatigue}</p><p>@UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#integrale/torse-:]{Intégrale}</p>",
+      "notes": "Fatigues, Intégrale."
     },
     "Dread": {
       "name": "Dread",
@@ -1492,9 +1506,17 @@
       "notes": "Zone d'effet"
     },
     "Electro-Ray": {
-      "name": "Electro-Ray",
-      "description": "<p>The hero can fire a powerful bolt of electricity at a target. It has a maximum range of 10/25/50 meters and causes 13 damage. The ray contains five shots, and regenerates one shot each round. Attacking with the Ray uses <em>energy weapons</em>.</p>\n<p><strong>Dangerous When Wet:</strong> Increase the damage by +2 in light rain or if the target is standing in a puddle, and +4 in heavy rain or if the target is in water up to his ankles or higher.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": ""
+      "name": "Électro-rayon ★",
+      "description": "<p> Le héros peut projeter un puissant rayon électrique. Il attaque avec sa compétence Armes à énergie ou son attribut Dextérité et inflige 13 points de dommages. Le rayon a une portée de 10/25/50, Munitions 5 et régénère une charge par round. </p> <p> <strong>Dangereux en cas d’humidité</strong> : Augmente les dommages de +2 quand il pleut légèrement ou si la cible se tient les pieds dans l’eau et de +4 quand il pleut à verse ou si la cible a de l’eau au moins jusqu’aux chevilles. </p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "",
+      "enhancement01description": "Les dommages sont augmentés à 15.",
+      "enhancement01title": "Dommages",
+      "enhancement02description": "Le personnage peut utiliser l’option Rafale courte avec son Électro-rayon.",
+      "enhancement02title": "Tir en rafale",
+      "enhancement03description": "Le pouvoir dispose de 10 Munitions.",
+      "enhancement03title": "Munitions",
+      "enhancement04title": "Zone d’effet limitée",
+      "enhancement04description": "Le rayon affecte toutes les cibles dans une Zone d’effet limitée."
     },
     "Electromagnetic Pulse": {
       "name": "Electromagnetic Pulse",
@@ -1922,12 +1944,12 @@
     },
     "Elven Sorcerer": {
       "name": "Elven Sorcerer",
-      "description": "<p>Elven sorcerers are some of the most powerful spellcasters of any cosm. Their long lives, natural affinity with magical energy, and ability to understand and memorize complex patterns make them natural spellcasters.</p>\n<p>When an Elven Sorcerer fails to cast a spell, he suffers 1 less shock. This can reduce shock loss to 0 if the elf also has the @UUID[Compendium.te001-core-rulebook.Items.mWp0oQ57yp11lN9o]{Resilient} Perk.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.ntqopmBBhU5nzwGn]{Elf}, @UUID[Compendium.te001-core-rulebook.Items.Item.veILcJaF0ucF9xAA]{Spellcaster}</p>"
+      "description": "<p>Les Ensorceleurs elfes font partie des plus puissants lanceurs de sorts de tous les cosms. Leur longue vie, leur affinité naturelle avec l’énergie de la magie et leur capacité à comprendre et à mémoriser des schémas complexes en font des lanceurs de sorts innés. </p> \n <p> Quand un Ensorceleur elfe rate un sort, il subit 1 point de Choc en moins. Cela peut réduire la perte de Choc à 0 si l’elfe possède également l’Atout @UUID[Compendium.te001-core-rulebook.Items.mWp0oQ57yp11lN9o]{Résistant}.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.ntqopmBBhU5nzwGn]{Elfe}, @UUID[Compendium.te001-core-rulebook.Items.Item.veILcJaF0ucF9xAA]{Lanceur de sorts}</p>"
     },
     "Endurance": {
       "name": "Endurance",
-      "description": "<p>This Storm Knight doesn’t know how to quit. His shock limit increases by +2.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "description": "<p>Le Chevalier des temp&ecirc;tes r&eacute;siste plus longtemps. Sa limite de Choc est augment&eacute;e de +2.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
       "prerequisites": ""
     },
     "Energize": {
@@ -2038,9 +2060,15 @@
       "description": "<p>Aquired by @UUID[Compendium.te001-core-rulebook.Items.Item.ivpiVwIlV7hyK8DJ]{Flechette}</p><p>First available at Tech 24. Flechette rounds are designed to defeat standard ballistic armor such as Kevlar. A flechette shell is tightly packed with slivers of metal that go through soft armor like a needle through cloth. They are much less effective against hard armor, however.</p><p>Flechettes ignore 3 points of <q>soft</q> armor such as leather, IriMesh, or stab vests. Unfortunately flechette rounds don’t ignore any points of <q>hard</q> armor—such as Armor of God, Kanawa security armor, or plate mail—at all.</p>"
     },
     "Flight": {
-      "name": "Flight",
-      "description": "<p>The caped crusader can fly! She can soar into the clouds, over the oceans, or across the burning sands without ever touching the ground.</p>\n<p>The hero may fly up to her walking speed. She may <q>rush</q> up to 8&times; that speed but incurs a &ndash;2 penalty to any other actions performed during her turn. She uses <em>Dexterity</em> to maneuver.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": ""
+      "name": "Vol ★",
+      "description": "<p> Le justicier masqué peut voler ! Il peut survoler les nuages, les océans ou les déserts brûlants sans toucher terre. </p> <p> Le héros peut se déplacer à une vitesse égale à son allure de marche. Il peut accélérer à 8x cette vitesse mais subit un malus de -2 à toute autre action effectuée au cours du tour. Il utilise sa <em>Dextérité</em> pour manœuvrer. </p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "",
+      "enhancement01description": "En volant, le héros modifie toujours sa position. Tant qu’il vole, qu’il a de la place pour manœuvrer et qu’il n’est pas Pris au dépourvu, les attaques à distance contre lui subissent un malus de -2.",
+      "enhancement01title": "Acrobaties aériennes",
+      "enhancement02description": "Le héros ne subit aucun malus Vitesse : le héros peut voler à une vitesse de 150 mètres par round (Valeur 11).",
+      "enhancement02title": "Contrôle",
+      "enhancement03description": "Le héros peut voler à une vitesse de 150 mètres par round (Valeur 11).",
+      "enhancement03title": "Vitesse"
     },
     "Flight (Special Ability)": {
       "name": "Flight (Special Ability)",
@@ -2217,9 +2245,9 @@
       "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.ntqopmBBhU5nzwGn]{Elf}</p>"
     },
     "Grant Possibilities": {
-      "name": "Grant Possibilities",
-      "description": "<p>Storm Knights cannot normally give others their Possibilities, but those with this Perk can! Granting a Possibiilty is a free action that can be done at any time. The character must be in verbal or visual contact with the recipient somehow, but can otherwise cross any distance or barrier (except an invoked reality storm&mdash;see @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.0dDSfvtyUrMthBzv#invoked-storms]{Invoked Storms}).</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "Charisma 8+"
+      "name": "Transfert de Possibilités",
+      "description": "<p> Normalement, les Chevaliers des tempêtes ne peuvent donner leurs Possibilités à des alliés mais, avec cet Atout, c’est possible ! Transférer une Possibilité est une action gratuite qui peut être effectuée n’importe quand. Le personnage doit être d’une manière ou d’une autre en contact visuel ou verbal avec le bénéficiaire quelle que soit la distance et quels que soient les obstacles entre eux (à l’exception d’une tempête de réalité invoquée, voir @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.0dDSfvtyUrMthBzv#invoquer-des-tempetes]{Les tempêtes de Réalité}). </p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "Charisme 8+"
     },
     "Grapeshot Rechargements": {
       "name": "Grapeshot Rechargements",
@@ -2261,9 +2289,9 @@
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Hard to Kill": {
-      "name": "Hard to Kill",
-      "description": "<p>The warrior’s wound limit increases by +1.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "At least two other Prowess Perks"
+      "name": "Dur à cuire",
+      "description": "<p>La limite de Blessures du combattant est augment&eacute;e de +1.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "Au moins 2 autres Atouts de Prouesse. "
     },
     "HardPlas Arm": {
       "name": "HardPlas Arm",
@@ -2478,8 +2506,8 @@
       "range": "self"
     },
     "Indomitable": {
-      "name": "Indomitable",
-      "description": "<p>When the character attempts an @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.EhKa65cpHvodUl2L#active-defense]{Active Defense} the test is Favored.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "name": "Indomptable",
+      "description": "<p>Quand un personnage tente une @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.EhKa65cpHvodUl2L#defense-active]{D&eacute;fense active}, son test est Favoris&eacute;.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
       "prerequisites": ""
     },
     "Inflatable Raft": {
@@ -2514,13 +2542,23 @@
     },
     "Ion Gusoku": {
       "name": "Ion Gusoku",
-      "description": "<p>The distinctive armor of the Electric Samurai is the Ion Gusoku. The first suits were adapted from the armor worn by Kanawa’s elite security forces, but many adaptations and improvements were added as the samurai reverse-engineered Kanawa’s technology.</p><p>The @UUID[Compendium.te001-core-rulebook.Items.Item.NlvMMLc98zfTyvF1]{Ion Gusoku Armor} itself is highly advanced and built specifically for the samurai intended to wear it. A bio-scan lock shuts down functions and seizes up when anyone else puts it on. It limits its wearer’s Dexterity to 10, is Tech Axiom 24, provides +4 Full Body Armor, and causes Fatigue.</p><p><strong>New Enhancements:</strong> This Perk may be taken more than once. Each additional Perk enhances the armor with one of the systems below. Unless it says otherwise, each enhancement may only be taken once.</p><ul><li><strong>Chameleon Plates:</strong> The entire outer layer of the gusoku is covered in sensors and LEDs that shift color and brightness to mimic the surrounding area when the samurai stands still. So long as she remains completely still (no actions or movement) she is effectively invisible, and opponents suffer a –6 penalty on attempts to find her or hit her with ranged attacks.</li><li><strong>Flash Burst:</strong> Once per scene the armor may unleash a blinding flash of light as a free action. The light momentarily dazzles individuals within a Medium Zone d'effet around the character, rendering each Very Stymied.</li><li><strong>Kabuto HUD:</strong> The armor’s helmet features an integrated display that removes the first two points of penalties from the samurai’s ranged attacks.</li><li><strong>Lightning Sheath:</strong> Electric samurai quickly learned the dangers of being overwhelmed by hordes of infected or the jiangshi’s deadly grappling attack. Once a scene, the armor may discharge an electric blast as a free action, causing 12 damage +1BD to anything touching the armor. Anything grabbing the samurai automatically releases its hold.</li><li><strong>Ultra-Light Alloys:</strong> The armor’s low weight and perfect fit combine to eliminate the suit’s Fatigue penalty.</li></ul><p>Updated Version found as @UUID[Compendium.te016-pan-pacifica.pan-pacifica-items.Item.wnP65CbIbDTIr9vH]{Power Suit} in Pan-Pacifica Sourcebook Module.</p>",
-      "prerequisites": "Spirit 8+, at least two adds in melee weapons"
+      "description": "<p> L’armure caractéristique des Samouraïs électriques est la Gusoku ionique. Les premières tenues ont été conçues à partir des armures portées par les forces de sécurité d’élite de Kanawa mais les samouraïs les ont améliorées au fur et à mesure qu’ils parvenaient à comprendre la technologie employée par Kanawa.  </p> <p> L'@UUID[Compendium.te001-core-rulebook.Items.Item.NlvMMLc98zfTyvF1]{Armure Ion Gusoku} en elle-même est très moderne et conçue spécifiquement pour le samouraï qui est censé la porter. Si quelqu’un d’autre l’utilise, un verrouillage biométrique désactive ses fonctions et retient prisonnier le voleur. Elle limite à 10 la Dextérité de son porteur, possède un Axiome Technologie de 24, octroie un bonus de +4 d’armure Intégrale et provoque de la Fatigue. </p> <p> <strong>Nouvelles améliorations</strong> : cet Atout peut être choisi plus d’une fois. Chaque Atout supplémentaire améliore l’armure avec un des systèmes ci-dessous. À moins que le contraire ne soit indiqué, chaque amélioration ne peut être choisie qu’une seule fois.  </p> <ul> <li> <strong>Alliage ultra-léger</strong> : la légèreté de l’armure et son ajustement parfait permettent d’éliminer le malus de Fatigue. </li> <li> <strong>Flash aveuglant</strong> : une fois par Scène, l’armure peut émettre un flash de lumière aveuglante avec une action gratuite. Le flash aveugle momentanément ceux qui se trouvent dans une Zone d’effet moyenne autour du personnage et ils sont considérés comme Très déstabilisés. </li> <li> <strong>Kabuto VTH</strong> : le casque de l’armure est équipé d’un affichage tête haute intégré qui annule les deux premiers points de malus des attaques à distance du samouraï. </li> <li> <strong>Revêtement caméléon</strong> : la surface extérieure de la Gusoku est couverte de senseurs et de LED qui peuvent changer de couleur et de luminosité afin d’imiter leur environnement quand le samouraï est immobile. Tant qu’il demeure totalement immobile (aucune action ni déplacement), il est quasi-invisible et ses adversaires ont un malus de -6 pour le voir avec un test d’Observation ou pour le toucher avec des attaques à distance. </li> <li> <strong>Revêtement foudroyant</strong> : les samouraïs électriques ont rapidement compris le danger de l’attaque mortelle de saisie des jiangshis ou celui de se retrouver submergés par les hordes d’infectés. Une fois par scène, avec une action gratuite, l’armure peut libérer une puissante décharge électrique qui inflige 12 points de dommages +1 DB à tout ce qui est en contact avec elle. Toute créature ayant saisi le samouraï lâche immédiatement prise. </li> \n </ul><p>Mise à Jour en @UUID[Compendium.te016-pan-pacifica.pan-pacifica-items.Item.wnP65CbIbDTIr9vH]{Power Suit} présent dans Pan-Pacifica Sourcebook Module.</p>",
+      "prerequisites": "Esprit 8+, Au moins 2 rangs dans Armes de mêlée.",
+      "enhancement01description": "La l&eacute;g&egrave;ret&eacute; de l&rsquo;armure et son ajustement parfait permettent d&rsquo;&eacute;liminer le malus de Fatigue.",
+      "enhancement01title": "Alliage ultra-l&eacute;ger",
+      "enhancement02description": "Une fois par Sc&egrave;ne, l&rsquo;armure peut &eacute;mettre un flash de lumi&egrave;re aveuglante avec une action gratuite. Le flash aveugle momentan&eacute;ment ceux qui se trouvent dans une Zone d&rsquo;effet moyenne autour du personnage et ils sont consid&eacute;r&eacute;s comme Tr&egrave;s d&eacute;stabilis&eacute;s.",
+      "enhancement02title": "Flash aveuglant",
+      "enhancement03description": "Le casque de l&rsquo;armure est &eacute;quip&eacute; d&rsquo;un affichage t&ecirc;te haute int&eacute;gr&eacute; qui annule les deux premiers points de malus des attaques &agrave; distance du samoura&iuml;.",
+      "enhancement03title": "Kabuto VTH",
+      "enhancement04title": "Rev&ecirc;tement cam&eacute;l&eacute;on",
+      "enhancement04description": "La surface ext&eacute;rieure de la Gusoku est couverte de senseurs et de LED qui peuvent changer de couleur et de luminosit&eacute; afin d&rsquo;imiter leur environnement quand le samoura&iuml; est immobile. Tant qu&rsquo;il demeure totalement immobile (aucune action ni d&eacute;placement), il est quasi-invisible et ses adversaires ont un malus de&nbsp;-6 pour le voir avec un test d&rsquo;Observation ou pour le toucher avec des attaques &agrave; distance.",
+      "enhancement05title": "Rev&ecirc;tement foudroyant",
+      "enhancement05description": "Les samoura&iuml;s &eacute;lectriques ont rapidement compris le danger de l&rsquo;attaque mortelle de saisie des jiangshis ou celui de se retrouver submerg&eacute;s par les hordes d&rsquo;infect&eacute;s. Une fois par sc&egrave;ne, avec une action gratuite, l&rsquo;armure peut lib&eacute;rer une puissante d&eacute;charge &eacute;lectrique qui inflige 12 points de dommages +1 DB &agrave; tout ce qui est en contact avec elle. Toute cr&eacute;ature ayant saisi le samoura&iuml; l&acirc;che imm&eacute;diatement prise."
     },
     "Ion Gusoku Armor": {
-      "name": "Ion Gusoku Armor",
-      "description": "<p>Provided by @UUID[Compendium.te001-core-rulebook.Items.Item.vW54lUFBIwEtpPKL]{Ion Gusoku} Perk</p>\n<p>@UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#fatigue-:]{Fatigue}</p>\n<p>@UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#integrale/torse-:]{Intégrale/Torse}</p>",
-      "notes": "Fatigues, Full Body"
+      "name": "Armure Ion Gusoku",
+      "description": "<p>Fournit par l'Atout @UUID[Compendium.te001-core-rulebook.Items.Item.vW54lUFBIwEtpPKL]{Ion Gusoku}</p>\n<p>@UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#fatigue-:]{Fatigue}</p>\n<p>@UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#integrale/torse-:]{Intégrale}</p>",
+      "notes": "Fatigue, Intégrale."
     },
     "Ion Shuriken": {
       "name": "Shuriken ionisé",
@@ -2539,9 +2577,9 @@
       "description": "<p>From @UUID[Compendium.te001-core-rulebook.Items.Item.XEGw7i8Qw7GfFkFp]{Alchemy} Perk</p><p>While priests’ blessings are the preferred method of allowing Victorian soldiers to affect the ethereal horrors of their world, alchemists have developed an oil of their own as well. As an action, an application can coat a sword, three knives, arrows, or bolts, a single cannonball, or up to six bullets. The weapons or projectiles can then harm creatures with the Ethereal Special Ability for the duration of the scene. The magical effects wear off quickly, so items may not be sheened and stored.</p>"
     },
     "Iron Will": {
-      "name": "Iron Will",
-      "description": "<p><strong>Cosms:</strong> Core Earth, Pan-Pacifica, Tharkold</p>\n<p>This mentalist has learned to defend herself against rival psionicists. Psionic attacks against her suffer a &minus;2 penalty.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.4ZtIS4h8WRGarKIV]{Psionic}</p><p></p>"
+      "name": "Volonté de fer",
+      "description": "<p><strong>Cosms:</strong> Terre Prime, Pan-Pacifica, Tharkold</p><p>Le mentaliste a appris &agrave; se d&eacute;fendre contre des adversaires psioniques. Les attaques psioniques contre lui subissent un malus de -2.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.4ZtIS4h8WRGarKIV]{Psionique}</p><p></p>"
     },
     "Jewelry": {
       "name": "Jewelry",
@@ -2563,9 +2601,9 @@
       "notes": ""
     },
     "Ki Strike": {
-      "name": "Ki Strike",
-      "description": "<p>The warrior can focus her ki energy into a devastating blow. After generating a melee damage total (<em>melee weapons</em> or <em>unarmed combat</em>), she may take one shock to increase the final amount by +2.</p><p>Also found as @UUID[Compendium.te016-pan-pacifica.pan-pacifica-items.Item.ipvhI8u2trHgxRm0]{Breath Strike} in Pan-Pacifica Sourcebook Module.</p>",
-      "prerequisites": "Spirit 8+, at least three adds in melee weapons or unarmed combat"
+      "name": "Frappe de Ki ★",
+      "description": "<p>Le combattant peut focaliser son &eacute;nergie Ki en une frappe d&eacute;vastatrice. Apr&egrave;s avoir calcul&eacute; le total de dommages d&rsquo;une attaque de m&ecirc;l&eacute;e (<em>Armes de m&ecirc;l&eacute;e</em> ou <em>Combat &agrave; mains nues</em>), le h&eacute;ros peut subir un point de Choc pour augmenter ce total de +2.</p><p>Also found as @UUID[Compendium.te016-pan-pacifica.pan-pacifica-items.Item.ipvhI8u2trHgxRm0]{Breath Strike} in Pan-Pacifica Sourcebook Module.</p>",
+      "prerequisites": "Esprit 8+, Au moins 3 rangs dans Armes de mêlée ou Combat à mains nues."
     },
     "Killshot": {
       "name": "Killshot",
@@ -2596,9 +2634,9 @@
       "description": "<p>First available at Tech 23. A small laser is fitted to the barrel of the firearm and projects a red dot onto targets that indicates to the firer where the weapon is actually aimed. At higher Tech Axioms, a laser sight is often built into the weapon as a standard feature.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Lay on Hands": {
-      "name": "Lay on Hands",
-      "description": "<p><strong>Cosms:</strong> Core Earth, Aysle, Cyberpapacy, Living Land, Nile Empire, Orrorsh</p>\n<p>Those touched by divine forces bring relief to those in pain. By touching an ally and making a <em>faith</em> test as an action (&minus;2 if the ally is of a different faith), a character removes 1 point of shock with a Standard success, 2 with a Good success, and 3 for an Outstanding success.</p>\n<p>This may only be done once per character per scene. It may not be used on the chosen herself. Using this Perk causes a Contradiction if the local Spirit Axiom isn&rsquo;t 8 or higher.</p>\n<p>Unconscious characters restored in this way wake up immediately and may act that turn, though Stymied.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "At least three adds in faith"
+      "name": "Imposition des mains",
+      "description": "<p><strong>Cosms:</strong> Terre Prime, Aysle, Cyberpapauté, Terre Vivante, Empire du Nil, Orrorsh. </p> <p> Les élus des puissances divines peuvent apaiser la douleur de ceux qui souffrent. En touchant un allié et en effectuant en tant qu’action un test de <em>Foi</em> (-2 si l’allié est d’une religion différente), un personnage peut retirer 1 point de Choc avec un succès Simple, 2 avec un succès Supérieur et 3 avec un succès Spectaculaire. </p> <p> Cela ne peut être fait qu’une seule fois par personnage par Scène. L’élu ne peut utiliser ce pouvoir sur lui-même. Utiliser cet Atout provoque une Contradiction si l’Axiome Spirituel local n’est pas d’au moins 8. </p> <p> Les personnages inconscients soignés de cette manière se réveillent immédiatement et peuvent agir au cours de ce tour mais ils sont Déstabilisés. </p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "Au moins 3 rangs en Foi."
     },
     "Lead from the Front": {
       "name": "Lead from the Front",
@@ -2652,9 +2690,9 @@
       "range": "100 meters"
     },
     "Linguist": {
-      "name": "Linguist",
-      "description": "<p>Given a brief conversation with native speakers, study of written words, etc., the character can speak, read, and write basic concepts in a language he has no skill adds in. This isn’t as comprehensive as having an actual add in the relevant <em>language</em>, but it should be enough to help the translator and his party speak and negotiate with the locals.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "Mind 8+"
+      "name": "Linguiste",
+      "description": "<p> Après une courte conversation avec des natifs, après avoir étudié des textes, etc., le personnage peut parler, lire et écrire des concepts de base dans une langue pour laquelle il n’a aucun rang de compétence. La conversation n’en devient pas aussi compréhensible que si le héros avait des rangs dans cette <em>langue</em>, mais cela devrait suffire pour l’aider, lui et son groupe, à se faire comprendre et à négocier avec des locaux. </p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "Raison 8+"
     },
     "Lock Picks": {
       "name": "Lock Picks",
@@ -2767,9 +2805,9 @@
       "range": "50 meters"
     },
     "Magic Resistance": {
-      "name": "Magic Resistance",
-      "description": "<p>Though many Outsiders embrace and use magic themselves, some reject it and eventually become resistant. Magical spells suffer a –2 penalty when cast against a character with Magic Resistance. This includes friendly spells as well! Miracles and psionic powers are unaffected by this Perk.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "The character may not have the Spellcaster Perk"
+      "name": "Résistance à la magie",
+      "description": "<p>Bien que de nombreux Parias utilisent la magie, certains la rejettent et d&eacute;veloppent une r&eacute;sistance &agrave; ses effets. Les sorts ont un malus de -2 quand ils sont lanc&eacute;s contre un personnage ayant une R&eacute;sistance &agrave; la magie. Cela concerne &eacute;galement les sorts b&eacute;n&eacute;fiques lanc&eacute;s par des alli&eacute;s ! Les Miracles et les pouvoirs psioniques ne sont pas affect&eacute;s par cet Atout.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "Ne peut pas posséder l'Atout Lanceur de Sorts."
     },
     "Magical Affinity (Elf)": {
       "name": "Magical Affinity (Elf)",
@@ -2777,9 +2815,9 @@
       "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.ntqopmBBhU5nzwGn]{Elf}</p>"
     },
     "Magister": {
-      "name": "Magister",
-      "description": "<p><strong>Cosms:</strong> Aysle, Core Earth, Cyberpapacy, Nile Empire, Orrorsh, Tharkold</p>\n<p>The spellcaster has reached a level of mastery where she can cast two different spells in the same turn as part of a @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.EhKa65cpHvodUl2L#multi-actions]{Multi-Action}. She may also use the same skill when doing so. Casting two different spells requires two empty hands.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "Spellcaster, knowledge of at least 5 spells"
+      "name": "Magistère",
+      "description": "<p><strong>Cosms:</strong> Aysle, Terre Prime, Cyberpapauté, Empire du Nil, Orrorsh, Tharkold. </p> <p> Le lanceur de sorts a atteint un niveau de maîtrise qui lui permet de lancer deux sorts différents durant le même tour en tant qu’@UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.EhKa65cpHvodUl2L#actions-multiples]{Actions multiples}. Il peut aussi utiliser la même compétence quand il le fait. Lancer deux sorts différents nécessite deux mains libres. </p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "Lanceur de sorts, connaitre au moins 5 sorts différents."
     },
     "Maremont M60": {
       "name": "Saco M60",
@@ -2789,9 +2827,9 @@
       "notes": "Rafale Longue, Encombrant"
     },
     "Mastery": {
-      "name": "Mastery",
-      "description": "<p>Player character Storm Knights cannot normally increase their skill adds to more than +5. But some are adept at very specific skills, such as a world class marksman, a top computer hacker, or a master swordsman.</p><p>The Mastery Perk allows your hero to increase any one skill beyond +5 adds to a maximum of +8. Skill adds are still purchased with Experience Points—the Perk simply allows you to do so.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "5 adds in the chosen skill"
+      "name": "Maîtrise",
+      "description": "<p>Les PJ Chevaliers des temp&ecirc;tes ne peuvent normalement pas d&eacute;passer le rang +5 dans une comp&eacute;tence. Mais certains se sp&eacute;cialisent dans des comp&eacute;tences tr&egrave;s pr&eacute;cises pour devenir, par exemple, des tireurs d&rsquo;&eacute;lite de niveau mondial, des pirates informatiques r&eacute;put&eacute;s ou des ma&icirc;tres &eacute;p&eacute;istes.</p>\n<p>L&rsquo;Atout Ma&icirc;trise permet &agrave; votre h&eacute;ros de progresser dans une comp&eacute;tence au-del&agrave; de la limite de +5 jusqu&rsquo;&agrave; un maximum de +8. La comp&eacute;tence est toujours achet&eacute;e avec des points d&rsquo;exp&eacute;rience, l&rsquo;Atout vous permet simplement de le faire.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "5 rangs dans la compétence choisie."
     },
     "Mauser Pistol": {
       "name": "Pistolet Mauser",
@@ -2801,9 +2839,29 @@
       "notes": ""
     },
     "Medals": {
-      "name": "Medals",
-      "description": "<p>Victorians are status conscious, and few are held in higher esteem than their heroes. The Victorians show this regard by awarding medals to the brave, the ingenious, and the intrepid. Sometimes the medals become imbued with their intent and aid the recipient in their quest to save Gaea.</p><p><strong>New Medals:</strong> This Perk may be taken as desired during character creation. Afterwards, it may be taken multiple times, but only after completing the event described in the individual awards. The Dragon Slayer, for example, is awarded only after dealing the final blow to a huge monster.</p><p>Medals don’t arrive instantly, of course, but may be delivered by courier after the Home Office receives dispatches testifying to the deed, a loved one receives letters, or the press announces it to the world. The Delphi Council understands the mystical nature of these awards, however, and assists the Victorians in delivering them when possible. Work with the Game Master to figure out the timing of the medal itself, but it should generally occur no later than the act after it was earned. The Perk may be purchased once the medal itself is in hand.</p><p>A medal must be awarded <em>and</em> worn to grant its power. They grant no bonuses to others.</p><p>Medals may be awarded to outsiders from other cosms, but only have powers for those of Orrorsh’s reality.</p><p>Unless an award says otherwise, it is never granted more than once.</p><ul><li><strong>Carnifex Princeps:</strong> The Victorians know exactly who the Gaunt Man is. This award is granted to anyone who takes part in the killing of a ravagon, his fiercest lieutenants. The hero draws and adds an additional card to his hand at the start of any Dramatic Scene.</li><li><strong>Defender:</strong> Awarded to those who rescue or defend a significant number of people, such as a school or town, at great personal risk. The hero starts each act with one additional @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.kYP18QiA72P6PlUi#possibilities]{Possibility}.</li><li><strong>Dragon Slayer:</strong> Awarded to those who defeat a very large and powerful monster. The character adds +1 BD to all damage totals against all Large or greater-sized creatures (not vehicles or constructs) when Attack is an Approved Action.</li><li><p><strong>Order of Cynthia Bartholomew:</strong> Awarded for helping the injured or poor under great threat or for an extended period. <q>Ms. Bart,</q> as the poor called her, was a Victorian humanitarian who always helped the poor and downtrodden. Once per act, the recipient can touch an ally to remove all shock. This is a simple action.</p></li><li><strong>Victoria Gloriana:</strong> Awarded after personally playing a Glory card. This prestigious award is only granted to the country’s greatest heroes. The medal grants a +1 bonus to any one attribute and its linked skills, chosen when the medal is awarded. Note that if the medal is worn and the attribute or linked skill is used, it does cause a Contradiction.</li><li><strong>Possibility Wars Campaign Medal:</strong> Awarded to any Storm Knight who participates in a Glory event. The medal is awarded per cosm, and may be used once per act to restore 1 BD of shock. This does not require an action and may be used at any time.</li></ul><p>@UUID[Compendium.te014-orrorsh.orrorsh-items.Item.83Fkt5fWbPZkcNq3]{Expanded Version} Présent dans Orrorsh Sourcebook Module</p>",
-      "prerequisites": "See the individual medals"
+      "name": "Médailles ★",
+      "description": "<p>Les Victoriens sont très attachés au statut et peu sont considérés avec autant d’estime que leurs héros. Les Victoriens témoignent de cette estime en accordant des médailles aux braves, aux ingénieux et aux intrépides. Parfois, ces médailles s’imprègnent de la nature même de l’acte récompensé et aident le bénéficiaire dans sa quête pour sauver Gaéa. </p> <p> <strong>Nouvelles médailles</strong> : cet Atout peut être choisi autant de fois que souhaité au cours de la création de personnage. Après, il peut être choisi plusieurs fois mais uniquement après avoir accompli l’exploit décrit pour chaque type de médaille. Le Tueur de dragon, par exemple, n’est accordé qu’après avoir infligé le coup de grâce à un monstre énorme. </p> <p> Les médailles ne sont pas accordées instantanément, naturellement, mais elles peuvent être remises par courrier après que le Bureau central a obtenu les preuves de cet exploit, un proche a reçu une lettre ou que la presse l’a annoncé au monde entier. Cependant, le Conseil de Delphes est conscient de la nature mystique de ces récompenses et aide les Victoriens à les remettre le plus rapidement possible. Discutez avec le MJ pour déterminer le délai avant l’obtention de la médaille mais, généralement, elle ne devrait pas arriver plus tard que la fin de l’Acte après lequel elle a été gagnée. L’Atout peut être acheté une fois la médaille obtenue. </p> <p> Pour qu’elle accorde son pouvoir, une médaille doit être offerte <em>et</em> portée. Personne d’autre ne peut bénéficier de ses bonus. </p> <p> Des médailles peuvent récompenser des étrangers venus des autres cosms mais elles n’ont un pouvoir que pour ceux de la réalité d’Orrorsh. </p> <p> À moins que le contraire ne soit indiqué, une même récompense n’est accordée qu’une seule fois. </p> <ul> <li> <strong>Carnifex Princeps</strong> : les Victoriens savent exactement qui est le Décharné. Cette récompense est attribuée à quiconque prend part à l’exécution d’un des ravagons, ses plus féroces lieutenants. Au début de toute Scène dramatique, le héros pioche et ajoute une carte supplémentaire à sa main. </li> <li> <strong>Défenseur</strong> : accordée à ceux qui sauvent ou défendent un nombre significatif de personnes, dans une école ou une ville par exemple, en prenant de grands risques. Le héros débute chaque Acte avec une @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.kYP18QiA72P6PlUi#possibilities]{Possibilité} supplémentaire. </li> <li> <strong>Médaille de la campagne des Guerres des Possibilités</strong> : accordée à tout Chevalier des tempêtes qui participe à un événement Gloire. Cette médaille est accordée pour chaque cosm et peut être utilisée une fois par Acte pour récupérer un dé bonus de points de Choc. Cela ne nécessite aucune action et peut être utilisé à n’importe quel moment. </li> <li> <strong>Médaille de la campagne des Indes</strong> : accordée à un Chevalier des tempêtes qui a récupéré un fragment d'éternité en Orrorsh. Une fois par acte, son porteur peut jouer une carte Destin pour la mettre dans sa réserve d'action, ou dans la réserve d'action d'un allié, en réaction gratuite durant n'importe quel tour. </li> <li> <strong>Médaille de l'unique survivant</strong> : accordée à une personne qui revient seule d'une expédition vouée à l'échec. Cette médaille annule les effets de la loi de la Perséverance et son porteur peut annuler normalement des dommages en Orrorsh. </li> <li> <strong>Ordre de Cynthia Bartholome</strong> : accordée pour avoir aidé les blessés et les pauvres menacés par un terrible danger ou pendant une longue période. « Mme Bart », comme l’appelaient les pauvres, était une humanitaire victorienne qui aidait toujours les plus démunis et les opprimés. Une fois par Acte, le bénéficiaire peut toucher un allié pour le débarrasser de tous ses points de Choc. C’est une action simple. </li> <li> <strong>Ordre de la Nouvelle aube</strong> : cette médaille est accordée à ceux qui ont été maudits et ont réussi à éliminer la force ou l'être qui les avait maudit. C'est une récompense à double tranchant, car sa présence révèle aux Victoriens que son porteur est maudit, ce qui risque de provoquer des problèmes de confiance. Les tests de Corruption du porteur deviennent Favorisés, et si un test est manqué, la médaille peut être <q>brûlée</q> au lieu de perdre du Charisme. La médaille compte toujours comme un Atout possédé pour déterminé le coût d'un nouvel Atout, mais elle n'a plus aucun effet si elle a été brûlée. </li> <li> <strong>Ordre Vestigium</strong> : accordée à ceux qui ont vaincu un Cauchemar. Les tests d'<em>Analyse d'indices</em>deviennent Favorisés, et le personnage sait automatiquement si un indice d'origine cauchemardesque est proche. Cela ne lui révèle pas la nature de l'indice ou sa localisation, mais simplement qu'il existe et n'est pas loin. </li> <li> <strong>Tueur de dragon</strong> : accordée à ceux qui triomphent d’un monstre très grand et très puissant. Quand l’Attaque est une Action approuvée, le personnage ajoute +1 DB au total de ses dommages contre les créatures de Grande taille ou d’une taille supérieure (pas les véhicules ou les créatures artificielles). </li> <li> <strong>Victoria Gloriana</strong> : accordée après avoir joué personnellement une carte Gloire. Cette prestigieuse récompense n’est accordée qu’aux plus grands héros de la nation. La médaille accorde un bonus de +1 à n’importe quel attribut et aux compétences qui lui sont liées. L’attribut est choisi au moment où la médaille est remise. Notez que si la médaille est portée et que l’attribut ou une compétence liée est utilisée, cela provoque une Contradiction. </li> </ul><p>@UUID[Compendium.te014-orrorsh.orrorsh-items.Item.83Fkt5fWbPZkcNq3]{Version Étendue} Présent dans Orrorsh Sourcebook Module</p>",
+      "prerequisites": "Cf. description des médailles.",
+      "enhancement01description": "Les Victoriens savent exactement qui est le Décharné. Cette récompense est attribuée à quiconque prend part à l’exécution d’un des ravagons, ses plus féroces lieutenants. Au début de toute Scène dramatique, le héros pioche et ajoute une carte supplémentaire à sa main.",
+      "enhancement01title": "Carnifex Princeps",
+      "enhancement02description": "Accordée à ceux qui sauvent ou défendent un nombre significatif de personnes, dans une école ou une ville par exemple, en prenant de grands risques. Le héros débute chaque Acte avec une Possibilité supplémentaire.",
+      "enhancement02title": "Défenseur",
+      "enhancement03description": "Accordée à tout Chevalier des tempêtes qui participe à un événement Gloire. Cette médaille est accordée pour chaque cosm et peut être utilisée une fois par Acte pour récupérer un dé bonus de points de Choc. Cela ne nécessite aucune action et peut être utilisé à n’importe quel moment.",
+      "enhancement03title": "Médaille de la campagne des Guerres des Possibilités",
+      "enhancement04title": "Médaille de la campagne des Indes",
+      "enhancement05title": "Médaille de l'unique survivant",
+      "enhancement06title": "Ordre de Cynthia Bartholome",
+      "enhancement07title": "Ordre de la Nouvelle aube",
+      "enhancement08title": "Ordre Vestigium",
+      "enhancement09title": "Tueur de dragon",
+      "enhancement10title": "Victoria Gloriana",
+      "enhancement04description": "Accordée à un Chevalier des tempêtes qui a récupéré un fragment d'éternité en Orrorsh. Une fois par acte, son porteur peut jouer une carte Destin pour la mettre dans sa réserve d'action, ou dans la réserve d'action d'un allié, en réaction gratuite durant n'importe quel tour.",
+      "enhancement05description": "Accordée à une personne qui revient seule d'une expédition vouée à l'échec. Cette médaille annule les effets de la loi de la Perséverance et son porteur peut annuler normalement des dommages en Orrorsh.",
+      "enhancement06description": "Accordée pour avoir aidé les blessés et les pauvres menacés par un terrible danger ou pendant une longue période. « Mme Bart », comme l’appelaient les pauvres, était une humanitaire victorienne qui aidait toujours les plus démunis et les opprimés. Une fois par Acte, le bénéficiaire peut toucher un allié pour le débarrasser de tous ses points de Choc. C’est une action simple.",
+      "enhancement07description": "Cette médaille est accordée à ceux qui ont été maudits et ont réussi à éliminer la force ou l'être qui les avait maudit. C'est une récompense à double tranchant, car sa présence révèle aux Victoriens que son porteur est maudit, ce qui risque de provoquer des problèmes de confiance. Les tests de Corruption du porteur deviennent Favorisés, et si un test est manqué, la médaille peut être brûlée au lieu de perdre du Charisme. La médaille compte toujours comme un Atout possédé pour déterminé le coût d'un nouvel Atout, mais elle n'a plus aucun effet si elle a été brûlée.",
+      "enhancement08description": "Accordée à ceux qui ont vaincu un Cauchemar. Les tests d'Analyse d'indicesdeviennent Favorisés, et le personnage sait automatiquement si un indice d'origine cauchemardesque est proche. Cela ne lui révèle pas la nature de l'indice ou sa localisation, mais simplement qu'il existe et n'est pas loin.",
+      "enhancement09description": "Accordée à ceux qui triomphent d’un monstre très grand et très puissant. Quand l’Attaque est une Action approuvée, le personnage ajoute +1 DB au total de ses dommages contre les créatures de Grande taille ou d’une taille supérieure (pas les véhicules ou les créatures artificielles).",
+      "enhancement10description": "Accordée après avoir joué personnellement une carte Gloire. Cette prestigieuse récompense n’est accordée qu’aux plus grands héros de la nation. La médaille accorde un bonus de +1 à n’importe quel attribut et aux compétences qui lui sont liées. L’attribut est choisi au moment où la médaille est remise. Notez que si la médaille est portée et que l’attribut ou une compétence liée est utilisée, cela provoque une Contradiction."
     },
     "Meditation": {
       "name": "Meditation",
@@ -2849,9 +2907,15 @@
       "range": "50 meters"
     },
     "Mind Control": {
-      "name": "Mind Control",
-      "description": "<p>This invasive power allows a crimefighter to control his foes, turning them into puppets who dance on the ends of his mental strings.</p><p>Mind Control allows a pulp hero to control a single foe. This is a contest of willpower or Mind. Apply a -4 penalty if the target is in a hostile state (such as in combat). If the Mind Controller loses the contest, the target’s mind is off-limits the remainder of the scene.</p><p>If a target is tasked with something drastically against his nature, such as harming an ally or himself, he gets an immediate Mind or willpower test to resist. The GM should modify this as she sees fit — +4 to resist harming a loved one or oneself, +2 to resist harming his allies. If a subject breaks free due to such a test, he cannot be controlled again during that scene.</p><p>How long Mind Control lasts depends on the success level:</p><ul><li><p><strong>Standard:</strong> Until the end of the target’s next turn, or about 10 seconds out of combat.</p></li><li><p><strong>Good:</strong> One minute.</p></li><li><p><strong>Outstanding:</strong> Until the end of the current scene.</p></li></ul><p></p><p></p><p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": ""
+      "name": "Contrôle mental ★",
+      "description": "<p> Ce pouvoir invasif permet à un justicier de contrôler ses adversaires en les transformant en marionnettes qui dansent à l’extrémité de ses fils mentaux. </p> <p> Contrôle mental permet à un héros pulp de contrôler un seul adversaire  dans un rayon de 10 mètres. C’est un jet en opposition de Volonté ou d’Esprit. Appliquez un malus de -4 si la cible est hostile (en combat, par exemple). Si le personnage doté de ce pouvoir perd le test en opposition, il ne peut plus affecter l’esprit de la cible pendant le reste de la scène. </p> <p> Si la cible doit faire quelque chose de véritablement opposé à sa nature, comme blesser un allié ou elle-même, elle a le droit d’effectuer immédiatement un test d’Esprit ou de Volonté pour résister. Le MJ doit moduler les bonus à ce test en fonction des circonstances : un bonus de +4 pour résister à l’injonction de blesser un être cher ou soi-même, un bonus de +2 pour résister à l’injonction de blesser un allié. Si, grâce à ce test, le sujet se libère, il ne peut plus être contrôlé de nouveau au cours de cette scène. </p> <p> La durée du Contrôle mental dépend du niveau de succès du test. </p> <ul> <li> <strong>Simple</strong> : Jusqu’à la fin du prochain tour de la cible ou environ 10 secondes en dehors d’un combat. </li> <li> <strong>Supérieur</strong> : Une minute. </li> <li><strong>Spectaculaire</strong> : Juqu'à la fin de la scène actuelle.</li> </ul><p></p><p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "",
+      "enhancement01description": "Le héros peut utiliser Persuasion ou Charisme au lieu de sa Volonté ou de son Esprit (la cible résiste normalement).",
+      "enhancement01title": "Charisme",
+      "enhancement02description": "Affecte les animaux et les créatures avec une Raison de 5 ou moins.",
+      "enhancement02title": "Contrôle",
+      "enhancement03description": "Annule le malus de -4 pour une cible hostile au cours du jet en opposition initial.",
+      "enhancement03title": "Puissance"
     },
     "Mind Sense": {
       "name": "Mind Sense",
@@ -2881,8 +2945,8 @@
     },
     "Miracles": {
       "name": "Miracles",
-      "description": "<p><strong>Cosms:</strong> Core Earth, Aysle, Cyberpapacy, Living Land, Nile Empire, Orrorsh</p><p>The hero is blessed with the ability to call forth miracles. He gains access to any Miracle List that is associated with his religion, and is not specified by another Perk. Here are some @UUID[Compendium.te001-core-rulebook.rules.JournalEntry.pwneQ55M0nnDH0Us.JournalEntryPage.0yCTjO5Wj0tFVzBW#example-miracle-lists]{Example miracle lists} given.<br />The Core Earth Religions supplement provide some expanded @UUID[Compendium.te001-core-rulebook.rules.JournalEntry.uTwRLGOalhiSSWeA.JournalEntryPage.r4Txsus7j2Xabtw0#miracle-lists]{Miracle Lists}.</p><p>She gains <em>ward enemy</em> any two miracles chosen from any list she knows. See @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.0yCTjO5Wj0tFVzBW]{Miracles} to find out how to invoke them and what happens should the invocation fail.</p><p><strong>New Miracles:</strong> This Perk may be taken more than once. Each time after the first, it grants the user one additional miracle.</p><p> </p><p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "At least one add in faith"
+      "description": "<p> <strong>Cosms:</strong> Terre Prime, Aysle, Cyberpapauté, Terre Vivante, Empire du Nil, Orrorsh. </p> <p> Le héros a la capacité d’invoquer des miracles. Il a accès à la liste de miracles associée à sa religion et qui n’est pas limité à un autre Atout. Quelques exemples de listes sont donnés dans @UUID[Compendium.te001-core-rulebook.rules.JournalEntry.pwneQ55M0nnDH0Us.JournalEntryPage.0yCTjO5Wj0tFVzBW#example-miracle-lists]{Miracles}.<br />Le supplément Core Earth Religions fournit quelques versions étendues de la @UUID[Compendium.te001-core-rulebook.rules.JournalEntry.uTwRLGOalhiSSWeA.JournalEntryPage.r4Txsus7j2Xabtw0#miracle-lists]{Listes de Miracles}. </p> <p> Le personnage commence avec <em>Protection contre les ennemis</em> et deux autres miracles qu’il choisit dans la liste à laquelle il a accès. Voir @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.0yCTjO5Wj0tFVzBW]{Miracles} pour savoir comment les invoquer et ce qui se passe si l’invocation échoue. </p> <p> <strong>Nouveaux miracles</strong> : cet Atout peut être choisi plusieurs fois. À chaque fois qu’il choisit à nouveau cet Atout, le personnage gagne un miracle supplémentaire. </p>",
+      "prerequisites": "Au moins 1 rang en Foi."
     },
     "Mobile Phone": {
       "name": "Mobile Phone",
@@ -2915,9 +2979,9 @@
       "notes": "Munitions 3, Rechargement"
     },
     "Multi-Tasker": {
-      "name": "Multi-Tasker",
-      "description": "<p><strong>Cosms:</strong> Core Earth, Pan-Pacifica, Tharkold</p>\n<p>The most efficient psis learn to trigger multiple powers at once, perhaps erecting a <em>psychic screen</em> while launching a <em>synaptic strike</em>.</p>\n<p>A psi with this Perk may activate two different powers in a single turn as part of a Multi-Action.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "Knowledge of at least 5 powers"
+      "name": "Polychrone",
+      "description": "<p><strong>Cosms:</strong> Terre Prime, Pan-Pacifica, Tharkold.</p> <p> Les psis les plus efficaces apprennent à déclencher plusieurs pouvoirs à la fois en dressant, par exemple, un <em>Bouclier psychique</em> tout en lançant une <em>Déflagration mentale</em>. </p> <p> Un psi avec cet Atout peut activer deux pouvoirs différents en un seul tour avec l’option Actions multiples. </p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "Connaitre au moins 5 Pouvoirs."
     },
     "Multi-Tool": {
       "name": "Multi-Tool",
@@ -2947,8 +3011,8 @@
       "notes": ""
     },
     "Negation": {
-      "name": "Negation",
-      "description": "<p>When an enemy attempts to spend a Possibility for an attribute or skill test, the Storm Knight may spend her own Possibility&nbsp;to instantly negate it. This is a free action she can perform as long as she&rsquo;s aware of the rival&rsquo;s action.</p>\n<p>Negation may <em>not</em> be used to stop a foe from spending Possibilities&nbsp;to activate abilitise (such as Soak Damage).</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "name": "Contre",
+      "description": "<p>Quand un ennemi tente d&rsquo;utiliser une Possibilit&eacute;&nbsp;pour un attribut ou un test de comp&eacute;tence, le Chevalier des Temp&ecirc;tes peut d&eacute;penser une de ses propres Possibilit&eacute;s pour l&rsquo;annuler instantan&eacute;ment. C&rsquo;est une action gratuite qu&rsquo;il peut effectuer tant qu&rsquo;il est conscient de l&rsquo;action de son rival.</p>\n<p>Contre ne peut pas &ecirc;tre utilis&eacute; pour emp&ecirc;cher un adversaire d&rsquo;Annuler des blessures avec des Possibilit&eacute;s.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
       "prerequisites": ""
     },
     "Net Launcher": {
@@ -2985,14 +3049,14 @@
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Occultech Implants": {
-      "name": "Occultech Implants",
-      "description": "<p>When the character takes this Perk, she may choose up to $10 000 worth of occultech. These implants have been properly exorcised of any demonic influence. See the list of Tharkoldu @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#occultech]{Occultech}.</p>\n<p><strong>New Implants:</strong> This Perk may be taken more than once. Each time after the first, it grants the user another $5 000 worth of implants.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "Strength 8+"
+      "name": "Implants Occultech",
+      "description": "<p>Quand un personnage opte pour cet Atout, il peut choisir une valeur de 10 000 $ en Occultechs. Ces implants ont été exorcisés de toute influence démoniaque. Voir @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#occultech]{Occultech}. </p> <p> <strong>Nouveaux implants</strong> : cet Atout peut être choisi plusieurs. À chaque fois qu’un personnage le choisit après la première fois, il accorde de nouveaux implants pour une valeur de 5000 $. </p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "Force 8+"
     },
     "Occultist": {
-      "name": "Occultist",
-      "description": "<p>Occultists are experts in not just the lore and legends of the various horrors that haunt their home, but their habits, traits, tell-tale signs, and most importantly, how to stop them!</p>\n<p>At the start of any fight against a supernaturally evil creature (GM&rsquo;s call, but see the <span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">@UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.Pu4XsglS98BqDRgX#supernatural-evil]{Supernatural Evil}</span><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\"> sidebar), the Occultist makes a </span><em style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">scholar</em><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\"> roll.</span></p>\n<p>He then draws one Destiny card with a Standard success, two with a Good success, or three with an Outstanding result. He keeps one and discards any others.</p>\n<p>Whether he made the <em>scholar</em> test or not, the Occultist may then choose any one of his cards and place it directly in his pool.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "At least two adds in scholar"
+      "name": "Occultiste",
+      "description": "<p>Les Occultistes sont des experts non seulement dans les domaines des connaissances et des légendes liées aux différentes horreurs qui hantent leur monde mais ils en connaissent aussi les habitudes, les traits, les signes annonciateurs et, le plus important, ils savent comment les arrêter ! </p> \n <p> Au début de n’importe quel combat contre une créature surnaturelle maléfique (à la discrétion du MJ mais voir @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.Pu4XsglS98BqDRgX#supernatural-evil]{Créatures surnaturelles maléfiques}), l’Occultiste effectue un test de <em>Sciences humaines</em>. </p> \n <p> Puis il pioche une Carte de Destin s’il obtient uncsuccès Simple, deux cartes avec un succès Supérieurcou trois cartes avec un succès Spectaculaire. Il en garde une et défausse les autres. </p> \n <p> Qu’il effectue ou non son test de <em>Sciences humaines</em>, l’Occultiste peut alors choisir une de ses cartes et la mettre directement dans sa Réserve. </p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "Au moins 2 rangs dans Sciences Humaines."
     },
     "Offensive Grenade": {
       "name": "Grenade offensive",
@@ -3026,9 +3090,9 @@
       "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.R7iwjAD49l0zullR]{Edeinos}</p>"
     },
     "Overcharge": {
-      "name": "Overcharge",
-      "description": "<p><strong>Cosms:</strong> Core Earth, Pan-Pacifica, Tharkold</p>\n<p>The character can boost her psionics ability at the risk of seriously damaging herself or possibly even dying. She may roll another d20 and add it to the die roll. This die roll is in addition to rolls from Ups or a spent Possibility. Once the test is resolved, the psi immediately suffers one wound that may <em>not</em> be Soaked.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.4ZtIS4h8WRGarKIV]{Psionic}, Spirit 10+</p>"
+      "name": "Surcharge",
+      "description": "<p><strong>Cosms:</strong> Terre Prime, Pan-Pacifica, Tharkold.</p> <p> Le personnage peut amplifier ses capacités psioniques au risque de subir des dommages et même de se tuer. Il peut lancer un autre d20 et ajouter le résultat au jet initial. Ce jet de dé s’ajoute aux jets accordés par un résultat Un de plus ! et par une dépense de Possibilité. Une fois le test effectué, le psi subit immédiatement une Blessure qui <em>ne peut pas</em> être Annulée. </p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.4ZtIS4h8WRGarKIV]{Psionique}, Esprit 10+</p>"
     },
     "Pacifist": {
       "name": "Pacifist",
@@ -3157,8 +3221,8 @@
       "prerequisites": "At least one add in precognition. May not have any adds in kinesis or telepathy, and may not know any psionic powers that require kinesis or telepathy"
     },
     "Prodigy": {
-      "name": "Prodigy",
-      "description": "<p>The character is filled with Possibility Energy. She begins each act with an extra Possibiilty. This stacks with any other ability that grants additional Possibilities.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "name": "Prodige",
+      "description": "<p>Le personnage est impr&eacute;gn&eacute; d&rsquo;&eacute;nergie des possibilit&eacute;s. Il d&eacute;bute chaque Acte avec une Possibilit&eacute; suppl&eacute;mentaire. Cet effet est cumulable avec toute autre capacit&eacute; accordant des Possibilit&eacute;s suppl&eacute;mentaires.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
       "prerequisites": ""
     },
     "Projection Clothing": {
@@ -3166,9 +3230,9 @@
       "description": "<p>A simple skintight covering that projects dynamic layers of holographic apparel, including effects like flames. A user can toggle between different preprogrammed outfits, or create his own with a cyberdeck.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Protected": {
-      "name": "Protected",
-      "description": "<p><strong>Cosms:</strong> Core Earth, Aysle, Cyberpapacy, Living Land, Nile Empire, Orrorsh</p>\n<p>Divine beings do not like to see their champions slain by the forces of evil. The chosen has +2 Toughness against attacks made by supernatural evil creatures (Game Master&rsquo;s call, but usually includes gospog, ghosts, demons, etc.).</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "At least one add in faith"
+      "name": "Protégé",
+      "description": "<p><strong>Cosms:</strong> Terre Prime, Aysle, Cyberpapauté, Terre Vivante, Empire du Nil, Orrorsh. </p> <p> Les entités divines n’aiment pas voir leurs champions être tués par les forces du mal. L’élu bénéficie d’un bonus de Résistance de +2 contre les attaques effectuées par les créatures surnaturelles maléfiques (à la discrétion du MJ mais cela inclut généralement les gospogs, les fantômes, les démons, etc.) </p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "Au moins 1 rang en Foi."
     },
     "Protective Circle": {
       "name": "Protective Circle",
@@ -3180,9 +3244,9 @@
       "range": "A two-meter diameter circle"
     },
     "Psionic": {
-      "name": "Psionic",
-      "description": "<p><strong>Cosms:</strong> Core Earth, Pan-Pacifica, Tharkold</p><p>Psionicists or <q>psis</q> tap into the collective consciousness—represented by the Social Axiom — for incredible powers. They can use this to read minds, move matter and energy, and sometimes even see or predict aspects of the future.</p><p>Psionics can develop anywhere the Social Axiom is high enough, but like magic or miracles, just because it <em>can</em> doesn’t mean it has yet.</p><p>When the Psi takes this Perk, she may choose any three powers from her cosm’s @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.N3Rn8JRgFz6xPbFD#available-powers]{Power List}.</p><p>The Core Earth Psionics supplement provide some expanded @UUID[Compendium.te001-core-rulebook.rules.JournalEntry.zRmNjKY2Ge8KbXG3.JournalEntryPage.cApN1RD5J17QCDZ3#available-powers]{Psionic Lists}.</p><p>Power descriptions and how to manifest them are explained in @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.N3Rn8JRgFz6xPbFD]{Psionics}.</p><p><strong>New Powers:</strong> This Perk may be taken more than once. Each time after the first, it grants the user one additional power.</p><p> </p><p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "At least one add in kinesis, precognition, or telepathy"
+      "name": "Psionique",
+      "description": "<p><strong>Cosms:</strong> Terre Prime, Pan-Pacifica, Tharkold.</p> <p> Les psioniques ou « psis » exploitent la conscience collective, représentée par l’Axiome Social, pour utiliser d’incroyables pouvoirs. Ils peuvent lire les pensées, déplacer la matière et l’énergie et parfois même voir ou prédire certains aspects de l’avenir. </p> <p> Les psioniques peuvent se développer partout où l’Axiome Social est suffisamment élevé mais, comme pour la magie ou les miracles, ce n’est pas parce qu’un personnage le peut qu’il a déjà révélé ce pouvoir. </p> <p> Quand un Psi prend cet Atout, il peut choisir trois pouvoirs de la @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.N3Rn8JRgFz6xPbFD#pouvoirs-accessibles]{Liste de pouvoirs} de son cosm et pour lesquels il a la compétence requise. </p> <p> Le supplément Core Earth Psionics founit une liste étendue de @UUID[Compendium.te001-core-rulebook.rules.JournalEntry.zRmNjKY2Ge8KbXG3.JournalEntryPage.cApN1RD5J17QCDZ3#available-powers]{Pouvoirs Psioniques}. </p> <p> La description des pouvoirs et la manière dont ils se manifestent sont détaillées dans le chapitre @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.N3Rn8JRgFz6xPbFD]{Psionique}. </p> <p> <strong>Nouveaux pouvoirs</strong> : Cet Atout peut être choisi plus d’une fois. À chaque fois qu’il choisit à nouveau cet Atout, le personnage gagne un pouvoir supplémentaire. </p><p> </p><p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "Au moins 1 rang en Kinésie, Précognition ou Télépathie."
     },
     "Psychic Anomaly": {
       "name": "Psychic Anomaly",
@@ -3248,8 +3312,8 @@
       "prerequisites": "Beta Clearance, at least three adds in land vehicles"
     },
     "Radiant": {
-      "name": "Radiant",
-      "description": "<p>The Light runs through the Storm Knight’s blood. She doesn’t <em>always</em> do the right thing, but she tries, and it eats at her when she cannot.</p><p>When a Radiant hero engages in combat with at least one supernaturally evil foe (Game Master’s call), she draws an additional card at the start of the fight. She may also add any one of her cards to her pool at the start of the fight.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "name": "Rayonnant ★",
+      "description": "<p>La Lumi&egrave;re impr&egrave;gne le sang du Chevalier des temp&ecirc;tes. Il ne fait pas <em>toujours</em> ce qu&rsquo;il convient de faire mais il essaie et il s&rsquo;en veut quand il n&rsquo;y parvient pas.</p><p>Quand un h&eacute;ros Rayonnant engage un combat avec au moins un adversaire surnaturel mal&eacute;fique (&agrave; la discr&eacute;tion du MJ), il pioche une carte suppl&eacute;mentaire au d&eacute;but du combat. Il peut aussi ajouter une de ses cartes &agrave; sa R&eacute;serve au d&eacute;but du combat.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
       "prerequisites": ""
     },
     "Radiation Detector": {
@@ -3269,14 +3333,14 @@
       "description": "<p>@UUID[Compendium.te008-aysle.aysle-journals.PQRWfK8bsqZ10lY1.JournalEntryPage.wIrHC8wmJX9fGfdm#enchanted-and-arcane-items]{Enchanted}</p><p>Moonstone is an opaque stone with a silver-white chatoyance (cat's eye effect) consisting of the mineral feldspar. Moonstone crystals can come in various shades, and this prismatic variety grants a +1 bonus to physical defenses (dodge, melee, and unarmed).</p>"
     },
     "Raise the Dead": {
-      "name": "Raise the Dead",
-      "description": "<p>A radiant Storm Knight can attempt to raise the recently slain (generally within an act). The character makes a <em>Spirit</em> test for the attempt, and gains a +2 bonus if the recipient has Light Perks, or −4 if the target has Darkness Perks.</p><p>This attempt may only be made <em>once</em>. If the roll is failed, the deceased may not be raised with this ability.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.eQOBHyRFjaHJK1xv]{Radiant}, at least three other Light Perks</p>"
+      "name": "Résurrection ★",
+      "description": "<p>Un Chevalier des tempêtes Rayonnant peut tenter de ressusciter ceux qui ont été tués récemment (généralement au cours du même Acte). Le personnage effectue un test d’<em>Esprit</em> et bénéficie d’un bonus de +2 si le bénéficiaire a un Atout de Lumière ou d’un malus de -4 si la cible a un Atout des Ténèbres. </p> <p> Cette tentative ne peut être effectuée <em>qu’une seule fois</em>. Si le test échoue, le décédé ne peut revenir à la vie avec cette capacité. </p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.eQOBHyRFjaHJK1xv]{Rayonnant}, au moins 3 autres Atouts Lumière.</p>"
     },
     "Rally": {
-      "name": "Rally",
-      "description": "<p>A good leader can inspire those around her to overcome their wounds or exhaustion, carrying on no matter how difficult the odds.</p>\n<p>The leader may spend a @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.kYP18QiA72P6PlUi#possibilities]{Possibility}&nbsp;&nbsp;to remove 2 shock from <em>all</em> allied characters in range of his voice (even remotely). This is a simple action, and requires a few encouraging words, gestures, or even supportive facial expressions to carry out.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "At least three adds in persuasion"
+      "name": "Ralliement",
+      "description": "<p> Un bon chef peut inspirer ceux qui sont autour de lui pour qu’ils surmontent leurs blessures et leur fatigue afin de continuer, quels que soient les défis à relever. </p> \n <p> Le chef peut dépenser une @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.kYP18QiA72P6PlUi#possibilities]{Possibilité} pour retirer 2 points de Choc à tous les personnages alliés qui peuvent l’entendre (même s’ils sont très éloignés). C’est une action simple qui nécessite quelques paroles ou gestes d’encouragements ou même une expression faciale adéquate. </p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "Au moins 3 rangs en Persuasion."
     },
     "Ram Plate": {
       "name": "Ram Plate",
@@ -3301,8 +3365,8 @@
       "prerequisites": "<p>Access to the @UUID[Compendium.te001-core-rulebook.rules.JournalEntry.VuPeUtSmf98Gws42.JournalEntryPage.aWRVocNcmjkxV1tL#dabbler]{Dabbler spell list}. The spellcaster may not have access to any other spell list.</p>"
     },
     "Realm Runner": {
-      "name": "Realm Runner",
-      "description": "<p>The Storm Knight has a natural feel for manipulating reality. He ignores four points of reality penalties when attempting to reconnect, and may ignore disconnection the first time it happens in each act.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "name": "Vagabond des royaumes",
+      "description": "<p>Le Chevalier des temp&ecirc;tes a un instinct inn&eacute; pour manipuler la r&eacute;alit&eacute;. Il ignore quatre points de malus de r&eacute;alit&eacute; quand il tente de se reconnecter et peut ignorer une d&eacute;connexion la premi&egrave;re fois que cela arrive au cours de chaque acte.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
       "prerequisites": ""
     },
     "Realm-Dancer": {
@@ -3311,14 +3375,14 @@
       "prerequisites": "<p>Beta Clearance, @UUID[Compendium.te001-core-rulebook.Items.Item.ADQgF3E47pmCCHys]{Realm Runner}</p>"
     },
     "Rejuvenate": {
-      "name": "Rejuvenate",
-      "description": "<p>Once per scene, the character can touch any one ally and remove five points of shock. This is a simple action. Unconscious characters wake up immediately and may act that turn.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.eQOBHyRFjaHJK1xv]{Radiant}</p>"
+      "name": "Revitalisation ★",
+      "description": "<p>Une fois par sc&egrave;ne, le personnage peut toucher un alli&eacute; et lui retirer cinq points de Choc. C&rsquo;est une action simple. Les personnages inconscients se r&eacute;veillent aussit&ocirc;t et peuvent agir au cours de ce tour.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.eQOBHyRFjaHJK1xv]{Rayonnant}</p>"
     },
     "Relentless": {
-      "name": "Relentless",
-      "description": "<p>The most furious fighters put everything they have into their blows.</p><p>When the character successfully uses the AllOut Attack option in melee, he can spend 3 shock to add an extra BD to the damage. This stacks with the usual bonus damage from Good and Outstanding results. The warrior must have the available shock to spend or the ability doesn’t function.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "Strength 10+"
+      "name": "Implacable",
+      "description": "<p>Les combattants les plus f&eacute;roces frappent&nbsp;avec toute leur &eacute;nergie.</p><p>Quand un personnage r&eacute;ussit &agrave; utiliser l&rsquo;option Attaque totale en m&ecirc;l&eacute;e, il peut choisir d&rsquo;encaisser 3 points de Choc pour ajouter 1 D&eacute; Bonus aux dommages inflig&eacute;s. Cet effet est cumulatif avec les bonus aux dommages normaux accompagnant un succ&egrave;s Sup&eacute;rieur ou Spectaculaire. Le combattant doit pouvoir encaisser les points de Choc suppl&eacute;mentaires pour que cette capacit&eacute; fonctionne.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "Force 10+"
     },
     "Relentless (Special Ability)": {
       "name": "Relentless (Special Ability)",
@@ -3351,14 +3415,14 @@
       "range": "5 meters"
     },
     "Resilient": {
-      "name": "Resilient",
-      "description": "<p><strong>Cosms:</strong> Aysle, Core Earth, Cyberpapacy, Nile Empire, Orrorsh, Tharkold</p>\n<p>Spellcasters can eventually learn to dampen the effects of magical fatigue. When a Resilient sorcerer fails a spell he suffers one less shock than usual.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.veILcJaF0ucF9xAA]{Spellcaster}</p>"
+      "name": "Résistant",
+      "description": "<p> <strong>Cosms:</strong> Aysle, Terre Prime, Cyberpapauté, Empire du Nil, Orrorsh, Tharkold. </p> <p> Les lanceurs de sorts peuvent apprendre à limiter les effets de la fatigue provoquée par la magie. Quand un personnage Résistant échoue en lançant un sort, il subit un point de Choc de moins. </p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.veILcJaF0ucF9xAA]{Lanceur de sorts}</p>"
     },
     "Righteousness": {
-      "name": "Righteousness",
-      "description": "<p>When battling supernaturally evil creatures, the righteous hero adds +2 damage to all of his <em>melee weapons</em> or <em>unarmed combat</em> tests. The Game Master decides if a particular creature is affected (see @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.Pu4XsglS98BqDRgX#supernatural-evil]{Supernatural Evil}).</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.eQOBHyRFjaHJK1xv]{Radiant}</p>"
+      "name": "Vertu ★",
+      "description": "<p> Quand il affronte des créatures surnaturelles maléfiques, le héros vertueux bénéficie d’un bonus de +2 points de dommages à tous ses tests d’<em>Armes de mêlée</em> ou de <em>Combat à mains nues</em>. Le MJ décide si une créature particulière est affectée ou non (voir  @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.Pu4XsglS98BqDRgX#creatures-surnaturelles-malefiques]{Créatures surnaturelles maléfiques}). </p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.eQOBHyRFjaHJK1xv]{Rayonnant}</p>"
     },
     "Riot Shield": {
       "name": "Bouclier anti-émeute",
@@ -3456,9 +3520,9 @@
       "prerequisites": "Beta Clearance, at least five adds in reality"
     },
     "Shadow Step": {
-      "name": "Shadow Step",
-      "description": "<p>The character’s <em>stealth</em> tests become Favored. If attacking a Flat-Footed foe, the backstabber may declare he’s using Shadow Step to cause an additional +2 damage.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "At least two adds in stealth"
+      "name": "Marcheur des ombres ★",
+      "description": "<p>Les tests de <em>Discr&eacute;tion</em> du personnage sont Favoris&eacute;s. S&rsquo;il attaque un personnage Pris au d&eacute;pourvu, il peut d&eacute;clarer qu&rsquo;il utilise Marcheur des ombres pour infliger +2 points de dommages.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "Au moins 2 rangs en Discrétion."
     },
     "Shake it Off": {
       "name": "Shake it Off",
@@ -3584,9 +3648,9 @@
       "description": "<p>Only for @UUID[Compendium.te001-core-rulebook.rules.JournalEntry.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#heavy-weapons-and-explosives]{Heavy Weapons}</p><p>Common for target marking. The shells deal no damage, but instead cover a 10 meter radius with thick, colored smoke (−2 Visibility). The smoke lingers in the area until the firer receives a Setback.</p>"
     },
     "Sniper": {
-      "name": "Sniper",
-      "description": "<p>When the character uses @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.EhKa65cpHvodUl2L#aim]{Aim} on a single ranged attack against a single foe, she adds an extra BD to the damage. This stacks with the usual bonus damage from Good and Outstanding results.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "At least 3 adds in energy weapons, fire combat, or missile weapons"
+      "name": "Tireur d'élite",
+      "description": "<p>Quand le personnage utilise l’option @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.EhKa65cpHvodUl2L#visee]{Visée} pour une seule attaque à distance contre un unique adversaire, il ajoute un Dé Bonus supplémentaire aux dommages. Cet effet est cumulable avec les bonus aux dommages normaux accompagnant un succès Supérieur ou Spectaculaire. </p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "Au moins 3 rangs en Armes Énergétique, Armes à feu ou Armes de Jet."
     },
     "Soothe": {
       "name": "Soothe",
@@ -3645,8 +3709,8 @@
     },
     "Spellcaster": {
       "name": "Spellcaster",
-      "description": "<p><strong>Cosms:</strong> Aysle, Core Earth, Cyberpapacy, Nile Empire, Orrorsh, Tharkold</p><p>Those who delve into the arcane arts go by many names — mage, wizard, witch, or warlock to name a few. Regardless of their particular background, all can cast spells using any of the four primary types of magical skill — <em>alteration</em>, <em>apportation</em>, <em>conjuration</em>, or <em>divination magic</em>.</p><p>When this Perk is taken, the mage may choose any three spells from her cosm’s @UUID[Compendium.te001-core-rulebook.rules.JournalEntry.pwneQ55M0nnDH0Us.JournalEntryPage.PjteC3KQ7SI4gobV#available-spells]{Spell List} for which she meets the minimum skill.</p><p>The Core Earth Magic supplement provide some expanded @UUID[Compendium.te001-core-rulebook.rules.JournalEntry.VuPeUtSmf98Gws42.JournalEntryPage.aWRVocNcmjkxV1tL#available-spells]{Spell Lists}.</p><p>Spell details are explained in @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.PjteC3KQ7SI4gobV]{Magic}.</p><p><strong>New Spells:</strong> This Perk may be taken more than once. Each time after the first, the character learns one additional spell.</p><p> </p><p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "At least one add in alteration, apportation, conjuration, or divination"
+      "description": "<p> <strong>Cosms:</strong> Aysle, Terre Prime, Cyberpapauté, Empire du Nil, Orrorsh, Tharkold. </p> <p> Ceux qui étudient les arts arcaniques sont connus sous de nombreux noms, mages, magiciens, démonistes ou sorcières pour n’en citer que quelques-uns. Quelle que soit leur origine, ils peuvent tous lancer des sorts en utilisant n’importe laquelle des quatre compétences magiques de base — <em>Altération</em>, <em>Cinétique</em>, <em>Conjuration</em>, ou <em>Divination</em>. </p> \n <p> Quand cet Atout est sélectionné, le mage peut choisir trois sorts de son cosm dans la @UUID[Compendium.te001-core-rulebook.rules.JournalEntry.pwneQ55M0nnDH0Us.JournalEntryPage.PjteC3KQ7SI4gobV#available-spells]{Liste de Sorts} et pour lesquels il possède la compétence minimale requise. </p> <p> Le supplément Core Earth Magic fournit une @UUID[Compendium.te001-core-rulebook.rules.JournalEntry.VuPeUtSmf98Gws42.JournalEntryPage.aWRVocNcmjkxV1tL#available-spells]{Liste de Sorts} étendue. </p> <p> Les détails des sorts sont expliqués dans le chapitre @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.PjteC3KQ7SI4gobV]{Magie}. </p> <p> <strong>Nouveaux sorts :</strong> cet Atout peut être choisi plus d’une fois. À chaque fois après la première, le personnage apprend un sort supplémentaire. </p><p> </p><p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "Au moins 1 rang en Alteration, Cinétique, Conjuration, ou Divination."
     },
     "Spellproofed Armor": {
       "name": "Spellproofed Armor",
@@ -3659,9 +3723,9 @@
       "notes": "Fatigue, Bonus ajoute aux combats à mains nues."
     },
     "Spirit Bane": {
-      "name": "Spirit Bane",
-      "description": "<p><strong>Cosms:</strong> Core Earth, Aysle, Cyberpapacy, Living Land, Nile Empire, Orrorsh</p>\n<p>The Storm Knight gains the ability to affect beings with the Ethereal Special Ability, such as ghosts, with <em>unarmed combat</em> or <em>melee weapons</em>.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "At least one add in faith"
+      "name": "Fléau des esprits",
+      "description": "<p><strong>Cosms:</strong> Terre Prime, Aysle, Cyberpapauté, Terre Vivante, L'Empire du Nil, Orrorsh.</p><p>Le Chevalier des temp&ecirc;tes gagne le pouvoir d&rsquo;affecter les &ecirc;tres ayant la capacit&eacute; sp&eacute;ciale &Eacute;th&eacute;r&eacute;, tels que les fant&ocirc;mes, avec leurs comp&eacute;tences <em>Combat &agrave; mains nues</em> ou <em>Armes de m&ecirc;l&eacute;e</em>.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "Au moins 1 rang en Foi."
     },
     "Spirit Nemesis": {
       "name": "Spirit Nemesis",
@@ -3680,8 +3744,8 @@
       "notes": "Deux mains"
     },
     "Star Eyes": {
-      "name": "Star Eyes",
-      "description": "<p>All edeinos can see in the dark to some extent, but some are born with additional guanine crystals in their eyes that refract and amplify ambient light. Those born with <q>stars in their eyes,</q> as the jakatts say, can ignore four points of vision penalties due to darkness.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "name": "Yeux étoilés",
+      "description": "<p>Tous les edeinos peuvent voir dans le noir mais certains naissent avec plus de cristaux de guanine dans leurs yeux, qui refl&egrave;tent et amplifient la lumi&egrave;re ambiante. Ceux qui naissent avec des &laquo; &eacute;toiles dans les yeux &raquo;, comme disent les jakatts, peuvent ignorer quatre points de malus d&rsquo;obscurit&eacute;.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
       "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.R7iwjAD49l0zullR]{Edeinos}</p><p></p>"
     },
     "Stim Shot": {
@@ -3702,19 +3766,19 @@
       "notes": "Fragile, Déséquilibre"
     },
     "Stone Skin": {
-      "name": "Stone Skin",
-      "description": "<p>Perhaps the edeinos and the creatures Earthlings call dinosaurs share some common ancestors, for some of their species seem to bear the monstrous lizards&rsquo; traits.</p>\n<p>Edeinos with Stone Skin are evidence of such a link. Their scales are tinged with gray&mdash;though some cover or <q>color</q> them with natural materials to hide it&mdash;and are much tougher than most others of their kind.</p>\n<p>The Stone Skin Perk grants an edeinos Armor +2. This is normal Armor, and therefore does not stack with other forms of @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#armor]{Armor}.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "name": "Peau de pierre",
+      "description": "<p>Peut-être les edeinos et les créatures que les Terriens appellent des dinosaures ont-ils des ancêtres communs car certains membres de leur espèce semblent partager les caractéristiques de ces monstrueux lézards. </p> <p> Les edeinos avec une Peau de pierre sont la preuve vivante d’une telle parenté. Leurs écailles sont teintées de gris, bien que certains les cachent en les colorant avec des matériaux naturels, et sont plus résistantes que des écailles normales. </p> <p> L’Atout Peau de pierre octroie à un edeinos un bonus de +2 en Armure. C’est une Armure normale qui ne se cumule pas avec d’autres formes d’@UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#armure]{Armure}.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
       "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.R7iwjAD49l0zullR]{Edeinos}</p>"
     },
     "Storm Caller": {
-      "name": "Storm Caller",
-      "description": "<p>The Storm Knight can engage another <em>reality</em>-rated character in a reality storm. See @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.0dDSfvtyUrMthBzv#invoked-storms]{Invoked Storms} for a complete description.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "At least three other Reality Perks"
+      "name": "Invocateur de tempête",
+      "description": "<p> Le Chevalier des tempêtes peut engager un autre personnage chargé en possibilités dans une tempête de réalité. Voir @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.0dDSfvtyUrMthBzv#invoquer-des-tempetes]{Invoquer des Tempêtes} pour une description complète. </p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "Au moins 3 autres Atouts de Réalité."
     },
     "Storyteller": {
-      "name": "Storyteller",
-      "description": "<p>After a Glory card is played, the zone fills with ambient Possibility Energy. A Storm Knight with the Storyteller Perk can spread the tale of the deed and directly utilize that Possibility Energy.</p>\n<p>Telling the tale requires an audience, a performance of the teller&rsquo;s choosing (narration, a song, etc.), and a <em>persuasion</em> test vs the standard zone modifiers (&minus;4 in a Dominant Zone and &ndash;8 in a Pure Zone).</p>\n<p>Tales may be told once per act, and only in a zone where the Storyteller took part in playing a Glory card within the last month. The performer doesn&rsquo;t have to have played the card himself, he just has to have been present at the event.</p>\n<p>The Storyteller gains a separate pool of @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.kYP18QiA72P6PlUi#possibilities]{Possibilities}, one on a standard success, two on a Good, and three on an Outstanding. For the rest of the act, the Storm Knight can spend these Possibilities&nbsp;for himself or for anyone who heard the tale (GM&rsquo;s call)&mdash;including Ords! This is a free action.</p>\n<p>Note that telling tales of the Storm Knights&rsquo; deeds almost always attracts attention from the High Lords and their minions. All the Reality Raiders are quick to hunt down such thorns in their sides.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "Charisma 8+"
+      "name": "Conteur",
+      "description": "<p> Après qu’une carte Gloire a été jouée, la zone est emplie d’énergie des possibilités ambiante. Un Chevalier des Tempêtes avec l’Atout Conteur peut répandre le récit de cet exploit et utiliser directement cette énergie des possibilités. </p> <p> Raconter cette histoire nécessite un auditoire, une performance au choix du conteur (narration, chanson, etc.) et un test de <em>Persuasion</em> contre le modificateur standard de la zone (-4 dans une Zone Dominante et -8 dans une Zone pure). </p> <p> Des récits ne peuvent êtres racontés qu’une seule fois par Acte et uniquement dans une Zone où le Conteur a participé à l’utilisation de la carte Gloire au cours du mois écoulé. Il n’est pas nécessaire que le Conteur ait joué lui-même la carte, il doit juste avoir été présent au cours de l’événement. </p> <p> Le Conteur gagne une réserve séparée de @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.kYP18QiA72P6PlUi#possibilites]{Possibilités}, une avec un succès Simple, deux avec un succès Supérieur et trois avec un succès Spectaculaire. Pour le reste de l’Acte, en action gratuite , le Chevalier des Tempêtes peut dépenser ces Possibilités pour lui-même ou pour quiconque ayant écouté son récit (à la discrétion du MJ), y compris des Ords ! </p> <p> Notez que raconter les histoires des exploits des Chevaliers des Tempêtes attire presque toujours l’attention des Seigneurs de Réalité et de leurs sbires. Tous les Pillards de Réalité sont prompts à traquer ces perturbateurs. </p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "Charisme 8+"
     },
     "Strangle": {
       "name": "Strangle",
@@ -3735,9 +3799,9 @@
       "range": "Touch"
     },
     "Strong-willed": {
-      "name": "Strong-willed",
-      "description": "<p>The character can always use <em>Spirit</em> when testing for <strong>Defeat</strong>, regardless of her <em>Strength</em>.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "Spirit 8+"
+      "name": "Obstiné",
+      "description": "<p>Quelle que soit sa <em>Force</em>, le personnage peut toujours utiliser son <em>Esprit</em> quand il effectue un test de <strong>D&eacute;faite</strong>.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "Esprit 8+"
     },
     "Stun": {
       "name": "Stun",
@@ -3753,14 +3817,20 @@
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Super Attribute": {
-      "name": "Super Attribute",
-      "description": "<p>Super Attribute allows a pulp hero to exceed normal maximums of <em>Charisma</em>, <em>Dexterity</em>, <em>Mind</em>, <em>Spirit</em>, or <em>Strength</em>. She is a paragon of one of these virtues with few rivals in the Nile Empire.</p>\n<p>When taken, Super Attribute increases a selected attribute by +1.</p>\n<p>The Nile Empire is a pulp realm&mdash;not a world of four-color superheroes &mdash; so Super Attribute may only be taken <em>once</em> (not once per attribute). Choose wisely!</p>\n<p>Super Attribute increases the attribute limit a like amount.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "Attribute selected must be 10+"
+      "name": "Super attribut ★",
+      "description": "<p>Un Super attribut permet à un héros d’excéder le maximum normal en <em>Charisme</em>, <em>Dextérité</em>, <em>Raison</em>, <em>Esprit</em>, ou en <em>Force</em>. Il incarne véritablement cet attribut et rares sont ceux qui peuvent rivaliser avec lui dans ce domaine au sein de l’Empire du Nil. </p> <p>Le pouvoir de Super Attribut augmente l’attribut choisi de +1.</p> <p> L’Empire du Nil est un royaume pulp, pas un monde de héros modernes, aussi le pouvoir de Super attribut ne peut se prendre qu’une seule fois (pas une seule fois par attribut). Choisissez avec sagesse ! </p> <p> Super attribut augmente la limite de l’attribut choisi de la même valeur. </p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "L'Attribut sélectionné doit être de 10+",
+      "enhancement01description": "L’Attribut et sa limite sont augmentés de +2.",
+      "enhancement01title": "Puissance"
     },
     "Super Skill": {
-      "name": "Super Skill",
-      "description": "<p>The pulp hero is exceptionally good at something. Maybe he&rsquo;s a crack shot in <em>fire combat</em>, a mind unrivaled in <em>science</em>, or has a wit that cuts his foes to the bone via <em>taunt</em>.</p>\n<p>When Super Skill is taken, the character increases any one skill by two adds. She may exceed the usual maximum of +5 adds without taking the Mastery Perk. (If the character has the Mastery Perk, it stacks with Super Skill.) This stacks with all other skill increases and allows a pulp hero to reach superhuman levels of competency far faster than most.</p>\n<p>Like Super Attribute, the champion may only take this Perk once &mdash; she cannot have more than one Super Skill.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "At least three adds in the selected skill"
+      "name": "Super compétence ★",
+      "description": "<p>Le héros pulp est exceptionnellement doué dans un domaine. Il peut être un tireur d’exception avec des <em>Armes à feu</em>, un pur génie en Sciences ou être doté d’un esprit qui déstabilise ses adversaires avec la compétence <em>Provocation</em>. </p> <p> Quand il choisit Super compétence, le héros augmente une compétence de deux rangs. Il peut excéder la limitation maximale de +5 sans avoir à prendre l’Atout Maîtrise (si le héros a l’Atout Maîtrise, il est cumulable avec Super Compétence). Cet effet cumulable avec toute autre augmentation de compétence et permet à un héros pulp d’atteindre un niveau surhumain dans ce domaine bien plus rapidement que les autres. </p> <p> Comme pour Super attribut, un héros ne peut choisir cet Atout qu’une seule fois. Il ne peut pas avoir plusieurs Super compétences. </p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "Au moins 3 rangs dans la compétence sélectionnée.",
+      "enhancement01description": "La compétence est considérée comme Favorisée.",
+      "enhancement01title": "Favorisé",
+      "enhancement02description": "La compétence bénéficie d’un bonus de +4 rangs (au lieu de +2).",
+      "enhancement02title": "Puissance"
     },
     "Supernatural Adaption": {
       "name": "Supernatural Adaption",
@@ -3768,8 +3838,8 @@
       "prerequisites": "<p>Beta Clearance, access to any spell list, and @UUID[Compendium.te001-core-rulebook.Items.Item.ADQgF3E47pmCCHys]{Realm Runner} OR Gamma Clearance and access to any spell list.</p>"
     },
     "Survivor": {
-      "name": "Survivor",
-      "description": "<p>Whether she&rsquo;s blessed by fate, destined for some greater end, or just tough as nails, this Storm Knight is hard to kill. She ignores all wound penalties when testing for @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.EhKa65cpHvodUl2L#defeat]{Defeat}.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "name": "Survivant",
+      "description": "<p>Qu’il soit favorisé par le destin, destiné à accomplir un grand exploit ou tout simplement particulièrement coriace, il est difficile de tuer le Chevalier des tempêtes. Il ignore tous les malus des Blessures quand il effectue un test de @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.EhKa65cpHvodUl2L#defaite]{Défaite}. </p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
       "prerequisites": ""
     },
     "Swarm": {
@@ -3860,9 +3930,9 @@
       "range": "10 meters"
     },
     "Tenacious": {
-      "name": "Tenacious",
-      "description": "<p>Nothing seems to keep the hero down for long. Her tests to Soak damage become Favored.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "Spirit 8+"
+      "name": "Tenace",
+      "description": "<p>Rien ne semble pouvoir arr&ecirc;ter le h&eacute;ros tr&egrave;s longtemps. Ses tests pour Annuler des dommages sont Favoris&eacute;s.&nbsp;</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "Esprit 8+"
     },
     "Thav Integrated Weapon Mount": {
       "name": "Thav Integrated Weapon Mount",
@@ -4026,9 +4096,9 @@
       "description": "<p>This loathsome thing is some sort of animated corpse. It may be a vampire, a zombie, a gospog, or some other vile horror. Undead are never affected by powers, spells, or abilities that affect breathing, eating, Fatigue, or other functions required only by the living. Such creatures always count as @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.Pu4XsglS98BqDRgX#supernatural-evil]{Supernatural Evil}<br>&nbsp;when determining the effects that Perks or powers have upon them.</p>"
     },
     "Unflinching": {
-      "name": "Unflinching",
-      "description": "<p>A true samurai puts her mission first, even above her own personal safety. She pushes her body to the limits of its endurance to accomplish her goals.</p><p>An Unflinching samurai may eliminate one or more levels of Stymied or Vulnerable by taking one shock per condition removed. For one shock, for example, she could reduce Very Stymied to Stymied. For two shock, she could eliminate both, or negate a Stymied and Vulnerable condition, and so on.</p><p>@UUID[Compendium.te016-pan-pacifica.pan-pacifica-items.Item.V2wPq6DxZfQY4al2]{Updated Version} Présent dans Pan-Pacifica Sourcebook Module.</p>",
-      "prerequisites": "Spirit 8+"
+      "name": "Inébranlable",
+      "description": "<p>Un véritable samouraï fait passer sa mission avant tout, même avant sa propre sécurité. Pour atteindre ses objectifs, il repousse les limites de son organisme. </p> <p> Un samouraï Inébranlable peut éliminer un ou plusieurs niveaux d’états Déstabilisé ou Vulnérable en subissant un point de Choc par état ainsi supprimé. Par exemple, pour un point de Choc, il peut passer d’un état Très déstabilisé à un état Déstabilisé. Pour deux points de Choc, il peut supprimer les deux ou annuler un état Déstabilisé et un état Vulnérable, et ainsi de suite. </p><p>@UUID[Compendium.te016-pan-pacifica.pan-pacifica-items.Item.V2wPq6DxZfQY4al2]{Mise à Jour} Présent dans Pan-Pacifica Sourcebook Module.</p>",
+      "prerequisites": "Esprit 8+"
     },
     "Updraft": {
       "name": "Updraft",
@@ -4070,9 +4140,9 @@
       "notes": "Test to eliminate poison after 3 rounds"
     },
     "Vengeful": {
-      "name": "Vengeful",
-      "description": "<p>Revenge isn’t always a bad thing. When a Vengeful character suffers a wound, she gets an Up result on the next action taken against the offender in the same scene. This doesn’t stack with other Up results. The wound must actually be sustained, not taken and then Soaked, for example.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "Spirit 8+"
+      "name": "Revenchard",
+      "description": "<p>La vengeance n&rsquo;est pas toujours une mauvaise chose. Quand un personnage Revanchard subit une Blessure, au cours de la m&ecirc;me Sc&egrave;ne, il obtient un r&eacute;sultat Un de plus ! &agrave; la prochaine action qu&rsquo;il entreprend contre celui qui l&rsquo;a bless&eacute;. Ce n&rsquo;est pas cumulable avec d&rsquo;autres r&eacute;sultats Un de plus ! La Blessure doit &ecirc;tre subie, pas Annul&eacute;e par exemple.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "Esprit 8+"
     },
     "Vow of Nonviolence": {
       "name": "Vow of Nonviolence",
@@ -4128,13 +4198,13 @@
       "range": "5 meter radius"
     },
     "Warden": {
-      "name": "Warden",
-      "description": "<p>Elven wardens roamed the wilderness of Aysle before Uthorion&rsquo;s Rage, always alert for threats to the good folk. After the Dark One&rsquo;s hordes marched through their forests, the wardens&rsquo; numbers went from thousands to less than a hundred.</p>\n<p>Strangely, most of those survivors came to Earth. They are tight-lipped as to why, but seem to bear some secret shame over their people&rsquo;s inability to stop the High Lord before his attention shifted to Core Earth.</p>\n<p>Wardens are independent, stealthy, and cunning, and many are accompanied by animals they have befriended in the wild (see @UUID[Compendium.te001-core-rulebook.Items.j1cM05PejztjGAjk]{White Wolf}).</p>\n<p>Wardens treat <em>stealth</em> and <em>tracking</em> as Favored skills.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.ntqopmBBhU5nzwGn]{Elf}</p>"
+      "name": "Gardien",
+      "description": "<p>Les Gardiens elfes patrouillaient dans la nature hordes du Ténébreux ont ravagé leurs forêts, le nombre de gardiens est passé de quelques milliers à moins d’une centaine.</p> <p>Bizarrement, la plupart de ces survivants sont venus sur Terre. Ils refusent d’expliquer pourquoi mais ils semblent partager une sorte de honte en rapport avec l’incapacité de leur peuple à arrêter Uthorion avant qu’il ne porte son attention sur la Terre Prime. </p> <p>Les Gardiens sont indépendants, discrets et rusés et bon nombre d’entre eux sont accompagnés par des animaux avec lesquels ils se sont liés d’amitié dans la nature (voir @UUID[Compendium.te001-core-rulebook.Items.j1cM05PejztjGAjk]{Loup blanc}).</p> <p>Les Gardiens considèrent <em>Discrétion</em> et <em>Pistage</em> comme des compétences Favorisées.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.ntqopmBBhU5nzwGn]{Elfe}</p>"
     },
     "Wealthy": {
-      "name": "Wealthy",
-      "description": "<p>Some people are born into riches and prosperity, while others earn it the hard way. The character has $10 000 worth of starting gear instead of the usual $1 000, and <em>persuasion</em> or <em>streetwise</em> is Favored when testing to purchase an item or service.</p>",
+      "name": "Riche",
+      "description": "<p>Certaines personnes naissent riches et prospères tandis que d’autres doivent gagner leur fortune. Le personnage dispose de 10 000 $ en équipements de départ au lieu de la somme normale de 1000 $ et sa compétence <em>Persuasion</em>, ou <em>Débrouillardise</em>, est considérée comme Favorisée quand il achète un objet ou loue un service. </p>",
       "prerequisites": ""
     },
     "Webley Revolver": {
@@ -4145,19 +4215,19 @@
       "notes": "Pistolet"
     },
     "Whip Tail": {
-      "name": "Whip Tail",
-      "description": "<p>The lizard-folk use their tails primarily for balance, but some have learned to fight with them as well, performing complicated spins and flips that turn their tails into long, whip-like weapons. <em>Unarmed combat</em> becomes Favored.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.R7iwjAD49l0zullR]{Edeinos}</p><p></p>"
+      "name": "Coup de queue",
+      "description": "<p>Les hommes-l&eacute;zards utilisent leur queue pour l&rsquo;&eacute;quilibre mais certains ont appris &agrave; combattre avec en la transformant en une arme longue semblable &agrave; un fouet. La comp&eacute;tence <em>Combat &agrave; mains nues</em> de tels edeinos est Favoris&eacute;e.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.R7iwjAD49l0zullR]{Edeinos}</p>"
     },
     "Whirlwind": {
-      "name": "Whirlwind",
-      "description": "<p>The warrior has trained to hit a large number of foes in a single dance of death. He ignores the first two points of the @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.EhKa65cpHvodUl2L#multi-targeting]{Multi-Targeting} penalty when using <em>melee weapons</em> or <em>unarmed combat</em>.</p><p>Also Présent dans Pan-Pacifica Sourcebook Module.</p>",
-      "prerequisites": "Dexterity 8+"
+      "name": "Tornade",
+      "description": "<p> Le combattant s’est entraîné pour toucher de nombreux adversaires dans une véritable danse de la mort. Il ignore les deux premiers points de malus de Cibles multiples quand il utilise des <em>Armes de mêlée</em> (voir @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.EhKa65cpHvodUl2L#cibles-multiples]{Cibles multiples}). </p><p>Aussi Présent dans Pan-Pacifica Sourcebook Module.</p>",
+      "prerequisites": "Dextérité 8+"
     },
     "White Wolf": {
       "name": "White Wolf",
-      "description": "<p>Elven wardens often take white wolves as companions (not pets), and the two live, fight, and die together from the moment of bonding on.</p>\n<p>This Perk grants an elven warden a loyal white wolf who follows basic commands and fights to the death to defend his master. The animal is as smart as the most well-trained dog of Core Earth, meaning it can select targets intelligently, defend a particular person or location, or retrieve an object if it&rsquo;s seen it before. The owner can also designate <q>rally spots</q> the wolf can go to or wait, though this must be done ahead of time with a hand signal or command at the particular location. This is useful for those times a warden must go into a city or place the wolf might be unwelcome or endangered.</p>\n<p>In game terms, the player should control the wolf most of the time, choosing his targets, rolling his attacks, and so forth.</p>\n<p>White wolves do not have @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.kYP18QiA72P6PlUi#possibilities]{Possibilities}, but the warden can spend <em>his</em> Possibilities&nbsp;(and Destiny cards) for the creature&mdash;even if they are separated.</p>\n<p>When a white wolf is slain, its spirit goes into a shadowy nether realm, gathering power and form until it can return to the land of the living at the beginning of the next act.</p>\n<p>If the wolf&rsquo;s master falls, it permanently loses a point of shock every 24 hours until it fades away to the spirit world, never to return.</p>\n<p>@UUID[Compendium.te001-core-rulebook.Actors.fImZbwzh0jbEYGN5]{White Wolf}</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.ntqopmBBhU5nzwGn]{Elf}, @UUID[Compendium.te001-core-rulebook.Items.Item.C53zQKf33q28slDw]{Warden}</p>"
+      "description": "<p>Les Gardiens elfes ont souvent un loup blanc comme compagnon (et non comme animal domestique) et ils vivent, combattent et meurent ensemble dès le moment où leur relation se noue. </p> <p> Cet Atout accorde à un Gardien elfe un loup blanc loyal qui suit des instructions simples et combat jusqu’à la mort pour défendre son maître. L’animal est aussi intelligent que le chien le mieux dressé de la Terre Prime, ce qui signifie qu’il peut choisir intelligemment ses cibles, défendre une personne ou un lieu précis, ou récupérer un objet s’il l’a déjà vu. Son compagnon elfe peut aussi choisir des « lieux de ralliement » où peut se rendre le loup et y attendre. Il faut cependant définir un lieu de ralliement par avance en faisant un signe ou en donnant un ordre au loup à cet endroit précis. C’est utile quand le gardien doit aller dans une ville ou dans un endroit dangereux pour l’animal. </p> <p> En termes de jeu, c’est le joueur qui contrôle le loup la plupart du temps en choisissant ses cibles, en effectuant ses jets d’attaque et ainsi de suite. </p> <p> Les loups blancs n’ont pas de @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.kYP18QiA72P6PlUi#possibilites]{Possibilités} mais le Gardien peut utiliser <em>ses</em> propres Possibilités (et ses cartes Destin) pour la créature, même s’ils sont séparés. </p> <p> Quand un loup blanc est tué, son esprit va dans un obscur royaume où il se reconstitue jusqu’à ce qu’il puisse revenir sur la terre des vivants au début de la prochaine scène. </p> <p> Si le maître du loup succombe, il subit un point de Choc toutes les 24 heures jusqu’à ce qu’il disparaisse dans le monde des esprits sans possibilité de retour. </p> <p>@UUID[Compendium.te001-core-rulebook.Actors.fImZbwzh0jbEYGN5]{Loup blanc}</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.ntqopmBBhU5nzwGn]{Elfe}, @UUID[Compendium.te001-core-rulebook.Items.Item.C53zQKf33q28slDw]{Gardien}</p>"
     },
     "Wiccan": {
       "name": "Wiccan",
