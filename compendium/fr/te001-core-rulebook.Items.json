@@ -261,12 +261,12 @@
       "range": "10 meters"
     },
     "Ammo Belt/Web Belt": {
-      "name": "Ammo Belt/Web Belt",
-      "description": "<p>Also called a web belt, this common accessory holds extra magazines for firearms without being too Encombrant or unmanageable. The belt carries five extra clips of ammunition or 50 loose shells. Ammo is included in the price. Functionally identical belts are available as low as Tech 15.</p><p>Use @UUID[Compendium.te001-core-rulebook.Items.Item.p33f0oHKX9OmrZtQ]{Ammo Belt/Web Belt reloads}.</p><p> </p><p>Présent dans <strong>Core Rules</strong></p>"
+      "name": "Cartouchière/Ceinture à munitions",
+      "description": "<p>Aussi appel&eacute;e ceinture &agrave; munitions, cet accessoire assez r&eacute;pandu permet de stocker des chargeurs suppl&eacute;mentaires pour les armes &agrave; feu sans que cela soit trop encombrant ou peu pratique. Elle peut contenir cinq chargeurs ou 50 balles/cartouches. Les munitions sont comprises dans le prix. Des cartouchi&egrave;res semblables peuvent &ecirc;tre trouv&eacute;es &agrave; partir d&rsquo;un niveau Technologie de 15.</p><p>Utiliser @UUID[Compendium.te001-core-rulebook.Items.Item.p33f0oHKX9OmrZtQ]{Rechargement Cartouchière/Ceinture à munitions}.</p><p> </p><p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Ammo Belt/Web Belt Rechargements": {
-      "name": "Ammo Belt/Web Belt Rechargements",
-      "description": "<p>Aquired by @UUID[Compendium.te001-core-rulebook.Items.Item.suvUndoA0PTOIWCz]{Ammo Belt/Web Belt}</p><p>5 reloads for a firearm.</p>"
+      "name": "Rechargement de Cartouchière/Ceinture à munitions",
+      "description": "<p>Acquis avec l'Atour @UUID[Compendium.te001-core-rulebook.Items.Item.suvUndoA0PTOIWCz]{Cartouchière/Ceinture à munitions}</p><p>5 cartouches pour une arme à feu.</p>"
     },
     "Animal Companion (Sabre-Tooth Cat)": {
       "name": "Compagnon animal  (Fauve à dents de sabre)",
@@ -274,7 +274,7 @@
       "prerequisites": "Charisme 8+"
     },
     "Animal-hide Canoe": {
-      "name": "Animal-hide Canoe",
+      "name": "Canoë en peau",
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Anomaly Prime": {
@@ -629,11 +629,11 @@
       "range": "1 kilometer"
     },
     "Caltrops": {
-      "name": "Caltrops",
-      "description": "<p>A batch of scattered spikes that always land with a point upwards, designed to impale feet and tires. Once deployed as a simple action maneuver interactions become Favored around the spikes.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
+      "name": "Chausse-trappe",
+      "description": "<p>Plusieurs petites pi&egrave;ces m&eacute;talliques constitu&eacute;es de pointes dont l&rsquo;une d&rsquo;elles est orient&eacute;e vers le haut. Dispers&eacute;es par terre, elles sont pr&eacute;vues pour crever les pneus ou pour que des victimes marchent dessus. Une fois d&eacute;ploy&eacute;es avec une action simple, l&rsquo;interaction Man&oelig;uvre devient Favoris&eacute;e autour des pointes</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Candles": {
-      "name": "Candles",
+      "name": "Bougies",
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Captivate": {
@@ -878,7 +878,7 @@
     },
     "Cyberdeck": {
       "name": "Cyberdeck",
-      "description": "<p>Ein leistungsstarker PC, der direkt mit dem Gehirn des Benutzers verbunden ist. Die <em>Computer</em>-Fertigkeit des verbundenen Benutzers zählt als Begünstigt.</p><p>@UUID[Compendium.te010-cyberpapacy.cyberpapacy-items.Item.te59INT9pS0If9zQ]{Updated version} Présent dans Cyberpapacy Sourcebook Module</p>"
+      "description": "<p>Un puissant ordinateur portable connect&eacute; directement aux neurones de son utilisateur. La comp&eacute;tence <em>Informatique</em> de l&rsquo;utilisateur connect&eacute; devient Favoris&eacute;e.</p><p>@UUID[Compendium.te010-cyberpapacy.cyberpapacy-items.Item.te59INT9pS0If9zQ]{Mise à Jour} Présent dans Cyberpapacy Sourcebook Module</p>"
     },
     "Cyberware Implants": {
       "name": "Implants cybernétiques",
@@ -2285,7 +2285,7 @@
       "description": "<p>Sometimes called speedcuffs. Attaching handcuffs requires a Good @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.EhKa65cpHvodUl2L#grappling]{Grappling} result. A cuffed target&rsquo;s hands are restrained until the cuffs are unlocked or broken &mdash; Toughness 18 or a Heroic (DN 18) Strength test.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Hands-free Comms": {
-      "name": "Hands-free Comms",
+      "name": "Communicateur mains libres",
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Hard to Kill": {
@@ -2372,7 +2372,7 @@
       "prerequisites": "Charisme 8+"
     },
     "Hemp Rope, 10 meters": {
-      "name": "Hemp Rope, 10 meters",
+      "name": "Corde de chanvre, 10 mètres",
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Heroes": {
@@ -2403,8 +2403,8 @@
       "description": "<p>Aquired by @UUID[Compendium.te001-core-rulebook.Items.Item.kLJAW3XsbLRUGz8Q]{Hollow Point}</p><p>First available at Tech 20, this category includes a variety of ammunition types besides hollow points, such as simple-to-make <q>dum-dum</q> rounds. These are types of ammunition designed to either deform on impact (<q>mushroom</q>) or otherwise expand to create a larger, nastier wound. They are more effective against targets not wearing any armor because impact with the armor causes the projectile to deform before it hits the target’s body.</p><p>Hollow point ammunition increases a firearm’s damage value by one point when used on unarmored targets. It has no extra effect against a target with any armor rating at all.</p>"
     },
     "Hologram Clasp": {
-      "name": "Hologram Clasp",
-      "description": "<p>A worn device that creates a mirror image of the wearer a few meters away. Ranged attacks against the wearer suffer a –2 penalty when the device is active.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
+      "name": "Broche holographique",
+      "description": "<p>Un appareil port&eacute; qui g&eacute;n&egrave;re une image holographique de son utilisateur &agrave; quelques m&egrave;tres de lui. Les attaques &agrave; distance contre l&rsquo;utilisateur subissent un malus de -2 quand l&rsquo;appareil est actif.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Holy Symbol/Totem": {
       "name": "Holy Symbol/Totem",
@@ -2466,8 +2466,8 @@
       "notes": ""
     },
     "Identity Scrambler": {
-      "name": "Identity Scrambler",
-      "description": "<p>When activated, the device disrupts the input from any camera or recording device connected to the GodNet. As a side-effect the user doesn’t appear on augmented reality HUDs, eliminating the bonus they usually grant.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
+      "name": "Brouilleur d’identité",
+      "description": "<p>Quand il est activ&eacute;, cet appareil brouille les images enregistr&eacute;es par n&rsquo;importe quelle cam&eacute;ra ou appareil d&rsquo;enregistrement connect&eacute;s au R&eacute;seau divin. Un effet secondaire de cet appareil, c&rsquo;est que le personnage n&rsquo;appara&icirc;t sur aucun VTH de r&eacute;alit&eacute; augment&eacute;e et annule le bonus que ce type d&rsquo;appareil accorde g&eacute;n&eacute;ralement.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Immunity": {
       "name": "Immunité",
@@ -2511,7 +2511,7 @@
       "prerequisites": ""
     },
     "Inflatable Raft": {
-      "name": "Inflatable Raft",
+      "name": "Canot pneumatique",
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Insidious": {
@@ -2524,8 +2524,8 @@
       "prerequisites": "Beta Clearance, Charisma 8+, a follower from any source"
     },
     "Interactive Map": {
-      "name": "Interactive Map",
-      "description": "<p>The paper of this map is a touchsensitive display, allowing the user to zoom, scroll, and change the display. In zones that support the map’s Tech Axiom, information on the map is updated real-time via wireless connection.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
+      "name": "Carte interactive",
+      "description": "<p>Le \"papier\" de cette carte est un affichage tactile qui permet &agrave; l&rsquo;utilisateur de zoomer sur la carte, de la faire d&eacute;filer ou de modifier la zone affich&eacute;e. Dans les secteurs supportant l&rsquo;Axiome Technologie de la carte, les informations sont mises &agrave; jour en temps r&eacute;el gr&acirc;ce &agrave; une connexion sans fil.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Invisibility": {
       "name": "Invisibility",
@@ -2582,7 +2582,7 @@
       "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.4ZtIS4h8WRGarKIV]{Psionique}</p><p></p>"
     },
     "Jewelry": {
-      "name": "Jewelry",
+      "name": "Bijoux",
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "KEP Rechargements": {
@@ -2668,7 +2668,7 @@
       "notes": "Munition 1"
     },
     "Lighter": {
-      "name": "Lighter",
+      "name": "Briquet",
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Lightning": {
@@ -2968,8 +2968,8 @@
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Movie Camera": {
-      "name": "Movie Camera",
-      "description": "<p>Encombrant and heavy when they first appear — treat this like a Minimum Strength 10 weapon. By Tech 22 cameras are light enough to ignore any minimum.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
+      "name": "Caméra professionnelle",
+      "description": "<p>Les premiers mod&egrave;les sont encombrants et lourds. Consid&eacute;rez-les comme des armes n&eacute;cessitant une Force minimale de 10. &Agrave; partir d&rsquo;un niveau technologique 22, les cam&eacute;ras sont suffisamment l&eacute;g&egrave;res et la limitation de <em>Force</em> minimale est ignor&eacute;e.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Multi-Crossbow": {
       "name": "Arbalète à répétition",
@@ -3036,7 +3036,7 @@
       "prerequisites": "Charisma 8+, at least three adds in find"
     },
     "Notebook": {
-      "name": "Notebook",
+      "name": "Carnet",
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Nullify": {
@@ -3045,7 +3045,7 @@
       "prerequisites": "<p>Beta Clearance, @UUID[Compendium.te001-core-rulebook.Items.Item.uNmrQFTiSe5b1FXp]{Negation}</p>"
     },
     "Nylon Rope, 10 meters": {
-      "name": "Nylon Rope, 10 meters",
+      "name": "Corde en nylon, 10 mètres",
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Occultech Implants": {
@@ -3208,12 +3208,12 @@
       "notes": "Discret"
     },
     "Power Pack": {
-      "name": "Power Pack",
-      "description": "<p>Worn like a web belt, and holds five spare reload packs for energy weapons.</p><p> Use @UUID[Compendium.te001-core-rulebook.Items.Item.HhDxxxj3Fuj1HXqF]{Power Pack Rechargements}</p>"
+      "name": "Cartouchière à batterie",
+      "description": "<p>Port&eacute;e comme une ceinture &agrave; munitions, cette cartouchi&egrave;re permet de stocker cinq packs de recharges pour les armes &agrave; &eacute;nergie.</p><p>Utiliser @UUID[Compendium.te001-core-rulebook.Items.Item.HhDxxxj3Fuj1HXqF]{Rechargement de Cartouchière à batterie}</p>"
     },
     "Power Pack Rechargements": {
-      "name": "Power Pack Rechargements",
-      "description": "<p>Aquired by @UUID[Compendium.te001-core-rulebook.Items.Item.kCkI73GlHdXzzzFY]{Power Pack}</p><p>5 reloads for a energy weapons.</p>"
+      "name": "Rechargement de Cartouchière à batterie",
+      "description": "<p>Acquis avec @UUID[Compendium.te001-core-rulebook.Items.Item.kCkI73GlHdXzzzFY]{Cartouchière à batterie}</p><p>5 munitions pour une arme à énergie.</p>"
     },
     "Precog Anomaly": {
       "name": "Precog Anomaly",
@@ -3295,12 +3295,12 @@
       "prerequisites": "Beta Clearance, Dexterity 8+"
     },
     "Quiver": {
-      "name": "Quiver",
-      "description": "<p>A container that holds 20 arrows (included).</p><p>Use @UUID[Compendium.te001-core-rulebook.Items.Item.B9xu6G4DghmqKXpm]{Quiver Rechargements}</p><p> </p><p>Présent dans <strong>Core Rules</strong></p>"
+      "name": "Carquois",
+      "description": "<p>Il permet de stocker jusqu&rsquo;&agrave; 20 fl&egrave;ches (comprises dans le prix).</p><p>Use @UUID[Compendium.te001-core-rulebook.Items.Item.B9xu6G4DghmqKXpm]{Rechargement de Carquois}</p><p> </p><p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Quiver Rechargements": {
-      "name": "Quiver Rechargements",
-      "description": "<p>Aquired by @UUID[Compendium.te001-core-rulebook.Items.Item.OAfwe6wKuFsbkLCM]{Quiver}</p><p>Quantity describes the available arrows/bolts.</p>"
+      "name": "Rechargement de Carquois",
+      "description": "<p>Acquis avec l'Atout @UUID[Compendium.te001-core-rulebook.Items.Item.OAfwe6wKuFsbkLCM]{Carquois}</p><p>La Quantité indique le nombre de flèches/carreaux.</p>"
     },
     "Quiver of Recovery": {
       "name": "Quiver of Recovery",
@@ -3317,8 +3317,8 @@
       "prerequisites": ""
     },
     "Radiation Detector": {
-      "name": "Radiation Detector",
-      "description": "<p>Also known as a Geiger counter. When switched on it automatically alerts the user of dangerous radiation levels. Grants a +4 bonus to find items that are more radioactive than the background area.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
+      "name": "Détecteur de radiations",
+      "description": "<p>Aussi connu sous le nom de compteur Geiger. Une fois activ&eacute;, il alerte automatiquement son utilisateur en cas de radiations dangereuses. Accorde un bonus de +4 &agrave; un test d&rsquo;Observation pour trouver des objets plus radioactifs que les radiations environnantes.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Radiation Pills": {
       "name": "Radiation Pills",
@@ -3587,8 +3587,8 @@
       "description": "<p>A strip of vat-grown skin that fuses with damaged flesh it comes in contact with. Using an action and a slap patch immediately heals 1 wound.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Slaver Collar": {
-      "name": "Slaver Collar",
-      "description": "<p>Attaching a slaver collar requires several minutes, and is linked to a <q>master</q> device. If the wearer moves more than 500 meters away, the master device stops transmitting, or the master dies, the collar detonates dealing [[/r 2d6x6max5+24]]{24 +2 BD} damage. The collar is placed underneath any worn armor, ignoring it.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
+      "name": "Collier d’esclave",
+      "description": "<p>Attacher un collier d&rsquo;esclave n&eacute;cessite plusieurs minutes et il est reli&eacute; &agrave; un dispositif principal. Si le porteur s&rsquo;&eacute;loigne de plus de 500 m&egrave;tres, que le dispositif principal cesse de transmettre ou si le ma&icirc;tre meurt, le collier explose infligeant [[/r 2d6x6max5+24]]{24 +2 BD} de dommages. Le collier est plac&eacute; sous une armure port&eacute;e qui est ignor&eacute;e pour ces dommages.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Slayer's Bandoleer": {
       "name": "Cartouchi&egrave;re du tueur",
@@ -3623,16 +3623,16 @@
       "notes": ""
     },
     "Smart Ammo": {
-      "name": "Smart Ammo",
-      "description": "<p>First available at Tech 25, smart ammunition is not really a bullet but a small, selfguiding missile. The projectile is equipped with a sensor, usually a heat-seeker, and can change its trajectory during flight to track a target. A target must still be visible—the missile doesn’t make sharp turns around corners and the like.</p><p>Smart ammunition makes the test for the attack  @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.EhKa65cpHvodUl2L#favored-skills]{Favored}. Requires a Smartgun Attachment weapon add-on or the CSI EyeKill Mk. IV to use.</p><p>Use @UUID[Compendium.te001-core-rulebook.Items.Item.Wn0qrUh8fMD79xZV]{Smart Ammo Rechargements}.</p><p> </p><p>Présent dans <strong>Core Rules</strong></p>"
+      "name": "Munitions intelligentes",
+      "description": "<p>Disponibles à partir de l’Axiome Technologie 25, la munition intelligente n’est pas véritablement une balle mais un tout petit missile autoguidé. Le projectile est équipé d’un détecteur, généralement thermique, et il peut modifier sa trajectoire pour traquer sa cible. La cible doit toujours être visible, le projectile ne peut effectuer de virage à angle droit et, par exemple, tourner à un angle de bâtiment.</p> <p>Les tests d’attaques sont @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.EhKa65cpHvodUl2L#actions-approuvees]{Favorisés} avec des munitions intelligentes (voir page 109). Pour utiliser une balle intelligente, l’arme doit être équipée de l’accessoire connecteur intelligent ou d’un œil létal IV CSI.</p> <p>Utiliser le @UUID[Compendium.te001-core-rulebook.Items.Item.Wn0qrUh8fMD79xZV]{Rechargement de Munitions Intelligents}.</p><p> </p><p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Smart Ammo Rechargements": {
-      "name": "Smart Ammo Rechargements",
-      "description": "<p>Aquired by @UUID[Compendium.te001-core-rulebook.Items.Item.qEbyBsLTvxVqiZ29]{Smart Ammo}</p><p><span style=\"font-family:'Palatino Linotype'\">First available at Tech 25, smart ammunition is not really a bullet but a small, selfguiding missile. The projectile is equipped with a sensor, usually a heat-seeker, and can change its trajectory during flight to track a target. A target must still be visible—the missile doesn’t make sharp turns around corners and the like.</span></p><p style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:rgb(34, 120, 120) rgba(46, 46, 46, 0.58);margin:0.5em 0px;color:rgb(0, 0, 0);font-family:'Palatino Linotype';font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:start\"><span style=\"font-family:'Palatino Linotype'\">Smart ammunition makes the test for the attack @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.EhKa65cpHvodUl2L#favored-skills]{Favored}. Requires a Smartgun Attachment weapon add-on or the CSI EyeKill Mk. IV to use.</span></p>"
+      "name": "Rechargement de Munitions Intelligentes",
+      "description": "<p>Acquis avec by @UUID[Compendium.te001-core-rulebook.Items.Item.qEbyBsLTvxVqiZ29]{Munitions intelligentes}</p><p>Disponibles à partir de l’Axiome Technologie 25, la munition intelligente n’est pas véritablement une balle mais un tout petit missile autoguidé. Le projectile est équipé d’un détecteur, généralement thermique, et il peut modifier sa trajectoire pour traquer sa cible. La cible doit toujours être visible, le projectile ne peut effectuer de virage à angle droit et, par exemple, tourner à un angle de bâtiment.</p> <p>Les tests d’attaques sont @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.EhKa65cpHvodUl2L#actions-approuvees]{Favorisés} avec des munitions intelligentes (voir page 109). Pour utiliser une balle intelligente, l’arme doit être équipée de l’accessoire connecteur intelligent ou d’un œil létal IV CSI.</p>"
     },
     "Smartgun Attachment": {
-      "name": "Smartgun Attachment",
-      "description": "<p>Has no effect on its own other than to allow the use of @UUID[Compendium.te001-core-rulebook.Items.qEbyBsLTvxVqiZ29]{Smart Ammo} with the weapon. The attachment records footage of the weapon&rsquo;s targets, and a connected cyber eye (see @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#cyberware]{Cyberware}) also sees through the weapon&rsquo;s sensors.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
+      "name": "Connecteur intelligent",
+      "description": "<p> Cet appareil n’a aucun autre effet que de permettre à l’arme sur laquelle il est fixé d’utiliser des @UUID[Compendium.te001-core-rulebook.Items.qEbyBsLTvxVqiZ29]{Munitions intelligentes}. Le dispositif enregistre des images des cibles de l’arme et un œil cybernétique connecté (voir @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#implants-cybernetiques]{Implants cybernétique}) capte également les images des détecteurs de l’arme. </p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Smiling Deceiver": {
       "name": "Charmant imposteur ★",
@@ -3640,8 +3640,8 @@
       "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.buhBg51Wc3Dc4de1]{Aspect Effrayant}</p>"
     },
     "Smoke Pellets": {
-      "name": "Smoke Pellets",
-      "description": "<p>Can be thrown to the ground as a trick interaction, and leaves behind smoke (−2 Concealment penalty) in a five-meter radius.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
+      "name": "Fumigènes",
+      "description": "<p>jetez-le par terre avec une interaction Ruse pour qu&rsquo;il g&eacute;n&egrave;re de la fum&eacute;e (Couvert partiel correspondant &agrave; un malus de -2 pour ceux en-dehors du p&eacute;rim&egrave;tre) dans un rayon de cinq m&egrave;tres</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Smoke Shells Rechargements": {
       "name": "Smoke Shells Rechargements",
@@ -3699,7 +3699,7 @@
       "prerequisites": "Au moins 2 rangs dans Véhicules terrestres."
     },
     "Spell Component Bag": {
-      "name": "Spell Component Bag",
+      "name": "Besace à composants",
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Spell Slinger": {
@@ -4019,7 +4019,7 @@
       "description": "<p>@UUID[Compendium.te008-aysle.aysle-journals.PQRWfK8bsqZ10lY1.JournalEntryPage.wIrHC8wmJX9fGfdm#enchanted-and-arcane-items]{Enchanted}</p><p>A Tiger's Eye is a stone made of quartz striped with various shades of golden brown. It is known for it's protective properties and grants +1 Full Body Armor.</p>"
     },
     "Tool Belt": {
-      "name": "Tool Belt",
+      "name": "Ceinture à outils",
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Torch": {
@@ -4035,8 +4035,8 @@
       "description": "<p>Only for @UUID[Compendium.te001-core-rulebook.rules.JournalEntry.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#heavy-weapons-and-explosives]{Heavy Weapons}</p><p>Using phosphorus or similar pyrotechnics, one in five rounds fired burns brightly enough to be visible during daylight, allowing the firer to see the actual trajectory the projectiles follow so corrections can be made. Tracers only have an effect when fired @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#rafale-longue]{Rafale Longue}. After firing, the tracers grant the firer an @UUID[Compendium.te001-core-rulebook.rules.JournalEntry.pwneQ55M0nnDH0Us.JournalEntryPage.EhKa65cpHvodUl2L#aim]{Aim} for their next shot. Tracers appear at Tech 19.</p>"
     },
     "Tracking Device": {
-      "name": "Tracking Device",
-      "description": "<p>A beacon that broadcasts its location to any attuned radio receiver within one kilometer.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
+      "name": "Dispositif de pistage",
+      "description": "<p>Une balise qui &eacute;met un signal de localisation sur un kilom&egrave;tre &agrave; tout r&eacute;cepteur radio captant sa fr&eacute;quence.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Trademark Weapon": {
       "name": "Arme de prédilection",
@@ -4163,8 +4163,8 @@
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Wall Crawlers": {
-      "name": "Wall Crawlers",
-      "description": "<p>The fibers of these boots and gloves temporarily bond with materials they are pressed against. Even slick surfaces like smooth glass become DN 10 to scale.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
+      "name": "Bottes et gants d’ascension",
+      "description": "<p>Les fibres de ces bottes et de ces gants peuvent adh&eacute;rer temporairement aux mat&eacute;riaux sur lesquels elles sont press&eacute;es. M&ecirc;me des surfaces lisses comme du verre peuvent &ecirc;tre escalad&eacute;es avec un ND de 10.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Wall of Stone": {
       "name": "Wall of Stone",
