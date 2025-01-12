@@ -306,8 +306,8 @@
       "range": "Touch"
     },
     "Armor (Special Ability)": {
-      "name": "Armor (Special Ability)",
-      "description": "<p>The creature has scaly skin, tough hide, or even actual armor that adds directly to its Toughness. This number is already figured into Toughness.</p>"
+      "name": "Armure",
+      "description": "<p>La cr&eacute;ature a une peau &eacute;cailleuse, un derme &eacute;pais ou m&ecirc;me une armure qui augmente directement sa R&eacute;sistance. La valeur d&rsquo;armure est d&eacute;j&agrave; prise en compte dans sa R&eacute;sistance.</p>"
     },
     "Armor Piercing": {
       "name": "Armor Piercing",
@@ -460,8 +460,8 @@
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Bite/Claws": {
-      "name": "Bite/Claws",
-      "description": "<p>Monsters with bite or claw attacks list a single damage value, such as: Bite/Claws:&nbsp;Strength&nbsp;+2 (14). Whether the attack is actually a bite or a claw attack doesn&rsquo;t usually matter. If it does, the Game Master can decide.</p>",
+      "name": "Morsure/Griffes",
+      "description": "<p>Pour les monstres ayant une attaque de morsure, ou de griffes, une seule valeur de dommages est indiqu&eacute;e telle que : Morsure/griffes : <em>Force</em> +2 (14). Que l&rsquo;attaque soit effectu&eacute;e avec des griffes ou une morsure n&rsquo;a pas vraiment d&rsquo;importance. Si cela a une importance, c&rsquo;est au choix du MJ.</p>",
       "chatNote": ""
     },
     "Black Powder": {
@@ -725,8 +725,8 @@
       "description": "<p>These elbow-length leather gloves cling to stone, eliminating 6 points of penalties for any test to climb walls or cliffs.</p><p> </p><p>Also Présent dans Aysle Sourcebook Module</p>"
     },
     "Cloak of Darkness": {
-      "name": "Cloak of Darkness",
-      "description": "<p>When the sun sets, the monstrous inhabitants of Orrorsh gain power. They lurk in darkened cellars and dank caves, and emerge on moonless nights when&nbsp;storms rage.</p>\n<p>Monsters with this ability gain a bonus to their Toughness equal to the visibility penalty of the darkness they&rsquo;re in. A monster obscured by Dim shadow (a &minus;2 penalty) gains a +2 increase to Toughness, for example. A horrid fiend in Pitch Black conditions has a +6 Toughness boost!</p>\n<p>Activate relevant Lighting under Effects!</p>"
+      "name": "Linceul de ténèbres",
+      "description": "<p> Quand le soleil se couche, les monstrueux habitants d’Orrorsh gagnent en puissance. Ils se tapissent dans les caves sombres et les grottes humides et quittent leurs tanières les nuits sans lune quand la tempête fait rage. </p> <p> Les monstres avec cette capacité gagnent un bonus à leur Résistance égal au malus de visibilité de l’obscurité environnante. Avec une obscurité Faible (malus de -2) un monstre gagne +2 en Résistance, par exemple. Dans des conditions de Noir complet, un horrible démon bénéficie d’un bonus de +6 en Résistance ! </p> <p> Activez la Lumière adéquate dans l'onglet Effects! </p>"
     },
     "Cloud Mind": {
       "name": "Cloud Mind",
@@ -1070,8 +1070,8 @@
       "notes": "Fatigues, Intégrale."
     },
     "Dread": {
-      "name": "Dread",
-      "description": "<p>Dread is reserved for those particularly terrible and iconic creatures such as dragons in Aysle or the&nbsp;Gaunt Man&rsquo;s unnerving ravagons. When they enter a Standard Scene, it immediately becomes a Dramatic Scene. Once they depart (or are defeated) the scene returns to normal on the next card.</p>"
+      "name": "Effroi",
+      "description": "<p>Effroi est une capacit&eacute; r&eacute;serv&eacute;e aux cr&eacute;atures terrifiantes et iconiques telles que les dragons d&rsquo;Aysle ou les ravagons du D&eacute;charn&eacute;. Quand ces horreurs interviennent au cours d&rsquo;une Sc&egrave;ne normale, elle devient imm&eacute;diatement une Sc&egrave;ne dramatique. Une fois qu&rsquo;elles ne sont plus pr&eacute;sentes (ou qu&rsquo;elles ont &eacute;t&eacute; vaincues) la Sc&egrave;ne redevient normale d&egrave;s la prochaine carte.</p>"
     },
     "Drive Defensively": {
       "name": "Drive Defensively",
@@ -1985,8 +1985,8 @@
       "range": "50 meters"
     },
     "Fear (Special Ability)": {
-      "name": "Fear (Special Ability)",
-      "description": "<p>The creature causes fear. When a character first encounters it in an act, he must make a <em>willpower </em>or <em>Spirit </em>test or be Very Stymied. Some particularly terrifying creatures may modify this result.</p>"
+      "name": "Peur",
+      "description": "<p>La créature provoque la peur. Quand un personnage la rencontre pour la première fois au cours d’un Acte, il doit réussir un test de <em>Volonté</em> ou d’<em>Esprit</em> ou être Très déstabilisé. Certaines créatures particulièrement terrifiantes peuvent modifier ce résultat. </p>"
     },
     "Filter Mask": {
       "name": "Filter Mask",
@@ -2071,8 +2071,8 @@
       "enhancement03title": "Vitesse"
     },
     "Flight (Special Ability)": {
-      "name": "Flight (Special Ability)",
-      "description": "<p>The foe has wings or some other means of flying through the air. Flight uses the creature&rsquo;s base move speed unless a different move is listed in the&nbsp;description.</p>"
+      "name": "Vol",
+      "description": "<p>L&rsquo;adversaire a des ailes ou un autre moyen de voler. Dans les airs, la cr&eacute;ature utilise sa valeur de d&eacute;placement de base &agrave; moins que le contraire ne soit indiqu&eacute; dans sa description.</p>"
     },
     "Flight Jacket": {
       "name": "Blouson d'aviateur",
@@ -2230,7 +2230,7 @@
     },
     "Gloater": {
       "name": "Gloater",
-      "description": "<p>This villain excels at&nbsp;taunting&nbsp;or&nbsp;intimidating&nbsp;foes. A Gloater from the Nile Empire might be a megalomaniacal lieutenant of Pharaoh Mobius. In Orrorsh it may be a vampire who whispers terrible things from the shadows while his brides rush into melee.</p>\n<p>Gloaters tend to command other minions who do their dirty work for them, allowing them to stand back during combat and demoralize the Storm Knights through interaction attacks.</p>\n<p>Anytime&nbsp;<em>taunt</em>&nbsp;or&nbsp;<em>intimidation&nbsp;</em>are Approved Actions, a Gloater may affect the&nbsp;entire&nbsp;party of player characters without incurring any Multi-Target penalties. The interaction attack doesn&rsquo;t affect the party&rsquo;s allies, only the player characters themselves.</p>\n<p>This results in the interaction effect (Stymied, Vulnerable, or Player&rsquo;s Call)&nbsp;and&nbsp;takes a Destiny card at random from each of&nbsp;their hands.</p>"
+      "description": "<p>Le vilain est particulièrement doué pour narguer ou intimider ses adversaires. Un Vantard de l’Empire du Nil peut être un lieutenant mégalomane du Pharaon Möbius. En Orrorsh, il peut s’agir d’un vampire qui, dans l’ombre, murmure de terribles choses tandis que ses créatures se précipitent au combat. </p> <p> Les Vantards commandent généralement des sbires qui s’occupent de se salir les mains à leur place ce qui leur permet de rester en retrait au cours d’un combat afin de démoraliser les Chevaliers des Tempêtes avec des interactions offensives. </p> <p> À chaque fois que <em>Provocation</em> ou <em>Intimidation</em> sont des Actions approuvées, un Vantard peut affecter la totalité du groupe de PJ sans subir de malus de Cibles multiples. L’interaction offensive n’affecte pas les alliés du groupe, uniquement les PJ.  </p> <p> Cela a pour conséquence l’effet de l’interaction (Déstabilisé, Vulnérable ou Choix du Joueur) et la perte d’une Carte de Destin piochée au hasard dans chacune de leur main. </p>"
     },
     "Glock 9mm": {
       "name": "Glock 9mm",
@@ -2470,8 +2470,8 @@
       "description": "<p>When activated, the device disrupts the input from any camera or recording device connected to the GodNet. As a side-effect the user doesn’t appear on augmented reality HUDs, eliminating the bonus they usually grant.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Immunity": {
-      "name": "Immunity",
-      "description": "<p>Immunity is a catch-all term for anything a creature&nbsp;can&rsquo;t&nbsp;be affected by, from&nbsp;<em>taunt&nbsp;</em>to normal weapons. An Abomination can&rsquo;t be harmed by radiation, for example, while a ghost might be immune to all but magical or silver weapons.</p>"
+      "name": "Immunité",
+      "description": "<p>Immunit&eacute; est un terme regroupant tout ce &agrave; quoi une cr&eacute;ature peut &ecirc;tre insensible, que cela soit une <em>Provocation</em> ou une arme normale en passant par certains autres effets. Par exemple, une Abomination ne peut &ecirc;tre affect&eacute;e par les radiations tandis qu&rsquo;un fant&ocirc;me peut &ecirc;tre immunis&eacute; contre toute attaque &agrave; l&rsquo;exception des armes magiques ou en argent.</p>"
     },
     "Impact Hammer": {
       "name": "Marteau d'impact",
@@ -2515,8 +2515,8 @@
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Insidious": {
-      "name": "Insidious",
-      "description": "<p>Certain villains are particularly nefarious when it comes to tormenting their foes. If an Insidious villain performs a successful Approved Action, he&nbsp;discards&nbsp;a random Destiny card from each of the affected player characters&rsquo;&nbsp;Action Pools!</p>\n<blockquote style=\"margin: 0px 3px;\">\n<p><strong>Example</strong>:&nbsp;The insidious Wu Han&nbsp;taunts&nbsp;a group of would-be heroes. Three of the five are affected and Stymied or made Vulnerable as the GM thinks appropriate. In addition, since&nbsp;taunt&nbsp;is an Approved Action that round and Wu Han is clearly Insidious, the GM also discards a random card out of each player character&rsquo;s&nbsp;Action Pool!</p>\n</blockquote>"
+      "name": "Insidieux",
+      "description": "<p>Certains vilains peuvent s’avérer particulièrement infâmes pour torturer leurs adversaires. Si un vilain Insidieux réussit une Action approuvée, il défausse une Carte de Destin tirée au hasard dans chaque Réserve d’Action des PJ affectés ! </p> <blockquote> <p> <strong>Exemple</strong>: l’insidieux Wu Han provoque un groupe d’aspirants héros. Trois des cinq PJ sont affectés et sont Déstabilisés ou Vulnérables en fonction de ce que décide le MJ. De plus, puisque Provocation est une Action approuvée au cours de ce round et que Wu Han est de toute évidence Insidieux, le MJ défausse aussi une carte tirée aléatoirement de la Réserve d’Action de chaque joueur affecté ! </p> </blockquote> "
     },
     "Intense Training": {
       "name": "Intense Training",
@@ -2927,12 +2927,12 @@
       "range": "50 meters"
     },
     "Mindless": {
-      "name": "Mindless",
-      "description": "<p>The creature has no instinct for self-preservation or capacity for conscious thought. It simply obeys the commands of its master, or attacks anything unlike it. Mindless creatures are immune to&nbsp;<em>intimidation&nbsp;</em>and&nbsp;<em>taunt</em>,&nbsp;but they can still be tricked! They ignore the effects of&nbsp;telepathy&nbsp;and similar spells&nbsp;or miracles.</p>"
+      "name": "Dénué d'intelligence",
+      "description": "<p>La créature n’a aucun instinct d’auto préservation et n’a aucune pensée consciente. Elle se contente d’obéir aux ordres de son maître et, à part ce dernier, attaque tout ce qui bouge. Les créatures dénuées d’intelligence sont immunisées contre l’<em>Intimidation</em> et la <em>Provocation</em> mais les duper reste possible ! Elles ignorent les effets de la Télépathie et des sorts et miracles similaires. </p>"
     },
     "Minions": {
-      "name": "Minions",
-      "description": "<p>Some villains surround themselves with lackeys, minions, and toadies for a reason. While such lapdogs can occasionally prove efficient or even dangerous, their real use is as a sort of living shield for their masters! This is most appropriate in pulp-style realms such as the Nile Empire, but even Tharkoldu sometimes keep thralls around as human shields.</p>\n<p>When a villain with this ability is injured by an attack, he may make a simple&nbsp;<em>reality&nbsp;</em>skill test. If successful, the attack is somehow transferred to a nearby lackey instead. If there are no minions nearby (GM&rsquo;s call) the ability has no effect.</p>"
+      "name": "Sbires",
+      "description": "<p>Il y a une raison pour laquelle certains vilains s&rsquo;entourent de laquais, de s&eacute;ides et de flagorneurs. Bien que ces serviteurs puissent parfois s&rsquo;av&eacute;rer efficaces et m&ecirc;me dangereux, leur r&eacute;elle utilit&eacute; est de servir de boucliers vivants &agrave; leur ma&icirc;tre ! C&rsquo;est particuli&egrave;rement le cas dans les univers pulps tels que celui de l&rsquo;Empire du Nil mais m&ecirc;me les Tharkoldiens s&rsquo;entourent de thralls pour qu&rsquo;ils servent de boucliers humains.</p>\n<p>Quand un vilain avec cette capacit&eacute; est bless&eacute; par une attaque, il peut effectuer un test de <em>R&eacute;alit&eacute;</em>. S&rsquo;il r&eacute;ussit, l&rsquo;attaque est transf&eacute;r&eacute;e d&rsquo;une mani&egrave;re ou d&rsquo;une autre sur un laquais proche. S&rsquo;il n&rsquo;y a aucun sbire suffisamment proche (&agrave; la discr&eacute;tion du MJ), la capacit&eacute; n&rsquo;a aucun effet.</p>"
     },
     "Minor Telekinesis": {
       "name": "Minor Telekinesis",
@@ -3160,7 +3160,7 @@
     },
     "Poison": {
       "name": "Poison",
-      "description": "<p>If a creature with a poison ability deals damage equal to or greater than the character&rsquo;s Toughness, the poison takes effect. The poison deals its listed damage or effect each round for a minute (6 rounds).</p>\n<p>After a minute the poisoned character must attempt a standard&nbsp;Strength&nbsp;test. If the test succeeds the poison effect ends, otherwise it continues for another minute.</p>"
+      "description": "<p>Si une cr&eacute;ature avec la capacit&eacute; Poison inflige des dommages sup&eacute;rieurs ou &eacute;gaux &agrave; la <em>R&eacute;sistance</em> du personnage, le poison fait effet. Le poison inflige les dommages ou les effets indiqu&eacute;s &agrave; chaque round pendant une minute (6 rounds).</p>\n<p>Apr&egrave;s une minute, le personnage empoisonn&eacute; peut tenter un test normal de <em>Force</em>. Si le test r&eacute;ussit, le poison ne fait plus effet, sinon il continue &agrave; agir pendant une autre minute.&nbsp;</p>"
     },
     "Portable Generator": {
       "name": "Portable Generator",
@@ -3385,8 +3385,8 @@
       "prerequisites": "Force 10+"
     },
     "Relentless (Special Ability)": {
-      "name": "Relentless (Special Ability)",
-      "description": "<p>The creature is tireless and ignores Shock completely. Fatigue has no effect. A relentless creature may still be KO&rsquo;ed by Wounds, which usually represents its incapacitation or destruction.</p>"
+      "name": "Infatigable",
+      "description": "<p>La cr&eacute;ature est infatigable et ignore les points de Choc. La Fatigue n&rsquo;a aucun effet sur elle. Une cr&eacute;ature Infatigable peut tout de m&ecirc;me &ecirc;tre mise KO &agrave; cause des Blessures ce qui repr&eacute;sente g&eacute;n&eacute;ralement sa neutralisation ou sa destruction.&nbsp;</p>"
     },
     "Religious Pluralist": {
       "name": "Religious Pluralist",
@@ -3746,7 +3746,7 @@
     "Star Eyes": {
       "name": "Yeux étoilés",
       "description": "<p>Tous les edeinos peuvent voir dans le noir mais certains naissent avec plus de cristaux de guanine dans leurs yeux, qui refl&egrave;tent et amplifient la lumi&egrave;re ambiante. Ceux qui naissent avec des &laquo; &eacute;toiles dans les yeux &raquo;, comme disent les jakatts, peuvent ignorer quatre points de malus d&rsquo;obscurit&eacute;.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.R7iwjAD49l0zullR]{Edeinos}</p><p></p>"
+      "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.R7iwjAD49l0zullR]{Edeinos}</p>"
     },
     "Stim Shot": {
       "name": "Stim Shot",
@@ -3843,8 +3843,8 @@
       "prerequisites": ""
     },
     "Swarm": {
-      "name": "Swarm",
-      "description": "<p>Swarms are composed of hordes of smaller, individual creatures. Eliminating one, or even dozens has no real effect on the swarm as a whole. Unarmed and crushing weapons deal base damage normally. Area attacks deal damage normally. Blades, bullets, or weapons that can&rsquo;t hit dozens of creatures at once deal no damage at all.</p>\n<p>Each round, any character in contact with the swarm on its turn suffers two Shock. Large swarms have +5 Shock and +2 Wounds.</p>"
+      "name": "Nuée",
+      "description": "<p>Les nu&eacute;es sont compos&eacute;es d&rsquo;une horde de petites cr&eacute;atures. En &eacute;liminer une ou m&ecirc;me des dizaines n&rsquo;a pas r&eacute;ellement d&rsquo;effet sur la nu&eacute;e dans son ensemble. Elles subissent des dommages normaux en combat &agrave; mains nues ou avec des armes contondantes. Les attaques de zone infligent des dommages normaux. Les lames, les balles ou les armes qui ne peuvent pas frapper des dizaines de cr&eacute;atures en m&ecirc;me temps n&rsquo;infligent aucun dommage.</p><p>&Agrave; chaque round, tout personnage en contact avec la nu&eacute;e au cours de son tour subit deux points de Choc. Les grandes nu&eacute;es ont +5 Choc et +2 Blessures.</p>"
     },
     "TOW Anti-Tank": {
       "name": "Missile anti-char TOW",
@@ -4092,8 +4092,8 @@
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Undead": {
-      "name": "Undead",
-      "description": "<p>This loathsome thing is some sort of animated corpse. It may be a vampire, a zombie, a gospog, or some other vile horror. Undead are never affected by powers, spells, or abilities that affect breathing, eating, Fatigue, or other functions required only by the living. Such creatures always count as @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.Pu4XsglS98BqDRgX#supernatural-evil]{Supernatural Evil}<br>&nbsp;when determining the effects that Perks or powers have upon them.</p>"
+      "name": "Mort-vivant",
+      "description": "<p> Cette répugnante créature est une sorte de cadavre animé. Il peut s’agir d’un vampire, d’un zombi, d’un gospog ou d’une autre horreur vile. Les morts-vivants ne sont jamais affectés par les pouvoirs, les sorts ou capacités qui affectent la respiration, la Fatigue, l’alimentation ou toute autre fonction nécessaire à la vie. Ces créatures sont toujours considérées comme des @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.Pu4XsglS98BqDRgX#creatures-surnaturelles-malefiques]{Créatures surnaturelles maléfiques} pour déterminer les effets des Atouts ou des pouvoirs. </p>"
     },
     "Unflinching": {
       "name": "Inébranlable",
