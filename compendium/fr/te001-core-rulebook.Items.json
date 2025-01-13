@@ -229,7 +229,7 @@
       "enhancement05description": "Les alchimistes ont découvert cette redoutable concoction par accident mais ils sont parvenus à en faire une arme. La potion est lancée dans un récipient en verre. À l’impact, tout ce qui est pris dans une Zone d’effet limitée est aspergé de flammes jaunes-vertes qui infligent 16 points de dommages de feu."
     },
     "Alchemy Kit": {
-      "name": "Alchemy Kit",
+      "name": "Kit d’alchimie",
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Alph Pulverizer": {
@@ -269,7 +269,7 @@
       "description": "<p>Acquis avec l'Atour @UUID[Compendium.te001-core-rulebook.Items.Item.suvUndoA0PTOIWCz]{Cartouchière/Ceinture à munitions}</p><p>5 cartouches pour une arme à feu.</p>"
     },
     "Animal Companion (Sabre-Tooth Cat)": {
-      "name": "Compagnon animal  (Fauve à dents de sabre)",
+      "name": "Compagnon animal (Fauve à dents de sabre)",
       "description": "<p>Les grands tigres de la Terre-Vivante sont de redoutables prédateurs capables de vaincre n’importe quelle créature à l’exception des plus grands dinosaures. Il existe une sous-espèce un peu plus petite de félins qui semble plus apprécier de voyager avec les humains et les edeinos que de les manger. </p> <p> Cet Atout octroie au héros un chat à dents de sabre comme compagnon. Il est aussi intelligent que le chien le mieux dressé, ce qui signifie qu’il peut obéir à des instructions simples comme attaquer un adversaire désigné, défendre une personne ou un lieu précis et attendre ou aller à un endroit que le personnage a identifié. </p> <p> Le joueur contrôle l’animal. Le MJ n’en prend le contrôle que si l’animal est perturbé, maltraité ou qu’il agit seul. </p> <p> La bête n’a pas de @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.kYP18QiA72P6PlUi#possibilites]{possibilités} mais le personnage peut utiliser <em>ses</em> propres Possibilités (et ses Cartes de Destin) pour la créature même s’ils sont séparés. </p> <p> Si l’animal est vaincu, il doit être considéré neutralisé au lieu d’être tué. Il revient au début de l’acte suivant. Si sa mort est inévitable, le personnage doit revenir dans la Terre Vivante et passer plusieurs nuits dans la jungle pour reforger un lien avec un nouveau compagnon. </p> <p> </p> <p> @UUID[Compendium.te001-core-rulebook.Actors.JVgXLLgQQX0sFr9g]{Fauve à dents de sabre} </p> <p> </p> <p>Présent dans <strong>Core Rules</strong></p>",
       "prerequisites": "Charisme 8+"
     },
@@ -318,8 +318,8 @@
       "description": "<p>Aquired by @UUID[Compendium.te001-core-rulebook.Items.Item.LrmHHsa0yxiFVLQO]{Armor Piercing}.</p><p>First available at Tech 20, armorpiercing rounds, AP for short, are designed to reduce the effectiveness of armor.</p><p>Against armored targets, AP ammunition reduces armor adds by two points (to no lower than zero). Against unarmored targets, AP ammunition has no extra effect.</p>"
     },
     "Armored Briefcase": {
-      "name": "Armored Briefcase",
-      "description": "<p>Fingerprint and voice-locked, this stylish accessory is Very Hard (−6) to break into. Destroying it (Toughness 10) likely also destroys its contents.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
+      "name": "Mallette blindée",
+      "description": "<p>Verrouill&eacute;e par commande vocale et lecteur d'empreinte digitale, il est Tr&egrave;s difficile (-6) de forcer cet accessoire. Si la mallette est d&eacute;truite (R&eacute;sistance 10), son contenu sera probablement &eacute;galement d&eacute;truit.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Arquebus": {
       "name": "Arquebuse",
@@ -341,8 +341,8 @@
       "notes": "Rafale Courte"
     },
     "Augmented Reality HUD": {
-      "name": "Augmented Reality HUD",
-      "description": "<p>A projection into one or both eyes analyzes and labels combat threats and anything the user stares at. The HUD gives the character +1 to dodge and makes <em>find</em> tests Favored.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
+      "name": "VTH à réalité augmentée",
+      "description": "<p>Par un syst&egrave;me de projection dans un &oelig;il ou dans les deux, l&rsquo;utilisateur peut analyser et identifier ses cibles en combat et tout ce qu&rsquo;il regarde. Le VTH octroie au personnage un bonus de +1 en <em>Esquive</em> et ses tests d&rsquo;Observation sont Favoris&eacute;s.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Avant-Garde": {
       "name": "Avant-Garde",
@@ -378,7 +378,7 @@
       "notes": "Rechargement"
     },
     "Backpack": {
-      "name": "Backpack",
+      "name": "Sac à dos",
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Ballista": {
@@ -436,7 +436,7 @@
       "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.2AQ87OBFRFvaPeuX]{Nain}, au moins 3 rangs dans Armes de mếlée, doit avoir personnellement joué une carte Gloire</p>"
     },
     "Beast Rider": {
-      "name": "Beast Rider",
+      "name": "Chevaucheur de bête",
       "description": "<p>Les edeinos et les humains transformés utilisent les différentes bêtes de la Terre Vivante pour le transport et le combat. Certains cavaliers sont particulièrement doués pour se battre à dos de monture. Les interactions avec la créature sont effectuées contre les défenses de la bête ou celles du cavalier, en fonction de celles qui sont les plus avantageuses. Le cavalier peut aussi ignorer les malus si la bête court (voir @UUID[Compendium.te001-core-rulebook.rules.JournalEntry.pwneQ55M0nnDH0Us.JournalEntryPage.kYP18QiA72P6PlUi#equitation-(dexterite)]{Équitation (compétence dextérité)}).</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
       "prerequisites": "Au moins 3 rangs dans Équitation."
     },
@@ -456,7 +456,7 @@
       "prerequisites": "Esprit 8+"
     },
     "Binoculars": {
-      "name": "Binoculars",
+      "name": "Jumelles",
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Bite/Claws": {
@@ -590,7 +590,7 @@
       "enhancement08description": "les Victoriens ont mis au point ces cartouches lourdes pour abattre les horreurs les plus massives du Décharné. Elles infligent 5 points de dommages supplémentaires aux créatures de Grande taille ou supérieure."
     },
     "Bulletsmith Kit": {
-      "name": "Bulletsmith Kit",
+      "name": "Kit d’armurier",
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "C-4 (300g)": {
@@ -629,7 +629,7 @@
       "range": "1 kilometer"
     },
     "Caltrops": {
-      "name": "Chausse-trappe",
+      "name": "Caltrops/Chausse-trappe",
       "description": "<p>Plusieurs petites pi&egrave;ces m&eacute;talliques constitu&eacute;es de pointes dont l&rsquo;une d&rsquo;elles est orient&eacute;e vers le haut. Dispers&eacute;es par terre, elles sont pr&eacute;vues pour crever les pneus ou pour que des victimes marchent dessus. Une fois d&eacute;ploy&eacute;es avec une action simple, l&rsquo;interaction Man&oelig;uvre devient Favoris&eacute;e autour des pointes</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Candles": {
@@ -666,8 +666,8 @@
       "notes": "Peu Maniable"
     },
     "Chameleon Clothing": {
-      "name": "Chameleon Clothing",
-      "description": "<p>Once activated, these clothes shift color to match the environment around them. The effect isn’t perfect, but grants a stationary wearer a +4 bonus to stealth.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
+      "name": "Tenue caméléon",
+      "description": "<p>Une fois activ&eacute;s, ces v&ecirc;tements changent de couleur pour se fondre dans leur environnement. L&rsquo;effet n&rsquo;est pas parfait mais accorde &agrave; son utilisateur immobile un bonus de +4 en <em>Discr&eacute;tion</em>.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Chameleon Skin": {
       "name": "Peau de caméléon",
@@ -717,11 +717,11 @@
       "prerequisites": "Beta Clearance, at least five adds in intimidation"
     },
     "Climbing Gear": {
-      "name": "Climbing Gear",
-      "description": "<p>Climbing gear and safety measures take several minutes to set up, but once done the character may use Dexterity in place of Strength to climb.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
+      "name": "Matériel d'escalade",
+      "description": "<p>Il faut plusieurs minutes pour pr&eacute;parer le mat&eacute;riel d&rsquo;escalade et les dispositifs de s&eacute;curit&eacute; mais, une fois que c&rsquo;est fait, le personnage peut utiliser sa <em>Dext&eacute;rit&eacute;</em> &agrave; la place de sa <em>Force</em> pour escalader.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Climbing Gloves": {
-      "name": "Climbing Gloves",
+      "name": "Gants d'ascension",
       "description": "<p>These elbow-length leather gloves cling to stone, eliminating 6 points of penalties for any test to climb walls or cliffs.</p><p> </p><p>Also Présent dans Aysle Sourcebook Module</p>"
     },
     "Cloak of Darkness": {
@@ -1015,8 +1015,8 @@
       "range": "Touch"
     },
     "Disguise Kit": {
-      "name": "Disguise Kit",
-      "description": "<p>Allows the Storm Knight to change appearance with time and a trick test. Mimicking specific targets adds a difficulty modifier, depending on how different they look.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
+      "name": "Kit de déguisement",
+      "description": "<p>Il permet au Chevalier des Temp&ecirc;tes, avec du temps et un test de <em>Ruse</em>, de modifier son apparence. Imiter une cible sp&eacute;cifique ajoute un modificateur de difficult&eacute; qui d&eacute;pend de la diff&eacute;rence physique entre l&rsquo;imitateur et l&rsquo;imit&eacute;.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Dispel Magic": {
       "name": "Dispel Magic",
@@ -1528,7 +1528,7 @@
       "range": "50 meters"
     },
     "Electronic Lockpick": {
-      "name": "Electronic Lockpick",
+      "name": "Outils de crochetage électronique",
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Elf": {
@@ -1989,8 +1989,8 @@
       "description": "<p>La créature provoque la peur. Quand un personnage la rencontre pour la première fois au cours d’un Acte, il doit réussir un test de <em>Volonté</em> ou d’<em>Esprit</em> ou être Très déstabilisé. Certaines créatures particulièrement terrifiantes peuvent modifier ce résultat. </p>"
     },
     "Filter Mask": {
-      "name": "Filter Mask",
-      "description": "<p>Advanced microfibers screen particles from the air, making the wearer immune to inhaled poisons and toxins.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
+      "name": "Masque filtrant",
+      "description": "<p>Des microfibres modernes filtrent les particules pr&eacute;sentes dans l&rsquo;air et l&rsquo;utilisateur est immunis&eacute; contre les poisons et les toxines inhal&eacute;s.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Firearm Ammo Rechargements": {
       "name": "Firearm Ammo Rechargements",
@@ -2021,8 +2021,8 @@
       "prerequisites": "<p>At least 5 adds in kinesis and @UUID[Compendium.te001-core-rulebook.Items.Item.6lDC4T2IjjzHlI38]{Firestarter}</p>"
     },
     "First Aid Kit": {
-      "name": "First Aid Kit",
-      "description": "<p>Makes first aid tests Favored.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
+      "name": "Kit de premiers soins",
+      "description": "<p>Les tests de comp&eacute;tence <em>Premiers soins</em> sont Favoris&eacute;s.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "First Response": {
       "name": "First Response",
@@ -2037,7 +2037,7 @@
       "notes": "Zone d'Effet Limitée, Dommage de Feu"
     },
     "Flares": {
-      "name": "Flares",
+      "name": "Fusées éclairantes",
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Flash Grenade": {
@@ -2048,7 +2048,7 @@
       "notes": "Zone d'Effet Moyenne"
     },
     "Flashlight": {
-      "name": "Flashlight",
+      "name": "Lampe torche",
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Flechette": {
@@ -2137,7 +2137,7 @@
     },
     "Frightening Aspect": {
       "name": "Aspect Effrayant ★",
-      "description": "<p> L’apparence physique du sombre héros a une caractéristique déplaisante. Il peut être pâle et avoir un aspect maladif ou ses yeux peuvent être rouges avec un regard tourmenté. </p> <p> Le Charisme du personnage est réduit d’un point de manière permanente mais il est Favorisé pour ses tests d’Intimidation. </p> <p> De plus, un test réussi d’Intimidation quand il s’agit d’une Action approuvée octroie au joueur deux Cartes de Destin au lieu d’une. Choisissez-en une à conserver, comme d’habitude, et défaussez l’autre. </p> \n <p> </p> \n <p>Présent dans <strong>Core Rules</strong></p>",
+      "description": "<p>L’apparence physique du sombre héros a une caractéristique déplaisante. Il peut être pâle et avoir un aspect maladif ou ses yeux peuvent être rouges avec un regard tourmenté. </p> <p> Le Charisme du personnage est réduit d’un point de manière permanente mais il est Favorisé pour ses tests d’Intimidation. </p> <p> De plus, un test réussi d’Intimidation quand il s’agit d’une Action approuvée octroie au joueur deux Cartes de Destin au lieu d’une. Choisissez-en une à conserver, comme d’habitude, et défaussez l’autre. </p> \n <p> </p> \n <p>Présent dans <strong>Core Rules</strong></p>",
       "prerequisites": "Aucun Atout de Lumière"
     },
     "GM-94 Launcher": {
@@ -2153,33 +2153,33 @@
       "notes": "Fatigue, Intégrale/Torse"
     },
     "GWI Destroyer Armor": {
-      "name": "Armure Destroyer GWI",
+      "name": "GWI Armure Destroyer",
       "description": "<p>@UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#fatigue-:]{Fatigue}</p><p>@UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#integrale/torse-:]{Intégrale}</p><p>Une armure m&eacute;canis&eacute;e &eacute;quip&eacute;e de servomoteurs &agrave; laquelle n&rsquo;ont acc&egrave;s que les troupes d&rsquo;&eacute;lite de l&rsquo;&Eacute;glise cybern&eacute;tique. Elle est &eacute;quip&eacute;e par d&eacute;faut d&rsquo;un VTH &agrave; r&eacute;alit&eacute; augment&eacute;e.</p><p>Aussi Présent dans Cyberpapacy Sourcebook Module</p>",
       "notes": "Fatigue, Intégrale, +2 à la Force de l’utilisateur pour attaquer et transporter du matériel."
     },
     "GWI GodBeam Laser": {
-      "name": "Rayon Divin GWI",
+      "name": "GWI Rayon Divin",
       "description": "<p>@UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#short-burst]{Rafale Courte}</p><p>Le Rayon divin a un long canon, une crosse stabilis&eacute;e et une vis&eacute;e laser. Il &eacute;met un rayon laser bleu mortel. Une @Compendium[te001-core-rulebook.&eacute;quipement g&eacute;n&eacute;ral.oFfdsbTgR6MWONrO]{Vis&eacute;e laser} est int&eacute;gr&eacute;e et aliment&eacute;e par un rayon &agrave; faible &eacute;nergie g&eacute;n&eacute;r&eacute; par l&rsquo;arme. Toutes les armes GWI sont, par d&eacute;faut, connect&eacute;es au R&eacute;seau Divin, aussi les versions pirat&eacute;es sont rares et on&eacute;reuses.</p><p>Aussi Présent dans Cyberpapacy Module</p>",
       "range": "100 / 500 / 1000",
       "chatNote": "",
       "notes": "Rafale Courte"
     },
     "GWI GodLight Laser": {
-      "name": "GWI GodLight Laser",
+      "name": "GWI Lumière divine",
       "description": "<p>@UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#small]{Petit}</p><p>@UUID[Compendium.te001-core-rulebook.rules.JournalEntry.pwneQ55M0nnDH0Us.JournalEntryPage.EhKa65cpHvodUl2L#tirer-sur-des-cibles-en-melee]{Pistolet}</p>\n<p>Suffisamment petit pour &ecirc;tre fix&eacute; au poignet avec un support appropri&eacute;. Comme son cousin plus volumineux le Rayon divin, cette arme compacte dispose toujours d&rsquo;une vis&eacute;e laser.</p>",
       "range": "50 / 100 / 500",
       "chatNote": "",
       "notes": "Petit, Pistolet"
     },
     "GWI GodMeeter": {
-      "name": "Saint-Pierre Express GWI",
+      "name": "GWI Saint-Pierre Express",
       "description": "<p>L&rsquo;arme de poing la plus r&eacute;pandue parmi les agents de la police de l&rsquo;&Eacute;glise. C&rsquo;est une arme de gros calibre particuli&egrave;rement bruyante. &Agrave; l&rsquo;instar des autres armes GWI, elle est dot&eacute;e d&rsquo;une intelligence artificielle limit&eacute;e non pas pour assister le tireur mais pour d&eacute;sactiver ses fonctions et pr&ecirc;cher la bonne parole aux m&eacute;cr&eacute;ants qui oseraient s&rsquo;en emparer. Si diff&eacute;rents types de munitions sont charg&eacute;s dans l&rsquo;arme, cette derni&egrave;re est m&ecirc;me capable de les s&eacute;lectionner par commande vocale.</p><p>Aussi Présent dans Cyberpapacy Sourcebook Module</p>",
       "range": "10 / 25 / 40",
       "chatNote": "",
       "notes": ""
     },
     "GWI God’s Fire Plasma": {
-      "name": "Dies Iræ GWI",
+      "name": "GWI Dies Iræ",
       "description": "<p>@UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#blas]{Zone d'effet}</p><p>Le Dies Ir&aelig; ressemble plus &agrave; un lance-flammes qu&rsquo;&agrave; autre chose. Une lourde r&eacute;serve d&rsquo;&eacute;nergie port&eacute;e sur le dos g&eacute;n&egrave;re le plasma qui est transf&eacute;r&eacute; vers le &laquo; fusil &raquo; par un c&acirc;ble. Le plasma surchauff&eacute; se manifeste sous la forme d&rsquo;une sph&egrave;re rouge ardente qui explose au contact affectant toutes les cibles au point d&rsquo;impact.</p><p>@UUID[Compendium.te010-cyberpapacy.cyberpapacy-items.Item.teyKIUIg8srwasyt]{Mise à jour} Présent dans Cyberpapacy Sourcebook Module</p>",
       "range": "20 / 40 / 80",
       "chatNote": "",
@@ -2212,12 +2212,12 @@
       "range": "Touch"
     },
     "Gas Lantern": {
-      "name": "Gas Lantern",
+      "name": "Lampe à pétrole",
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Gas Mask": {
-      "name": "Gas Mask",
-      "description": "<p>The wearer is immune to inhaled poisons and toxins, but suffers a −2 penalty on find tests due to the Encombrant head wear.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
+      "name": "Masque à gaz",
+      "description": "<p>Le porteur est immunis&eacute; contre les poisons et les toxines inhal&eacute;s mais il subit un malus de -2 &agrave; ses tests d&rsquo;<em>Observation</em> &agrave; cause de l&rsquo;encombrement du masque.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Geomancer": {
       "name": "Geomancer",
@@ -2225,12 +2225,12 @@
       "prerequisites": "<p>Access to the @UUID[Compendium.te001-core-rulebook.rules.JournalEntry.VuPeUtSmf98Gws42.JournalEntryPage.aWRVocNcmjkxV1tL#dabbler]{Dabbler spell list}. The spellcaster may not have access to any other spell list.</p>"
     },
     "Ghillie Suit": {
-      "name": "Ghillie Suit",
-      "description": "<p>Specially crafted camouflage for a single, specific environment. A stationary wearer becomes Favored for stealth tests in the corresponding surroundings.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
+      "name": "Tenue de camouflage",
+      "description": "<p>Une tenue de camouflage sp&eacute;cialement &eacute;tudi&eacute;e pour un seul type d&rsquo;environnement. Les tests de comp&eacute;tence Discr&eacute;tion dans l&rsquo;environnement consid&eacute;r&eacute; sont Favoris&eacute;s si l&rsquo;utilisateur est immobile.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Gloater": {
-      "name": "Gloater",
-      "description": "<p>Le vilain est particulièrement doué pour narguer ou intimider ses adversaires. Un Vantard de l’Empire du Nil peut être un lieutenant mégalomane du Pharaon Möbius. En Orrorsh, il peut s’agir d’un vampire qui, dans l’ombre, murmure de terribles choses tandis que ses créatures se précipitent au combat. </p> <p> Les Vantards commandent généralement des sbires qui s’occupent de se salir les mains à leur place ce qui leur permet de rester en retrait au cours d’un combat afin de démoraliser les Chevaliers des Tempêtes avec des interactions offensives. </p> <p> À chaque fois que <em>Provocation</em> ou <em>Intimidation</em> sont des Actions approuvées, un Vantard peut affecter la totalité du groupe de PJ sans subir de malus de Cibles multiples. L’interaction offensive n’affecte pas les alliés du groupe, uniquement les PJ.  </p> <p> Cela a pour conséquence l’effet de l’interaction (Déstabilisé, Vulnérable ou Choix du Joueur) et la perte d’une Carte de Destin piochée au hasard dans chacune de leur main. </p>"
+      "name": "Vantard",
+      "description": "<p>Le vilain est particulièrement doué pour narguer ou intimider ses adversaires. Un Vantard de l’Empire du Nil peut être un lieutenant mégalomane du Pharaon Möbius. En Orrorsh, il peut s’agir d’un vampire qui, dans l’ombre, murmure de terribles choses tandis que ses créatures se précipitent au combat. </p> <p>Les Vantards commandent généralement des sbires qui s’occupent de se salir les mains à leur place ce qui leur permet de rester en retrait au cours d’un combat afin de démoraliser les Chevaliers des Tempêtes avec des interactions offensives. </p> <p> À chaque fois que <em>Provocation</em> ou <em>Intimidation</em> sont des Actions approuvées, un Vantard peut affecter la totalité du groupe de PJ sans subir de malus de Cibles multiples. L’interaction offensive n’affecte pas les alliés du groupe, uniquement les PJ.  </p> <p> Cela a pour conséquence l’effet de l’interaction (Déstabilisé, Vulnérable ou Choix du Joueur) et la perte d’une Carte de Destin piochée au hasard dans chacune de leur main. </p>"
     },
     "Glock 9mm": {
       "name": "Glock 9mm",
@@ -2281,8 +2281,8 @@
       "notes": ""
     },
     "Handcuffs/Speedcuffs": {
-      "name": "Handcuffs/Speedcuffs",
-      "description": "<p>Sometimes called speedcuffs. Attaching handcuffs requires a Good @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.EhKa65cpHvodUl2L#grappling]{Grappling} result. A cuffed target&rsquo;s hands are restrained until the cuffs are unlocked or broken &mdash; Toughness 18 or a Heroic (DN 18) Strength test.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
+      "name": "Menotte/Entrave",
+      "description": "<p> Aussi appelées entraves ou instruments de contention. Passer des menottes nécessite de réussir un succès Supérieur en @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.EhKa65cpHvodUl2L#lutte]{Lutte}. Les mains d’une cible menottée sont entravées jusqu’à ce que les menottes soient retirées ou brisées - Résistance 18 ou un test Héroïque (ND 18) de <em>Force</em>. </p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Hands-free Comms": {
       "name": "Communicateur mains libres",
@@ -2322,8 +2322,8 @@
       "range": "Touch"
     },
     "Healing Potion": {
-      "name": "Healing Potion",
-      "description": "<p>Drinking this thick, clear liquid heals one wound and restores a [[/r 1d6x6max5]]{BD} of shock.</p><p> </p><p>Also Présent dans Aysle Sourcebook Module</p>"
+      "name": "Potion de soins",
+      "description": "<p>Elle n&eacute;cessite un Axiome Magie de 13. Boire la potion est une action simple et permet de r&eacute;cup&eacute;rer [[/r 1d6x6max5]]{BD} de points de Choc.</p><p> </p><p>Aussi Présent dans Aysle Sourcebook Module</p>"
     },
     "Heat Shield": {
       "name": "Heat Shield",
@@ -2407,7 +2407,7 @@
       "description": "<p>Un appareil port&eacute; qui g&eacute;n&egrave;re une image holographique de son utilisateur &agrave; quelques m&egrave;tres de lui. Les attaques &agrave; distance contre l&rsquo;utilisateur subissent un malus de -2 quand l&rsquo;appareil est actif.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Holy Symbol/Totem": {
-      "name": "Holy Symbol/Totem",
+      "name": "Symbole/totem sacré",
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Holy Water": {
@@ -2432,13 +2432,13 @@
       "notes": "Torse, Jakatts uniquement"
     },
     "ammMtd4GDTZAbVQx": {
-      "name": "Hrockt Shoot Spear",
+      "name": "Lance en bois d'Hrockt",
       "description": "<p>@UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#armes-de-jet]{Armes de jet}</p><p>Pour la version Armes de Jet, voir @UUID[Compendium.te001-core-rulebook.Items.Item.6Pb5rtY0QdIMTbRF]{Lance en bois d’hrockt}</p><p>Le rameau est souple quand il est humide et qu’il pousse, mais aussi dur que du fer quand il est coupé et séché. Il est souvent cultivé de sorte qu’il ait la forme d’une lance droite avec une pointe tranchante. Cette lance est communément utilisée comme arme de jet.</p><p>Dans la table des armes de jet, cette arme possède un Axiome de Tech de 3.</p><p> </p><p>Présent dans <strong>Core Rules</strong></p>",
       "chatNote": "",
       "notes": "Thrown"
     },
     "6Pb5rtY0QdIMTbRF": {
-      "name": "Hrockt Shoot Spear",
+      "name": "Lance en bois d'Hrockt",
       "description": "<p>@UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#armes-de-jet]{Armes de jet}</p><p>Pour la version Armes de mêlée, voir @UUID[Compendium.te001-core-rulebook.Items.Item.ammMtd4GDTZAbVQx]{Lance en bois d’hrockt}</p><p>Le rameau est souple quand il est humide et qu’il pousse, mais aussi dur que du fer quand il est coupé et séché. Il est souvent cultivé de sorte qu’il ait la forme d’une lance droite avec une pointe tranchante. Cette lance est communément utilisée comme arme de jet.</p><p> </p><p>Présent dans <strong>Core Rules</strong></p>",
       "chatNote": "",
       "notes": "Thrown"
@@ -2537,8 +2537,8 @@
       "range": "Self"
     },
     "Ion Clothing": {
-      "name": "Ion Clothing",
-      "description": "<p>Fashionable clothing with illuminated strips the user can activate or deactivate. Also counts as a universal charger that generates power over time as the wearer moves.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
+      "name": "Vêtements ionisés",
+      "description": "<p>Des v&ecirc;tements modernes avec des bandes lumineuses que l&rsquo;utilisateur peut activer ou d&eacute;sactiver. Ils servent &eacute;galement de chargeur universel qui g&eacute;n&egrave;re de l&rsquo;&eacute;nergie quand son utilisateur se d&eacute;place.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Ion Gusoku": {
       "name": "Ion Gusoku",
@@ -2590,7 +2590,7 @@
       "description": "<p>Only for @UUID[Compendium.te001-core-rulebook.rules.JournalEntry.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#heavy-weapons-and-explosives]{Heavy Weapons}</p><p>Fires a depleted uranium or other heavy metal dart at a high muzzle velocity, dealing damage solely through massive kinetic energy. Ignores 10 points of armor from vehicles. Requires Tech 22.</p>"
     },
     "Kanawa Security Armor": {
-      "name": "Kanawa Security Armor",
+      "name": "Armure Kanawa Security",
       "description": "<p>@UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#integrale/torse-:]{Intégrale}</p>\n<p>Cette armure int&eacute;grale a &eacute;t&eacute; con&ccedil;ue pour &eacute;quiper les forces de s&eacute;curit&eacute; de Kanawa mais plusieurs exemplaires sont tomb&eacute;es entre les mains de rebelles et de Chevaliers des temp&ecirc;tes ind&eacute;pendants. C'est une armure lamellaire noire &eacute;voquant celles des premiers samoura&iuml;s.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
       "notes": "Intégrale"
     },
@@ -2630,8 +2630,8 @@
       "notes": "Ne peut se déplacer et attaquer à moins d'avoir une Force de 11+"
     },
     "Laser Sight": {
-      "name": "Laser Sight",
-      "description": "<p>First available at Tech 23. A small laser is fitted to the barrel of the firearm and projects a red dot onto targets that indicates to the firer where the weapon is actually aimed. At higher Tech Axioms, a laser sight is often built into the weapon as a standard feature.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
+      "name": "Visée laser",
+      "description": "<p>Disponible &agrave; partir d&rsquo;un Axiome Technologie de 23. Un petit laser fix&eacute; au canon d&rsquo;une arme et qui projette un point rouge sur une cible indiquant au tireur l&rsquo;endroit qu&rsquo;il vise. Avec un Axiome Technologie sup&eacute;rieur, une vis&eacute;e laser est souvent int&eacute;gr&eacute;e &agrave; l&rsquo;arme de mani&egrave;re standard.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Lay on Hands": {
       "name": "Imposition des mains",
@@ -2695,7 +2695,7 @@
       "prerequisites": "Raison 8+"
     },
     "Lock Picks": {
-      "name": "Lock Picks",
+      "name": "Outils de crochetage",
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Long Bow": {
@@ -2887,8 +2887,8 @@
       "range": "Self"
     },
     "Micro Audio Transmitter": {
-      "name": "Micro Audio Transmitter",
-      "description": "<p>Relays sound to any attuned radio receivers within 400 meters.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
+      "name": "Mini transmetteur audio",
+      "description": "<p>Il retransmet des sons vers un r&eacute;cepteur radio situ&eacute; dans un p&eacute;rim&egrave;tre de 400 m&egrave;tres.</p\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Mim Shredder Mine": {
       "name": "Mine écharpeuse",
@@ -2949,8 +2949,8 @@
       "prerequisites": "Au moins 1 rang en Foi."
     },
     "Mobile Phone": {
-      "name": "Mobile Phone",
-      "description": "<p>Applications like GPS and a flashlight are included. Most cellphones require signal boosting towers to get signal, so in low technology areas a phone may still not have reception. Reality storms play havoc with signals as well.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
+      "name": "Téléphone portable",
+      "description": "<p>Des applications comme le GPS ou la lampe torche sont incluses. La plupart des t&eacute;l&eacute;phones ont besoin de pyl&ocirc;nes d&rsquo;amplification de signal, aussi dans des environnements avec une technologie peu d&eacute;velopp&eacute;e, le t&eacute;l&eacute;phone peut ne capter aucun signal. Les temp&ecirc;tes de r&eacute;alit&eacute; perturbent &eacute;galement le signal.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Monster Hide Duster": {
       "name": "Manteau en peau de monstre",
@@ -2964,7 +2964,7 @@
       "notes": "Unwieldy"
     },
     "Mosquito Netting": {
-      "name": "Mosquito Netting",
+      "name": "Moustiquaire",
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Movie Camera": {
@@ -2984,8 +2984,8 @@
       "prerequisites": "Connaitre au moins 5 Pouvoirs."
     },
     "Multi-Tool": {
-      "name": "Multi-Tool",
-      "description": "<p>A handy device that combines clippers, screwdrivers, a wrench, and other small tools into a single fold-out tool.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
+      "name": "Outils polyvalent",
+      "description": "<p>Un instrument tr&egrave;s pratique qui combine pinces coupantes, tournevis, cl&eacute; &agrave; molette et d&rsquo;autres petits outils.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Mythomancer": {
       "name": "Mythomancer",
@@ -3023,8 +3023,8 @@
       "notes": "Zone d'effet limitée"
     },
     "Night-vision Goggles": {
-      "name": "Night-vision Goggles",
-      "description": "<p>Ignore up to four points of Darkness penalties. Trick becomes Favored against the wearer if the foe is wielding a light source.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
+      "name": "Lunettes de vision nocturne",
+      "description": "<p>Elles permettent d&rsquo;ignorer jusqu&rsquo;&agrave; quatre points de malus d&rsquo;obscurit&eacute;. La comp&eacute;tence Ruse est Favoris&eacute;e contre l&rsquo;utilisateur si son adversaire dispose d&rsquo;une source d&rsquo;&eacute;clairage.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Nimble Boots": {
       "name": "Nimble Boots",
@@ -3100,7 +3100,7 @@
       "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.WQB68Ad3LqDTbWlU]{Vow of Nonviolence}</p>"
     },
     "Padlock": {
-      "name": "Padlock",
+      "name": "Verrou",
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Pain Gauntlet": {
@@ -3163,7 +3163,7 @@
       "description": "<p>Si une cr&eacute;ature avec la capacit&eacute; Poison inflige des dommages sup&eacute;rieurs ou &eacute;gaux &agrave; la <em>R&eacute;sistance</em> du personnage, le poison fait effet. Le poison inflige les dommages ou les effets indiqu&eacute;s &agrave; chaque round pendant une minute (6 rounds).</p>\n<p>Apr&egrave;s une minute, le personnage empoisonn&eacute; peut tenter un test normal de <em>Force</em>. Si le test r&eacute;ussit, le poison ne fait plus effet, sinon il continue &agrave; agir pendant une autre minute.&nbsp;</p>"
     },
     "Portable Generator": {
-      "name": "Portable Generator",
+      "name": "Générateur portable",
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Portal": {
@@ -3226,8 +3226,8 @@
       "prerequisites": ""
     },
     "Projection Clothing": {
-      "name": "Projection Clothing",
-      "description": "<p>A simple skintight covering that projects dynamic layers of holographic apparel, including effects like flames. A user can toggle between different preprogrammed outfits, or create his own with a cyberdeck.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
+      "name": "Tenue holographique",
+      "description": "<p>Une simple tenue moulante dont le rev&ecirc;tement dynamique peut projeter des images holographiques, dont des effets comme des flammes. Un utilisateur peut varier les projections entre diff&eacute;rents effets pr&eacute;programm&eacute;s ou en cr&eacute;er d&rsquo;autres avec un cyberdeck.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Protected": {
       "name": "Protégé",
@@ -3321,11 +3321,11 @@
       "description": "<p>Aussi connu sous le nom de compteur Geiger. Une fois activ&eacute;, il alerte automatiquement son utilisateur en cas de radiations dangereuses. Accorde un bonus de +4 &agrave; un test d&rsquo;Observation pour trouver des objets plus radioactifs que les radiations environnantes.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Radiation Pills": {
-      "name": "Radiation Pills",
-      "description": "<p>Each pill eliminates one wound caused by radiation.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
+      "name": "Pilules antiradiations",
+      "description": "<p>Chaque pilule permet de se d&eacute;barrasser d&rsquo;une Blessure provoqu&eacute;e par les radiations.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Radio Receiver": {
-      "name": "Radio Receiver",
+      "name": "Poste radio",
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Rainbow Moonstone Crystal": {
@@ -3569,8 +3569,8 @@
       "description": "<p>Only for @UUID[Compendium.te001-core-rulebook.rules.JournalEntry.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#heavy-weapons-and-explosives]{Heavy Weapons}</p><p>@UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.EhKa65cpHvodUl2L#explosives-and-area-effect-attacks]{Zone d'effet}</p><p>Sometimes called scattershot or fragmentation rounds. Lower Tech versions used fuses, while Tech 23 and beyond use sensors to detonate at the right altitude, showering high-speed shell fragments or flechettes across the Zone d'effet area. Damage drops –2, reducing effectiveness against armored targets, but the weapon gains a Medium Zone d'effet area of effect.</p>"
     },
     "Silencer": {
-      "name": "Silencer",
-      "description": "<p>A silencer is a tube or baffle added to the barrel of a weapon that suppresses the amount of noise it makes when fired. This lowers the damage value of the firearm by two, but reduces the sound of most weapons by enough that firing doesn’t automatically give away a hidden character’s position. Silenced weapons can only be fired out to Medium range.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
+      "name": "Silencieux",
+      "description": "<p>Un silencieux est un tube fix&eacute; au canon d&rsquo;une arme qui limite le bruit d&rsquo;un tir. Cela r&eacute;duit de deux points la valeur de dommages de base de l&rsquo;arme mais &eacute;touffe suffisamment le bruit de la plupart des armes pour ne pas trahir sa position. Les armes avec silencieux ne peuvent &ecirc;tre utilis&eacute;es qu&rsquo;&agrave; port&eacute;e Moyenne.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Situational Awareness": {
       "name": "Conscience environnementale",
@@ -3583,8 +3583,8 @@
       "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.2AQ87OBFRFvaPeuX]{Dwarf}</p>"
     },
     "Slap Patch": {
-      "name": "Slap Patch",
-      "description": "<p>A strip of vat-grown skin that fuses with damaged flesh it comes in contact with. Using an action and a slap patch immediately heals 1 wound.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
+      "name": "Patch de cicatrisation",
+      "description": "<p>Une bande de peau cultiv&eacute;e en cuve qui fusionne avec la chair meurtrie qu&rsquo;elle recouvre. Utiliser une action et un patch soigne imm&eacute;diatement une Blessure.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Slaver Collar": {
       "name": "Collier d’esclave",
@@ -3690,7 +3690,7 @@
       "notes": ""
     },
     "Spectacles": {
-      "name": "Spectacles",
+      "name": "Lunettes",
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Speed Demon": {
@@ -3813,7 +3813,7 @@
       "range": "50 meters"
     },
     "Sunglasses": {
-      "name": "Sunglasses",
+      "name": "Lunettes de soleil",
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Super Attribute": {
@@ -3868,8 +3868,8 @@
       "range": "Self"
     },
     "Targeting Scope": {
-      "name": "Targeting Scope",
-      "description": "<p>Targeting scopes are lowpowered telescopes that let the firer see distant targets better. When combined with the Aim option the character ignores the first two points of Range penalties for an attack.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
+      "name": "Lunette de visée",
+      "description": "<p> Une lunette de visée est une sorte de télescope qui permet à un tireur de mieux voir des cibles éloignées. Combinée avec l’option @UUID[Compendium.te001-core-rulebook.rules.JournalEntry.pwneQ55M0nnDH0Us.JournalEntryPage.EhKa65cpHvodUl2L#visee]{Visée}, une lunette permet au personnage d’ignorer les deux premiers points de malus de portée pour une attaque. </p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Taser": {
       "name": "Taser",
@@ -4023,12 +4023,12 @@
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Torch": {
-      "name": "Torch",
+      "name": "Torche",
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Tracer Patch": {
-      "name": "Tracer Patch",
-      "description": "<p>A small swath of fabric that clings to anything it is placed against, and alters its color and texture to become visually undetectable. Any attuned device can locate the patch so long as it’s within wireless broadcast range.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
+      "name": "Patch traceur",
+      "description": "<p>Un petit morceau de tissu qui s&rsquo;accroche &agrave; toute mati&egrave;re sur laquelle il est plac&eacute; et qui modifie sa couleur et sa texture pour &ecirc;tre visuellement ind&eacute;tectable. Tout appareil auquel le patch et connect&eacute; peut le localiser tant qu&rsquo;il se trouve &agrave; port&eacute;e de la transmission sans fil.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Tracers Rechargements": {
       "name": "Tracers Rechargements",
@@ -4044,7 +4044,7 @@
       "prerequisites": ""
     },
     "Trading Gems": {
-      "name": "Trading Gems",
+      "name": "Verroterie",
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Trash Talker": {
@@ -4058,11 +4058,11 @@
       "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.AYDnaeXs0T3fstx9]{Geomancer} and at least 5 adds in apportation.</p>"
     },
     "Tribal Paint": {
-      "name": "Tribal Paint",
+      "name": "Peinture tribale",
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Tribal Tattoos": {
-      "name": "Tribal Tattoos",
+      "name": "Tatouages tribaux",
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Trigon Body Plating": {
@@ -4088,7 +4088,7 @@
       "notes": "Deux mains"
     },
     "Typewriter, Portable": {
-      "name": "Typewriter, Portable",
+      "name": "Machine à écrire portable",
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Undead": {
@@ -4159,7 +4159,7 @@
       "range": "25 meters"
     },
     "Walkie-Talkie": {
-      "name": "Walkie-Talkie",
+      "name": "Talkie-Walkie",
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Wall Crawlers": {
@@ -4225,7 +4225,7 @@
       "prerequisites": "Dextérité 8+"
     },
     "White Wolf": {
-      "name": "White Wolf",
+      "name": "Loup blanc",
       "description": "<p>Les Gardiens elfes ont souvent un loup blanc comme compagnon (et non comme animal domestique) et ils vivent, combattent et meurent ensemble dès le moment où leur relation se noue. </p> <p> Cet Atout accorde à un Gardien elfe un loup blanc loyal qui suit des instructions simples et combat jusqu’à la mort pour défendre son maître. L’animal est aussi intelligent que le chien le mieux dressé de la Terre Prime, ce qui signifie qu’il peut choisir intelligemment ses cibles, défendre une personne ou un lieu précis, ou récupérer un objet s’il l’a déjà vu. Son compagnon elfe peut aussi choisir des « lieux de ralliement » où peut se rendre le loup et y attendre. Il faut cependant définir un lieu de ralliement par avance en faisant un signe ou en donnant un ordre au loup à cet endroit précis. C’est utile quand le gardien doit aller dans une ville ou dans un endroit dangereux pour l’animal. </p> <p> En termes de jeu, c’est le joueur qui contrôle le loup la plupart du temps en choisissant ses cibles, en effectuant ses jets d’attaque et ainsi de suite. </p> <p> Les loups blancs n’ont pas de @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.kYP18QiA72P6PlUi#possibilites]{Possibilités} mais le Gardien peut utiliser <em>ses</em> propres Possibilités (et ses cartes Destin) pour la créature, même s’ils sont séparés. </p> <p> Quand un loup blanc est tué, son esprit va dans un obscur royaume où il se reconstitue jusqu’à ce qu’il puisse revenir sur la terre des vivants au début de la prochaine scène. </p> <p> Si le maître du loup succombe, il subit un point de Choc toutes les 24 heures jusqu’à ce qu’il disparaisse dans le monde des esprits sans possibilité de retour. </p> <p>@UUID[Compendium.te001-core-rulebook.Actors.fImZbwzh0jbEYGN5]{Loup blanc}</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
       "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.ntqopmBBhU5nzwGn]{Elfe}, @UUID[Compendium.te001-core-rulebook.Items.Item.C53zQKf33q28slDw]{Gardien}</p>"
     },
