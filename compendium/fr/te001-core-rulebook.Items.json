@@ -247,9 +247,9 @@
       "notes": "Rafale Longue, Encombrant"
     },
     "Alph Weapon Dock": {
-      "name": "Alph Weapon Dock",
-      "description": "<p>Alph energy weapons run on energy clips which are often in short supply in the Zone d'effeted Land. The weapon dock allows the cyborg to power Alph weapons with his own bioenergy. Rechargementing the ammo for any connected Alph weapon costs an action and deals 1 shock to the character.</p><p> </p><p>Also Présent dans Tharkold Sourcebook Module.</p>",
-      "notes": "Rechargement an Alph weapon for 1 Shock"
+      "name": "Bio-chargeur Alph",
+      "description": "<p>Les armes &agrave; &eacute;nergie Alph utilisent des batteries souvent rares sur la Terre d&eacute;vast&eacute;e. Le bio-chargeur permet au cyborg d&rsquo;alimenter ses armes Alph avec sa propre bio&eacute;nergie. Recharger la batterie d&rsquo;une arme Alph connect&eacute;e co&ucirc;te une action et inflige 1 point de Choc au personnage.</p><p> </p><p>Aussi Présent dans Tharkold Sourcebook Module.</p>",
+      "notes": "Recharge une arme Alph pour 1 point de Choc."
     },
     "Alter Memory": {
       "name": "Alter Memory",
@@ -441,14 +441,14 @@
       "prerequisites": "Au moins 3 rangs dans Équitation."
     },
     "BelleView 20-20 Cyber Eye": {
-      "name": "BelleView 20-20 Cyber Eye",
-      "description": "<p>This eye enhancement increases fine detail and can even detect patterns or breaks in patterns. Any test made to detect and comprehend visual evidence, usually <em>find</em> or <em>tracking</em>, becomes Favored.</p><p>Also Présent dans Cyberpapacy Sourcebook Module</p>",
-      "notes": "Visual evidence analysis, find and tracking become Favored"
+      "name": "Œil cybernétique Bellevue 20-20",
+      "description": "<p>Cette am&eacute;lioration oculaire augmente la pr&eacute;cision des d&eacute;tails et peut m&ecirc;me d&eacute;tecter des sch&eacute;mas ou une rupture dans des sch&eacute;mas. Tout test effectu&eacute; pour d&eacute;tecter ou comprendre des indices visuels, g&eacute;n&eacute;ralement avec les comp&eacute;tences <em>Observation</em> ou <em>Pistage</em>, est Favoris&eacute;.</p><p>Aussi Présent dans Cyberpapacy Sourcebook Module</p>",
+      "notes": "Analyse de preuve visuel, les tests d’Observation et de Pistage deviennent Favorisés."
     },
     "BelleView Low-Light MK II": {
-      "name": "BelleView Low-Light MK II",
-      "description": "<p>@UUID[Compendium.te010-cyberpapacy.cyberpapacy-items.Item.te3xBCj6OWk0njfm]{Updated version} Présent dans Cyberpapacy Sourcebook Module</p>",
-      "notes": "Ignore 2 points of Darknes penalties"
+      "name": "Vision de nuit Bellevue MK II",
+      "description": "<p>@UUID[Compendium.te010-cyberpapacy.cyberpapacy-items.Item.te3xBCj6OWk0njfm]{Mise à jour} Présent dans Cyberpapacy Sourcebook Module</p>",
+      "notes": "Ignore 2 points de malus d’obscurité."
     },
     "Berserk": {
       "name": "Berserker",
@@ -615,8 +615,8 @@
       "notes": "Zone d'Effet Limitée"
     },
     "CSI EyeKill MK IV": {
-      "name": "CSI EyeKill MK IV",
-      "description": "<p>The EyeKill projects a low intensity laser beam onto a target visible to the user. When linked to a weapon via a @UUID[Compendium.te001-core-rulebook.Items.bB6vDEc8ltcpmvAz]{Smartgun Attachment}, it eliminates the first 2 points of Range penalties.</p><p>Also Présent dans Cyberpapacy Sourcebook Module</p>",
+      "name": "Œil létal MK IV CSI",
+      "description": "<p>L’Œil létal projette un laser de basse intensité sur une cible visible par l’utilisateur. Quand il est relié à une arme grâce à un @UUID[Compendium.te001-core-rulebook.Items.bB6vDEc8ltcpmvAz]{Connecteur Intelligent}, il élimine les 2 premiers points de malus de portée. </p><p>Aussi Présent dans Cyberpapacy Sourcebook Module</p>",
       "notes": ""
     },
     "Call Animals": {
@@ -675,14 +675,14 @@
       "prerequisites": "<p>@UUID[Compendium.te001-core-rulebook.Items.Item.R7iwjAD49l0zullR]{Edeinos}</p>"
     },
     "Chod Rabbitjack MK II": {
-      "name": "Chod Rabbitjack MK II",
-      "description": "<p>Hydraulic shocks built into the user’s legs add spring, and even an explosive burst of power to leaps. The character’s Move increases +2, and he may jump double speed in place of a regular move at the cost of becoming Vulnerable.</p><p> </p><p>Also Présent dans Tharkold Sourcebook Module.</p>",
-      "notes": "+2 Move, Vulnerable to jump move x2"
+      "name": "Rabbitjack Chod MK II",
+      "description": "<p>Des amortisseurs hydrauliques sont implant&eacute;s dans les jambes de l&rsquo;utilisateur ce qui augmente sa vitesse et lui permet d&rsquo;effectuer des sauts prodigieux. La vitesse de D&eacute;placement du personnage est augment&eacute;e de +2 et il peut sauter &agrave; double vitesse au lieu d&rsquo;un d&eacute;placement normal mais il devient alors Vuln&eacute;rable.</p><p> </p><p>Aussi Présent dans Tharkold Sourcebook Module.</p>",
+      "notes": "Déplacement +2, Vulnérable pour sauter avec déplacement x2"
     },
     "Chod Stitcher Unit": {
-      "name": "Chod Stitcher Unit",
-      "description": "<p>This ghoulish device is built into the subject’s back. When the cyborg suffers damage, long arms extend and begin painfully stapling cuts closed. The result grants the cyborg an extra Wound overall, but each time he suffers a Wound he takes an extra 2 Shock as the Stitcher goes to work.</p><p> </p><p>Also Présent dans Tharkold Sourcebook Module.</p>",
-      "notes": "Gain +1 Wound, Wounds deal +2 Shock"
+      "name": "Nécrosuturateur Chod",
+      "description": "<p>Cet immonde appareil est install&eacute; dans le dos du sujet. Quand le cyborg subit des dommages, de longs bras jaillissent de son dos et agrafent les plaies. L&rsquo;op&eacute;ration est tr&egrave;s douloureuse. L&rsquo;implant augmente de 1 point la limite de Blessures du cyborg mais &agrave; chaque fois qu&rsquo;il subit une Blessure il subit 2 points de Choc suppl&eacute;mentaires &agrave; cause des agrafes.</p><p> </p><p>Aussi Présent dans Tharkold Sourcebook Module.</p>",
+      "notes": "+1 Blessure, Blessures infligent +2 points de Choc."
     },
     "Circlet of Command": {
       "name": "Circlet of Command",
@@ -862,19 +862,19 @@
       "range": "25 meters"
     },
     "CyberHam Encrypted Comms": {
-      "name": "CyberHam Encrypted Comms",
-      "description": "<p>Also Présent dans Cyberpapacy Sourcebook Module</p>",
-      "notes": "Allows silent and untraceable communication"
+      "name": "Crypteur de communications CyberHam",
+      "description": "<p>les communications cryptées et brouillées du cyborg sont presque impossibles à intercepter ou à tracer. Les signaux sont redirigés à travers une interface neurale, aussi il peut utiliser le canal de communication pour écouter ou parler sans faire de bruit.</p><p>Also Présent dans Cyberpapacy Sourcebook Module</p>",
+      "notes": "Permet des communications silencieuses et intraçables."
     },
     "CyberHam Fingerprint Mimic": {
-      "name": "CyberHam Fingerprint Mimic",
-      "description": "<p>Also Présent dans Cyberpapacy Sourcebook Module</p>",
-      "notes": "Fools fingerprint scans (per finger)"
+      "name": "Copieur d’empreinte digitales Cyberham",
+      "description": "<p>Aussi Présent dans Cyberpapacy Sourcebook Module</p>",
+      "notes": "Trompe les lecteurs d&rsquo;empreintes digitales (par doigt)"
     },
     "CyberHam Retina Mimic": {
-      "name": "CyberHam Retina Mimic",
-      "description": "<p>@UUID[Compendium.te010-cyberpapacy.cyberpapacy-items.Item.te3HjWG5VEnUrFfU]{Updated Version} Présent dans Cyberpapacy Sourcebook Module</p>",
-      "notes": "Fools retina scans"
+      "name": "Copieur rétinien CyberHam",
+      "description": "<p>Cet appareil peut enregistrer la struture r&eacute;tinienne en regardant quelqu'un les yeux dans les yeux, &agrave; un m&egrave;tre de distance. Les tests de crochetage pour tromper un scanner d'empreinte r&eacute;tienne ayant une structure pr&eacute;-enregistr&eacute;e sont automatiquement r&eacute;ussis avec une r&eacute;ussite spectaculaire. Sans structure r&eacute;tinienne sp&eacute;cifique, le test est simplement Favoris&eacute;.</p><p>@UUID[Compendium.te010-cyberpapacy.cyberpapacy-items.Item.te3HjWG5VEnUrFfU]{Mise à jour} Présent dans Cyberpapacy Sourcebook Module</p>",
+      "notes": "Trompe les scanneurs rétiniens."
     },
     "Cyberdeck": {
       "name": "Cyberdeck",
@@ -920,9 +920,9 @@
       "notes": ""
     },
     "Datas Toxin Detector MK I": {
-      "name": "Datas Toxin Detector MK I",
+      "name": "Détecteur de Toxines Datas MK I",
       "description": "",
-      "notes": "Warns if food or drink is poisoned"
+      "notes": "Il pr&eacute;vient si la nourriture ou une boisson est empoisonn&eacute;e."
     },
     "Death Claw": {
       "name": "Griffes mortelles",
@@ -982,19 +982,19 @@
       "notes": "Bonus doublé contre les Armes à énergie."
     },
     "Digan CyberArm": {
-      "name": "Digan CyberArm",
-      "description": "<p>Digan constructions are Encombrant but powerful, and this modular replacement arm is no exception. It increases <em>Strength</em> tests and damage by +2 , and has +3 Armor on that limb only. The arm’s Armor protects the character’s torso if he takes an Active Defense. The <em>Strength</em> increase applies only to tests and attacks made with that limb.</p><p> </p><p>Also Présent dans Tharkold Sourcebook Module.</p>",
-      "notes": "+2 Strength with that arm"
+      "name": "Bras cybernétique Digan",
+      "description": "<p>Les implants Digan sont encombrants mais puissants et ce bras modulaire ne fait pas exception. Il octroie un bonus de +2 aux tests de <em>Force</em> de l&rsquo;utilisateur et aux dommages qu&rsquo;il inflige et ajoute un bonus d&rsquo;armure de +3 &agrave; ce bras. L&rsquo;armure du bras prot&egrave;ge le torse de son utilisateur s&rsquo;il effectue une D&eacute;fense active. Le bonus en <em>Force</em> ne s&rsquo;applique qu&rsquo;aux tests et attaques effectu&eacute;s avec ce bras.</p><p> </p><p>Aussi Présent dans Tharkold Sourcebook Module.</p>",
+      "notes": "Force +2 avec ce bras."
     },
     "Digan Darksight Eyes MK III": {
-      "name": "Digan Darksight Eyes MK III",
+      "name": "Yeux nyctalopes Digan MK III",
       "description": "<p>Présent dans <strong>Core Rules</strong></p>",
-      "notes": "Ignore 6 points of Darkness penalties"
+      "notes": "Ignore 6 points de malus d’obscurité."
     },
     "Digan Hardjack Dock": {
-      "name": "Digan Hardjack Dock",
-      "description": "<p> Also Présent dans Tharkold Sourcebook Module.</p>",
-      "notes": "Allows use of Digan vehicles"
+      "name": "Bio-connecteur Digan",
+      "description": "<p>Aussi Présent dans Tharkold Sourcebook Module.</p>",
+      "notes": "Permet d’utiliser des véhicules Digan."
     },
     "Diminish": {
       "name": "Diminish",
@@ -2294,14 +2294,14 @@
       "prerequisites": "Au moins 2 autres Atouts de Prouesse. "
     },
     "HardPlas Arm": {
-      "name": "HardPlas Arm",
-      "description": "<p>One of the hero’s arms is replaced by a cybernetic version. It increases <em>Strength</em> tests by +1 and has +2 Armor on that limb only. The arm’s Armor protects the character’s torso if he takes an Active Defense. The <em>Strength</em> increase applies only to tests and attacks made with that limb.</p><p>Also Présent dans Cyberpapacy Sourcebook Module</p>",
-      "notes": "Strength test +1 with arm"
+      "name": "Bras HardPlas",
+      "description": "<p>Un des bras du h&eacute;ros est remplac&eacute; par une version cybern&eacute;tique. Ce bras artificiel octroie un bonus de +1 &agrave; ses tests de <em>Force</em> et ajoute un bonus d&rsquo;armure de +2 &agrave; ce bras. L&rsquo;armure du bras prot&egrave;ge le torse de son utilisateur s&rsquo;il effectue une D&eacute;fense active. Le bonus en <em>Force</em> ne s&rsquo;applique qu&rsquo;aux tests et attaques effectu&eacute;s avec ce bras.</p><p>Aussi Présent dans Cyberpapacy Sourcebook Module</p>",
+      "notes": "Test de Force gagne +1."
     },
     "HardPlas LifeLock Backup Systems": {
-      "name": "HardPlas LifeLock Backup Systems",
-      "description": "<p>Several of the character’s vital organs are augmented with efficient cybernetic equivalents. These new organs have self-diagnostics, backup power, and some can even reroute functions in an emergency. When the character must roll for @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.EhKa65cpHvodUl2L#defeat]{Defeat} she ignores the penalties for up to two wound.</p><p>Also Présent dans Cyberpapacy Sourcebook Module</p><p> </p><p>Présent dans <strong>Core Rules, Cyberpapacy Sourcebook</strong></p>",
-      "notes": "Ignore 2 points of penalties when testing Defeat"
+      "name": "Systèmes de sauvegarde LifeLock HardPlas",
+      "description": "<p> Plusieurs organes vitaux du personnage sont remplacés par leurs versions cybernétiques. Ces nouveaux organes sont dotés d’un système d’auto-diagnostique, d’une batterie de secours et certains peuvent même rediriger leurs fonctions en cas d’urgence. Quand un personnage doit effectuer un test de @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.EhKa65cpHvodUl2L#defaite]{Défaite}, il ignore les malus liés à un maximum de deux Blessures. </p><p>Aussi Présent dans Cyberpapacy Sourcebook Module</p><p> </p><p>Présent dans <strong>Core Rules, Cyberpapacy Sourcebook</strong></p>",
+      "notes": "Ignore 2 points de malus en cas de test de Défaite."
     },
     "Haste": {
       "name": "Haste",
@@ -2386,13 +2386,13 @@
     },
     "Hexxer MK I": {
       "name": "Hexxer MK I",
-      "description": "<p>Those who use magic in the Cyberpapacy do so at great risk. This device was created to vent the extreme backlash warlocks or witches often suffer under Malraux’s rule.</p><p>A hexxer is implanted along the bones of the forearm and wired directly into the brain. When a spellcaster suffers shock from a failed spell, the device crackles with white energy and releases it into the air around her.</p><p>In game terms, the character ignores half of the shock she suffers from Backlash (round up to a minimum of 1).</p><p>Also Présent dans Cyberpapacy Sourcebook Module</p>",
-      "notes": "Ignore half the Shock from failing a spell"
+      "description": "<p>Ceux qui utilisent la magie dans la Cyberpapaut&eacute; courent un grand risque. Cet appareil a &eacute;t&eacute; invent&eacute; pour limiter le s&eacute;v&egrave;re contrecoup souvent subi par les sorci&egrave;res et les d&eacute;monistes soumis au r&egrave;gne de Malraux.</p>\n<p>Un hexxer est implant&eacute; le long des os de l&rsquo;avant-bras et est directement connect&eacute; au cerveau. Quand un lanceur de sorts subit des points de Choc apr&egrave;s avoir manqu&eacute; le lancement d&rsquo;un sort, l&rsquo;appareil est parcouru d&rsquo;une &eacute;nergie blanche qu&rsquo;il &eacute;vacue dans les airs. En termes de jeu, le personnage ignore la moiti&eacute; des points de Choc qu&rsquo;il subit &agrave; cause d&rsquo;un Contrecoup (arrondi au sup&eacute;rieur, minimum 1).</p></p><p>Aussi Présent dans Cyberpapacy Sourcebook Module</p>",
+      "notes": "Annulation de la moitié des points de Choc d'un échec de sort."
     },
     "Hexxer MK II": {
       "name": "Hexxer MK II",
-      "description": "<p>An upgrade to the hexxer stores the energy from Backlash and allows the warlock or witch to actually <em>use</em> it in powering her own spells.</p><p>After a spellcaster suffers Backlash, the hexxer MK II works like a MK I above, negating half the shock from a failed spell. In addition, the amount of shock negated is automatically applied as a bonus on the character’s next spellcasting test. The energy dissipates after one minute (six rounds), so it must be used within that time frame or the bonus is lost.</p><p>Also Présent dans Cyberpapacy Sourcebook Module</p>",
-      "notes": "Ignored Shock becomes a casting bonus, requires Hexxer MK I"
+      "description": "<p>Cette amélioration d’un hexxer permet de stocker l’énergie libérée par un Contrecoup pour que la sorcière ou le démoniste <em>l’utilise</em> pour alimenter ses sorts.</p><p>Après qu’un lanceur de sorts a subi un Contrecoup, l’Hexxer MK II fonctionne comme le Hexxer Mk I en annulant la moitié des points de Choc. De plus, le nombre de points de Choc annulés est automatiquement utilisé comme un bonus au prochain test de lancer de sort du personnage. L’énergie se dissipe au bout d’une minute (six rounds), elle doit donc être utilisée dans cet intervalle de temps ou le bonus est perdu.</p><p>Aussi Présent dans Cyberpapacy Sourcebook Module</p>",
+      "notes": "Les points de Choc ignorés sont un bonus au lancement de sorts. Nécessite le Hexxer MK I."
     },
     "Hollow Point": {
       "name": "Hollow Point",
@@ -3935,14 +3935,14 @@
       "prerequisites": "Esprit 8+"
     },
     "Thav Integrated Weapon Mount": {
-      "name": "Thav Integrated Weapon Mount",
-      "description": "<p>One of the character’s limbs is rebuilt with any Thav manufactured weapon or firearm built in. The mechanism is obvious, but modular so the weapon may be changed as desired. Any attached weapons are purchased separately.</p><p> </p><p>Also Présent dans Tharkold Sourcebook Module.</p>",
-      "notes": "Plus the cost of the weapon (any Thav)"
+      "name": "Support d’arme intégré Thav",
+      "description": "<p>Un des membres du personnage est reconstitu&eacute; avec une arme &agrave; feu ou de m&ecirc;l&eacute;e int&eacute;gr&eacute;e construite par Thav. Le m&eacute;canisme n&rsquo;est pas discret mais suffisamment modulable pour que l&rsquo;arme puisse &ecirc;tre chang&eacute;e &agrave; volont&eacute;. Toute arme install&eacute;e sur cet emplacement doit &ecirc;tre achet&eacute;e s&eacute;par&eacute;ment.</p><p> </p><p>Aussi Présent dans Tharkold Sourcebook Module.</p>",
+      "notes": "Ajouter le coût de l'arme (tous les Thav)"
     },
     "Thav Radiation Filter MK II": {
-      "name": "Thav Radiation Filter MK II",
-      "description": "<p>Wounds from radiation heal normally.</p><p> </p><p>Also Présent dans Tharkold Sourcebook Module.</p>",
-      "notes": "Wounds from radiation heal normally"
+      "name": "Filtre anti-radiations Thav MK II",
+      "description": "<p>Les Blessures des radiations se soignent normalement.</p><p> </p><p>Aussi Présent dans Tharkold Sourcebook Module.</p>",
+      "notes": "Les Blessures des radiations se soignent normalement."
     },
     "Thav-9 SMG": {
       "name": "Thav-9 SMG",
@@ -4066,14 +4066,14 @@
       "description": "<p>Présent dans <strong>Core Rules</strong></p>"
     },
     "Trigon Body Plating": {
-      "name": "Trigon Body Plating",
-      "description": "<p>@UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#integrale/torse-:]{Intégrale/Torse}</p><p>This subdermal armor is grafted throughout the patient’s body, increasing overall durability. It adds +2 Armor, and provides Full Body coverage. Note that body plating is armor, so it doesn’t stack with any worn armor - just take the highest value for a location.</p><p> </p><p>Also Présent dans Cyberpapacy Sourcebook Module</p>",
-      "notes": "+2 Armor, Full Body, concealed under skin"
+      "name": "Blindage corporel Trigon",
+      "description": "<p>@UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#integrale/torse-:]{Intégrale}</p><p>Cette armure subdermale est greff&eacute;e sur l&rsquo;ensemble du corps du patient et augmente sa r&eacute;sistance. C&rsquo;est une protection Int&eacute;grale qui octroie un bonus de +2 en Armure. Notez qu&rsquo;il s&rsquo;agit d&rsquo;une armure et elle n&rsquo;est donc pas cumulable avec une autre armure port&eacute;e, seule la valeur la plus &eacute;lev&eacute;e entre les deux est prise en compte.</p><p> </p><p>Aussi Présent dans Cyberpapacy Sourcebook Module</p>",
+      "notes": "Armure +2, Intégrale, dissimulé sous la peau."
     },
     "Trigon Integrated Weapon Mount": {
-      "name": "Trigon Integrated Weapon Mount",
-      "description": "<p>One of the character’s limbs is rebuilt with any melee weapon or firearm built in. The mechanism is concealed with lifelike NeuraSkin, so long as the weapon is smaller than the limb. Add the cost of the weapon to the cost of the implant to determine the final value. Note that tools such as lock picks may be installed in such mounts as well.</p><p>@UUID[Compendium.te010-cyberpapacy.cyberpapacy-items.Item.te6AAa0je4oyCBZB]{Updated version} Présent dans Cyberpapacy Sourcebook Module</p>",
-      "notes": "Concealed, add the cost of the weapon"
+      "name": "Support d’arme intégré Trigon",
+      "description": "<p>L'un des membres du personnage est reconstitu&eacute; avec une arme &agrave; feu ou de m&ecirc;l&eacute;e int&eacute;gr&eacute;e. Le m&eacute;canisme est dissimul&eacute; avec du Neuroderme tr&egrave;s r&eacute;aliste tant que l&rsquo;arme est plus petite que le membre. Ajoutez le co&ucirc;t de l&rsquo;arme au co&ucirc;t de l&rsquo;implant pour d&eacute;terminer son co&ucirc;t final. Notez que des outils comme des outils de crochetage peuvent aussi &ecirc;tre install&eacute;s sur un tel support.</p><p>@UUID[Compendium.te010-cyberpapacy.cyberpapacy-items.Item.te6AAa0je4oyCBZB]{Mise à jour} Présent dans Cyberpapacy Sourcebook Module</p>",
+      "notes": "Dissimulé, ajouté le coût de l'arme."
     },
     "Truncheon": {
       "name": "Matraque",
@@ -4130,14 +4130,14 @@
       "notes": "Arcane"
     },
     "Vav Sensation Suppressor": {
-      "name": "Vav Sensation Suppressor",
-      "description": "<p>The subject’s pleasure and pain receptors are shunted or rerouted. The result is a constant unpleasant numbness. Reduce the shock a character suffers from any source by one, whether from damage, failure to activate powers or spells, or other sources. Subjects with this implant tend to become addicted to extreme sensations that can overwhelm the suppressor.</p><p> </p><p>Also Présent dans Tharkold Sourcebook Module.</p>",
-      "notes": "Ignore 1 Shock from all sources"
+      "name": "Suppresseur sensoriel Vav",
+      "description": "<p>Les centres du plaisir et de la douleur du sujet sont shunt&eacute;s ou d&eacute;riv&eacute;s. Il en r&eacute;sulte un engourdissement d&eacute;sagr&eacute;able permanent. R&eacute;duisez de un point les d&eacute;g&acirc;ts de Choc subit par un personnage quelle qu&rsquo;en soit la source, qu&rsquo;il s&rsquo;agisse de dommages, d&rsquo;un &eacute;chec &agrave; l&rsquo;activation d&rsquo;un pouvoir ou &agrave; un lancer de sorts ou d&rsquo;autres sources. Les sujets avec cet implant ont tendance &agrave; &ecirc;tre esclaves de sensations extr&ecirc;mes qui peuvent surcharger leur suppresseur.</p><p> </p><p>Aussi Présent dans Tharkold Sourcebook Module.</p>",
+      "notes": "Ignore 1 point de Choc."
     },
     "Vav Toxin Suppressor": {
-      "name": "Vav Toxin Suppressor",
-      "description": "<p>Filters throughout the subject’s blood vessels work to screen any identified poisons. The cyborg tests <em>Strength</em> to recover from the effects of poison every three rounds, rather than once a minute.</p><p> </p><p>Also Présent dans Tharkold Sourcebook Module.</p>",
-      "notes": "Test to eliminate poison after 3 rounds"
+      "name": "Suppresseur de toxines Vav",
+      "description": "<p>Des filtres dans le syst&egrave;me sanguin du sujet nettoient son sang de tous poisons identifi&eacute;s. Le cyborg effectue un test de <em>Force</em> pour r&eacute;cup&eacute;rer des effets d&rsquo;un poison tous les trois rounds au lieu d&rsquo;une fois par minute.</p><p> </p><p>Aussi Présent dans Tharkold Sourcebook Module.</p>",
+      "notes": "Test pour éliminer le poison après 3 rounds."
     },
     "Vengeful": {
       "name": "Revenchard",
@@ -4270,29 +4270,29 @@
       "range": "self"
     },
     "Zan Endoskeleton MK III": {
-      "name": "Zan Endoskeleton MK III",
-      "description": "<p>A popular modification among thralls who prioritize efficiency over their humanity. Armor is grafted atop all the bones in the cyborg’s body, especially around the skull and ribcage. The cyborg’s skin appears normal, but any damage reveals the individual is as much robot as flesh now. The conversion adds +4 Armor and counts as @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#full-body/torso]{Full Body} protection.</p><p> </p><p>Also Présent dans Tharkold Sourcebook Module.</p>",
-      "notes": "+4 Armor, Full Body, concealed under skin"
+      "name": "Endosquelette Zan MK III",
+      "description": "<p> C’est une modification populaire auprès des thralls qui accordent plus d’importance à l’efficacité qu’à leur humanité. Un blindage est greffé sur tous les os du sujet particulièrement ceux du crâne et de la cage thoracique. La peau du cyborg semble normale, mais si ce dernier subit des dommages, il apparaît qu’il tient autant du robot que de l’être humain. Cette conversion ajoute +4 à l’Armure et compte comme une protection @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#integrale/torse-:]{Intégrale}. </p><p> </p><p>Also Présent dans Tharkold Sourcebook Module.</p>",
+      "notes": "Armure +4, Intégrale, dissimulé sous la peau."
     },
     "Zan Slashers": {
-      "name": "Zan Slashers",
-      "description": "<p>Use @UUID[Compendium.te001-core-rulebook.Items.Item.wg0fGkn4dioEnyfr]{Zan Slashers (Attack)}</p><p>Slashers are long blades housed in the forearms or fingers which extend when needed. The blades are sturdy and sharp, causing <em>Strength</em> +2 damage. Slashers use <em>melee weapons</em> for attacks.</p><p>  </p><p>Also Présent dans Tharkold Sourcebook Module.</p>",
-      "notes": "Deal Strength +2 damage"
+      "name": "Éventreurs Zan",
+      "description": "<p>Utiliser @UUID[Compendium.te001-core-rulebook.Items.Item.wg0fGkn4dioEnyfr]{Éventreurs Zan (Attaque)}</p><p>Les &eacute;ventreurs sont de longues lames incorpor&eacute;es dans les avant-bras ou les doigts du sujet qui peuvent &ecirc;tre d&eacute;ploy&eacute;es &agrave; volont&eacute;. Les lames sont robustes et tranchantes et infligent des dommages &eacute;gaux &agrave; <em>Force</em> +2. C&rsquo;est la comp&eacute;tence <em>Armes de m&ecirc;l&eacute;e</em> qui s&rsquo;utilise pour attaquer avec les &eacute;ventreurs.</p><p>  </p><p>Aussi Présent dans Tharkold Sourcebook Module.</p>",
+      "notes": "Fait Force +2 de dommages."
     },
     "Zan Slashers (Attack)": {
-      "name": "Zan Slashers (Attack)",
-      "description": "<p>Attack for @UUID[Compendium.te001-core-rulebook.Items.Item.ZX705tiVbANCEQyJ]{Zan Slashers}</p>\n<p>Slashers are long blades housed in the forearms or fingers which extend when needed. The blades are sturdy and sharp, causing <em>Strength</em> +2 damage. Slashers use <em>melee weapons</em> for attacks.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "name": "Éventreurs Zan (Attaque)",
+      "description": "<p>Attaque utilisable par @UUID[Compendium.te001-core-rulebook.Items.Item.ZX705tiVbANCEQyJ]{Éventreurs Zan}</p>\n<p>Les &eacute;ventreurs sont de longues lames incorpor&eacute;es dans les avant-bras ou les doigts du sujet qui peuvent &ecirc;tre d&eacute;ploy&eacute;es &agrave; volont&eacute;. Les lames sont robustes et tranchantes et infligent des dommages &eacute;gaux &agrave; <em>Force</em> +2. C&rsquo;est la comp&eacute;tence <em>Armes de m&ecirc;l&eacute;e</em> qui s&rsquo;utilise pour attaquer avec les &eacute;ventreurs.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
       "chatNote": "",
       "notes": ""
     },
     "Zan Spinose Plating": {
-      "name": "Zan Spinose Plating",
-      "description": "<p>Use @UUID[Compendium.te001-core-rulebook.Items.Item.0tBeVYBIPdp6NfFd]{Zan Spinose Plating (Attack)}</p><p>An ugly dermal graft that adds protective plates to various parts of the cyborg’s body. Retractable spikes protrude from every plate, dealing <em>Strength</em> +1 damage. If grappled, the character may extend the spikes as a simple action and automatically break free. The plates offer Armor +2, but there are gaps. As usual, worn armor doesn’t stack; take the best value only.</p><p> </p><p>Also Présent dans Tharkold Sourcebook Module.</p>",
-      "notes": "+2 Armor, +1 damage to unarmed combat"
+      "name": "Revêtement écharpeur Zan",
+      "description": "<p>Use @UUID[Compendium.te001-core-rulebook.Items.Item.0tBeVYBIPdp6NfFd]{Revêtement écharpeur Zan (Attaque)}</p>Revêtement écharpeur Zan<p> </p><p>Aussi Présent dans Tharkold Sourcebook Module.</p>",
+      "notes": "Armure +2, +1 aux dommages en Combat à mains nues"
     },
     "Zan Spinose Plating (Attack)": {
-      "name": "Zan Spinose Plating (Attack)",
-      "description": "<p>Attack for @UUID[Compendium.te001-core-rulebook.Items.Item.zHAIdNZHBqBzFS4e]{Zan Spinose Plating}</p>\n<p>An ugly dermal graft that adds protective plates to various parts of the cyborg&rsquo;s body. Retractable spikes protrude from every plate, dealing&nbsp;<em>Strength</em> +1 damage. If grappled, the character may extend the spikes as a simple action and automatically break free. The plates offer Armor +2, but there are gaps. As usual, worn armor doesn&rsquo;t stack; take the best value only.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "name": "Revêtement écharpeur Zan (Attaque)",
+      "description": "<p>Attaque utilisé par @UUID[Compendium.te001-core-rulebook.Items.Item.zHAIdNZHBqBzFS4e]{Revêtement écharpeur Zan}</p>\n<p>Une immonde greffe dermique qui ajoute des plaques protectrices sur diff&eacute;rentes parties du corps du cyborg. Des pointes r&eacute;tractables garnissent chaque plaque infligeant des dommages &eacute;gaux &agrave; <em>Force</em> +1. Si le personnage est attaqu&eacute; en lutte, il peut faire jaillir les pointes avec une action simple et automatiquement se lib&eacute;rer. Les plaques octroient &eacute;galement un bonus de +2 en Armure mais elles ne couvrent pas tout le corps. Une armure port&eacute;e ne se cumule pas &agrave; cette protection et, comme d&rsquo;habitude, seule la meilleure valeur est prise en compte.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
       "chatNote": "",
       "notes": ""
     }
