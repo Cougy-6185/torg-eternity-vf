@@ -394,13 +394,13 @@
       "notes": "Torse, Fatigue"
     },
     "Banish": {
-      "name": "Banish",
-      "description": "<p><em>Banish</em> repels spirits, ghosts, or other ethereal beings back to whatever nether realm they came from. The invoker should not linger in such haunted places, however, for even <em>banished</em> spirits can return!</p>\n<p>Compare the invoker&rsquo;s <em>faith</em> total to the <em>willpower</em> or <em>Spirit</em> of every such entity within five meters of the caster. Creatures affected fade into nothing for 15 minutes.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "good": "Affected entities are banished for one hour",
+      "name": "Bannissement",
+      "description": "<p><em>Bannissement</em> permet de renvoyer des esprits, des fant&ocirc;mes ou d&rsquo;autres entit&eacute;s &eacute;th&eacute;r&eacute;es vers le royaume dont ils sont issus. Cependant, l&rsquo;invocateur ne doit pas trop tra&icirc;ner dans ces lieux hant&eacute;s car m&ecirc;me des esprits <em>bannis</em> peuvent revenir !</p><p>Comparez le total de la <em>Foi</em> de l&rsquo;invocateur &agrave; la <em>Volont&eacute;</em> ou &agrave; l&rsquo;<em>Esprit</em> de toutes ces entit&eacute;s situ&eacute;es dans un rayon de cinq m&egrave;tres de lui. Les cr&eacute;atures affect&eacute;es disparaissent dans le n&eacute;ant pendant 15 minutes</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "good": "Les entités affectées sont bannies pendant une heure.",
       "castingtime": "1 action",
-      "duration": "Instant",
-      "outstanding": "Affected entities are banished for one day",
-      "range": "5 meters radius"
+      "duration": "Instantanée",
+      "outstanding": "Les entités affectées sont bannies pendant un jour.",
+      "range": "Rayon de 5 mètres"
     },
     "Barrett M82": {
       "name": "Barrett M82",
@@ -473,13 +473,13 @@
       "description": "<p>Aquired by @UUID[Compendium.te001-core-rulebook.Items.Item.vPKnrb9wgwTp4xIL]{Black Powder}</p><p>Powder weapons often have the @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#rechargement-:]{Rechargement} property. The powder and its ignition materials become useless if wet, and prone to malfunctions and misfires. The weapon has a Malfunction range of 1–2, and fails to fire on any Malfunction, not just the 1 result. Powder is viable as early as Tech 14.</p>"
     },
     "Bless": {
-      "name": "Bless",
-      "description": "<p><em>Bless</em> surrounds and infuses the caster and his allies with spiritual energy that boosts their physical or mental abilities. The priest chooses any one attribute and calls on his deity to enhance it. <q>May the Lord give us the might of Daniel in the Lion’s Den!</q> increases <em>Strength</em>, for example. Or <q>May Vishnu grant you clarity!</q> might enhance <em>Mind</em>.</p><p>If successful, every ally in range adds +1 to that attribute. Increasing <em>Strength</em> or <em>Spirit</em> does not increase the derived statistics of Toughness and Shock, however.</p><p>@UUID[Compendium.torgeternity.macros.Macro.sZsA7sBGVaCJTzz0]{Buff!}</p><p> </p><p>Présent dans <strong>Core Rules</strong></p>",
-      "good": "Duration increases to 1 minute",
+      "name": "Bénédiction",
+      "description": "<p> <em>Bénédiction</em> enveloppe et imprègne l’invocateur et ses alliés d’énergie spirituelle qui augmente leurs capacités mentales et physiques. Le prêtre choisit un attribut et demande à sa divinité de l’améliorer. « Puisse le seigneur nous donner la force de Daniel dans la tanière des lions ! » augmente la <em>Force</em>, par exemple. Ou « Que Vishnu nous accorde la clarté ! » peut améliorer la <em>Raison</em>. </p> \n <p> Si le test est réussi, tous les alliés à portée gagnent +1 point dans cet attribut. Cependant, augmenter la <em>Force</em> ou l’<em>Esprit</em> ne permet pas d’augmenter les caractéristiques dérivées de Résistance et de Choc. </p><p>@UUID[Compendium.torgeternity.macros.Macro.sZsA7sBGVaCJTzz0]{Buff!}</p><p> </p><p>Présent dans <strong>Core Rules</strong></p>",
+      "good": "La durée est augmentée à 1 minute.",
       "castingtime": "1 action",
       "duration": "3 rounds",
-      "outstanding": "As Good, and the attribute increases by +2",
-      "range": "5 meters radius"
+      "outstanding": "Comme avec un succès Supérieur, mais l’attribut est augmenté de +2.",
+      "range": "Rayon de 5 mètres"
     },
     "Blessed Ammo Rechargements": {
       "name": "Blessed Ammo Rechargements",
@@ -535,13 +535,13 @@
       "notes": "Torse"
     },
     "Bounty": {
-      "name": "Bounty",
-      "description": "<p><em>Bounty</em> multiplies a single meal of food and water so that more may partake. The food also becomes more succulent and nutritious. A Standard success doubles the available food.</p>\n<p>Invoking the <em>bounty</em> requires a prayer of about three minutes. Additional success increases the amount of food, as shown below. Once the miracle is invoked, the caster cannot invoke it again until that food is consumed.</p>\n<p>A caster with <em>bounty</em> virtually ensures survival tests for food and water, but doesn&rsquo;t help with shelter if that&rsquo;s a concern.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "good": "×3 the available food",
+      "name": "Abondance",
+      "description": "<p><p><em>Abondance</em> multiplie un seul repas constitu&eacute; de nourriture et d&rsquo;eau pour qu&rsquo;il puisse subvenir aux besoins de plusieurs individus. De plus, la nourriture est meilleure et plus nutritive. Un succ&egrave;s Simple double la quantit&eacute; de nourriture.</p>\n<p>Invoquer l&rsquo;<em>Abondance</em> n&eacute;cessite une pri&egrave;re d&rsquo;environ trois minutes. Des succ&egrave;s suppl&eacute;mentaires augmentent la quantit&eacute; de nourriture comme cela est indiqu&eacute; ciapr&egrave;s. Une fois le miracle invoqu&eacute;, le fid&egrave;le ne peut plus y avoir recours tant que la nourriture n&rsquo;a pas &eacute;t&eacute; consomm&eacute;e.</p>\n<p>Un invocateur avec le miracle <em>Abondance</em> permet d&rsquo;assurer les tests de survie pour trouver de l&rsquo;eau et de la nourriture mais pas pour trouver un abri si cela est n&eacute;cessaire.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "good": "x3 la quantité de nourriture",
       "castingtime": "3 minutes",
       "duration": "Permanent",
-      "outstanding": "×5 the available food",
-      "range": "10 meters"
+      "outstanding": "x5 la quantité de nourriture",
+      "range": "10 mètres"
     },
     "Brawler": {
       "name": "Bagarreur",
@@ -620,13 +620,13 @@
       "notes": ""
     },
     "Call Animals": {
-      "name": "Call Animals",
-      "description": "<p>The blessed of many religions find comfort in nature&rsquo;s beasts. This miracle draws them from the area, if they exist there (GM&rsquo;s call). Once completed the creatures arrive on the invoker&rsquo;s next turn.</p>\n<p>Calling such creatures doesn&rsquo;t mean control, however. That must be done via <em>commune with animals</em> (below). Those who want to run with the beasts must take care that they are not eaten by them.</p>\n<p>A Standard success summons a flock of sparrows, a few foxes or cats, etc., or a single large creature such as a wolf, bear, or crocodile. The miracle worker doesn&rsquo;t have to see the animals to call them.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "good": "The caster can summon 1 BD of crocodiles, wolves, lions, or similar size creatures",
+      "name": "Appel des animaux",
+      "description": "<p>Les adeptes de nombreuses religions trouvent le r&eacute;confort aupr&egrave;s des animaux de la nature. Ce miracle les attire, s&rsquo;il y en a &agrave; proximit&eacute; (choix du MJ). Une fois l&rsquo;invocation termin&eacute;e, les cr&eacute;atures arrivent au prochain tour de l&rsquo;invocateur.</p><p>Cependant, appeler des cr&eacute;atures ne signifie pas les contr&ocirc;ler. Il faut avoir recours au miracle <em>Communion avec les animaux</em> (ci-apr&egrave;s). Ceux qui veulent vivre parmi les b&ecirc;tes doivent s&rsquo;assurer qu&rsquo;elles ne veulent pas les manger.</p><p>Un succ&egrave;s Simple invoque une nu&eacute;e de moineaux, quelques renards ou quelques chats, etc., ou une seule grande cr&eacute;ature comme un loup, un ours ou un crocodile. L&rsquo;invocateur n&rsquo;a pas &agrave; voir les animaux pour les appeler.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "good": "L’invocateur peut appeler un dé Bonus de crocodiles, de loups, de lions ou de créatures similaires.",
       "castingtime": "1 minute",
-      "duration": "1 hour",
-      "outstanding": "The caster can summon 2 BD of the creatures listed under a Good success, or a single Large or Very Large creature such as a dragon or tyrannosaurus rex (in the Living Land). Remember, call animals doesn't grant control, however!",
-      "range": "1 kilometer"
+      "duration": "1 heure",
+      "outstanding": "L’invocateur peut appeler deux dés Bonus des créatures indiquées avec un succès Supérieur ou une seule grande ou très grande créature comme un dragon ou un tyrannosaure (sur la Terre Vivante). N’oubliez pas  qu’Appel des animaux ne permet pas de les contrôler !",
+      "range": "1 kilomètre"
     },
     "Caltrops": {
       "name": "Caltrops/Chausse-trappe",
@@ -738,22 +738,22 @@
       "range": "10 meters"
     },
     "Commune with Animals": {
-      "name": "Commune with Animals",
-      "description": "<p>Speaking with beasts is a rare but ancient tradition in certain cultures. Most animals are very simpleminded and can only communicate basic ideas. Most can only count to about three and cannot understand human speech. They can communicate whether people they encountered spoke happily, calmly, angrily, etc., however.</p>\n<p>The miracle affects all animals of the same type in Range, all wolves, all ravens, etc. <em>Commune with animals</em> doesn&rsquo;t summon the beasts, however. They must be present or attracted somehow, such as by the <em>call animals</em> miracle.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "good": "The animal also obeys basic commands if instructed, as long as it doesn’t recklessly endanger its life",
+      "name": "Communion avec les animaux",
+      "description": "<p> Parler aux animaux est une tradition rare mais ancienne dans certaines cultures. La plupart des animaux ont un esprit assez simple et ne peuvent communiquer que des idées basiques. Généralement, ils ne peuvent compter que jusqu’à trois et ne comprennent pas le langage humain. Cependant, ils peuvent indiquer si les personnes qu’ils ont rencontrées semblaient heureuses, calmes, en colère, etc. </p> \n <p> Le miracle affecte tous les animaux du même type à portée, tous les loups, tous les corbeaux, etc. <em>Communion avec les animaux</em> ne permet pas d’invoquer les bêtes. Elles doivent être présentes ou invoquées par un miracle comme <em>Appel des animaux</em>. </p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "good": "L’animal obéit également à des instructions de base tant que cela ne met pas sa vie en danger de manière inconsidérée.",
       "castingtime": "1 action",
       "duration": "5 minutes",
-      "outstanding": "The animal obeys basic commands even if it means danger or certain death",
-      "range": "10 meters"
+      "outstanding": "L’animal obéit à des instructions basiques même si cela le met en danger ou qu’il est sûr de mourir.",
+      "range": "10 mètres"
     },
     "Commune with Spirits": {
-      "name": "Commune with Spirits",
-      "description": "<p>This miracle allows the invoker to talk to whatever spirits are appropriate to his mythos. A Christian might speak to the restless shades while a Sioux shaman communes with nature spirits.</p>\n<p>Invoking the dialogue assumes the character is in a place where the spirit should be present - a church for saints, a stream for water spirits, a great tree for a nature spirit, etc. If not and the mythos allows communication with the spirits outside their usual domain, the caster suffers a &minus;4 penalty. The Game Master may also decide it&rsquo;s just not possible in certain situations&mdash;there are likely no earth spirits aboard an airplane, for example.</p>\n<p>Spirits know different things depending on the type, and see things from their perspective. They are not omniscient and generally only have knowledge of subjects directly connected to their former life for the dead or their local area for animal spirits and the like. Unlike the <em>speak with dead</em> spell, this miracle compels the spirit to tell only truth &mdash; though it may be vague or difficult to understand as the Game Master sees fit.</p>\n<p>The chosen may ask a single question with a Standard success. Once contacted, spirits are unavailable again for a scene.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "good": "Two questions",
+      "name": "Communion avec les esprits",
+      "description": "<p> Ce miracle permet à l’invocateur de parler aux esprits en rapport avec sa religion. Un chrétien peut parler à des ombres cherchant le repos tandis qu’un chaman sioux va communiquer avec les esprits de la nature. </p> <p> Cette invocation nécessite que le personnage soit dans un endroit où se trouvent des esprits, une église pour les saints, un ruisseau pour des esprits de l’eau, un grand arbre pour un esprit de la nature, etc. Si ce n’est pas le cas, et que la religion autorise une communication avec des esprits hors de leur domaine habituel, l’invocateur subit un malus de -4. Le MJ peut aussi décider que ce n’est tout simplement pas possible dans certaines situations, il n’y a probablement pas d’esprit de la terre à bord d’un avion, par exemple. </p> <p> Les esprits ont différentes connaissances en fonction de leur type et voient les choses de leur point de vue. Ils ne sont pas omniscients et, généralement, ne connaissent que des sujets liés à leur ancienne vie ou à leur secteur pour les esprits animaux et les autres esprits de ce type. Contrairement au sort <em>Dialogue avec les morts</em>, ce miracle oblige l’esprit à dire la vérité même si ses propos peuvent être vagues ou difficiles à comprendre (en fonction de ce que décide le MJ). </p> <p> Avec un succès Simple, l’élu peut poser une question. Une fois contactés, les esprits ne peuvent l’être à nouveau pendant une Scène. </p> \n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "good": "Deux questions.",
       "castingtime": "1 minute",
       "duration": "5 minutes",
-      "outstanding": "Three questions",
-      "range": "5 meters"
+      "outstanding": "Trois questions.",
+      "range": "5 mètres"
     },
     "Compelling Voice": {
       "name": "Compelling Voice",
@@ -844,22 +844,22 @@
       "description": "<p>@UUID[Compendium.te008-aysle.aysle-journals.PQRWfK8bsqZ10lY1.JournalEntryPage.wIrHC8wmJX9fGfdm#enchanted-and-arcane-items]{Enchanted}</p><p>Used in some spells. Tests involving the creation of a circle (such as casting Protective Circle or activating Travel Ley Line) are Favored if crushed crystals are used.</p>"
     },
     "Cure Disease": {
-      "name": "Cure Disease",
-      "description": "<p><em>Cure disease</em> eradicates any sort of malignant condition, infection, or malady. This doesn&rsquo;t heal the victim of any damage she&rsquo;s already sustained, it simply removes the disease or illness and stops any future symptoms.</p>\n<p>A character may only attempt to <em>cure disease</em> once for each particular malady, per person. The same person may attempt to cure a new disease on the same patient, should he contract one.</p>\n<p>A Standard success cures common ailments like colds. Additional successes are required for more advanced diseases.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "good": "Flu, pneumonia, most infections caused by non-supernatural creatures",
+      "name": "Guérison des maladies",
+      "description": "<p> <em>Guérison des maladies</em> élimine tout type d’infection, de maladie ou d’affection maligne. Cela ne soigne pas la victime des dommages qu’elle a déjà subis, cela la débarrasse de la maladie et lui évite tout autre symptôme. </p> <p> Un personnage ne peut tenter qu’un seul Guérison des maladies par maladie et par personne. Le même personnage peut tenter de soigner une nouvelle maladie sur le même patient si celui-ci devait en contracter une nouvelle. </p> <p> Un succès Simple soigne les pathologies les plus communes comme les rhumes. Il faut un succès supérieur pour des maladies plus complexes. </p> \n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "good": "Grippe, pneumonie, la plupart des infections provoquées par des créatures non surnaturelles.",
       "castingtime": "1 minute",
-      "duration": "Instant",
-      "outstanding": "AIDS, cancer, or infections caused by supernatural creatures",
-      "range": "Touch"
+      "duration": "Instantanée",
+      "outstanding": "SIDA, cancer ou les infections provoquées par des créatures surnaturelles.",
+      "range": "Contact"
     },
     "Curse": {
-      "name": "Curse",
-      "description": "<p><em>Curse</em> diminishes a foe&rsquo;s luck, challenging his faith in the very forces that drive him, whether they be religious, personal, or otherwise.</p>\n<p>A <em>cursed</em> individual suffers a &minus;1 penalty to all skill or attribute totals. Powerful casters can Multi-Target to affect large numbers of the faithless.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "good": "-2 penalty",
+      "name": "Malédiction",
+      "description": "<p> <em>Malédiction</em> réduit la chance de la victime, s’attaquant directement à sa foi qu’elle soit religieuse, individuelle ou d’une autre nature. </p> <p> Un individu <em>maudit</em> subit un malus de -1 à chaque total de compétence ou d’attribut. Les puissants invocateurs peuvent utiliser l’option Cibles multiples pour affecter un grand nombre d’infidèles. </p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "good": "Malus de -2",
       "castingtime": "1 action",
       "duration": "3 rounds",
-      "outstanding": "-3 penalty",
-      "range": "25 meters"
+      "outstanding": "Malus de -3",
+      "range": "25 mètres"
     },
     "CyberHam Encrypted Comms": {
       "name": "Crypteur de communications CyberHam",
@@ -2313,13 +2313,13 @@
       "range": "Touch"
     },
     "Healing": {
-      "name": "Healing",
-      "description": "<p>Perhaps the most important ability a chosen one brings to a band of Storm Knights is her ability to heal. Whether she&rsquo;s patching up her teammate&rsquo;s Wounds&nbsp;or winning over injured villagers, <em>healing</em> is a critical skill.</p>\n<p>The invoker&rsquo;s total is modified by the target&rsquo;s Wound penalties (as well as the caster&rsquo;s if he happens to be Wounded). A success heals 1 Wound, all Shock, and removes KO.</p>\n<p><em>Healing</em> may only be attempted on a single individual once per scene&mdash;choose wisely! If Maru is injured in a fight and healed by Father Damien, he won&rsquo;t be able to heal her again until the next scene. He could still use <em>first aid</em> on her, and may use <em>healing</em> on his other comrades.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "good": "2 Wounds are healed",
+      "name": "Soins",
+      "description": "<p> Le pouvoir de soigner est peut-être l’une des plus importantes capacités dont un fidèle peut faire bénéficier les Chevaliers des Tempêtes. Qu’il s’occupe des blessures de ses compagnons ou qu’il soigne des villageois blessés, <em>Soins</em> est une compétence vitale. </p> \n <p> Le total de l’invocateur est modifié par les malus de blessures du patient (ainsi que celles de l’invocateur s’il est blessé). Un succès soigne 1 Blessure, tous les points de Choc et supprime l’état KO. </p> \n <p> <em>Soins</em> ne peut être tenté qu’une fois par Scène sur un même individu, choisissez bien ! Si Maru est blessé au cours d’un combat et soigné par le Père Damien, il ne pourra plus la soigner avant la prochaine Scène. Il pourra toujours utiliser sa compétence <em>Premiers soins</em> sur elle et le miracle <em>Soins</em> sur ses camarades. </p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "good": "2 Blessures sont soignées.",
       "castingtime": "1 action",
-      "duration": "Instant",
-      "outstanding": "3 Wounds are healed",
-      "range": "Touch"
+      "duration": "Instantanée",
+      "outstanding": "3 Blessures sont soignées.",
+      "range": "Contact"
     },
     "Healing Potion": {
       "name": "Potion de soins",
@@ -2351,13 +2351,13 @@
       "description": ""
     },
     "Hellfire": {
-      "name": "Hellfire",
-      "description": "<p><em>Hellfire</em> projects a gout of flame from the invoker&rsquo;s outstretched palm. The flames deal 13 fire damage.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "good": "Damage +1 BD",
+      "name": "Feu des Enfers",
+      "description": "<p>Avec <em>Feu des Enfers</em> l&rsquo;invocateur projette une langue de feu &agrave; partir de ses mains. Les flammes infligent 13 points de dommages</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "good": "Dommage +1 BD",
       "castingtime": "1 action",
-      "duration": "Instant",
-      "outstanding": "Damage +2 BD",
-      "range": "5 meters"
+      "duration": "Instantanée",
+      "outstanding": "Dommage +2 BD",
+      "range": "5 mètres"
     },
     "Hellfire Anti-Tank": {
       "name": "Missile anti-char Hellfire",
@@ -2681,13 +2681,13 @@
       "range": "100 meters"
     },
     "Lightning Strike": {
-      "name": "Lightning Strike",
-      "description": "<p><em>Lightning strike</em> is a rare display of divine wrath. To invoke it, the blessed individual spends one entire turn doing nothing but castigating a single foe. The caller must be able to see his foe when the miracle begins, and may only take simple actions during this turn.</p>\n<p>While the lightning builds, tendrils of holy power, storm clouds, and arcs of electricity gather around the invoker. If he is injured during this time, he must make a <em>willpower</em> or <em>Spirit</em> test, see @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.0yCTjO5Wj0tFVzBW#concentration]{Concentration}.</p>\n<p>On his next turn, he may use an action to complete the invocation and make his <em>faith</em> test. If successful, the target is struck by a bolt of lightning that causes 20 damage, AP 4.</p>\n<p>There is no penalty for range, cover, or darkness. Perks and other spells, miracles, powers, or supernatural abilities apply normally.</p>\n<p><em>Lightning strike</em> may only be used once per scene&mdash; such forces do not lend their attention lightly!</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "good": "Damage +1 BD",
-      "castingtime": "See below",
-      "duration": "Instant",
-      "outstanding": "Damage +2 BD",
-      "range": "100 meters"
+      "name": "Éclair",
+      "description": "<p> <em>Éclair</em> est une manifestation rare de la colère divine. Pour l’invoquer, le fidèle doit passer un tour complet à ne rien faire d’autre que fustiger un unique adversaire. L’invocateur doit être capable de voir sa cible au début du miracle et ne peut prendre que des actions simples au cours de son tour. </p> <p> Tandis que l’éclair se constitue, des filaments de puissance divine, des nuages de tempête et des arcs électriques se rassemblent autour de l’invocateur. S’il est blessé au cours de ce processus, il doit effectuer un test de <em>Volonté</em> ou d’<em>Esprit</em>, voir @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.0yCTjO5Wj0tFVzBW#concentration]{Concentration}. </p> <p> À son prochain tour, il peut utiliser une action pour terminer l’invocation et effectuer son test de Foi. S’il réussit, la cible est frappée par un éclair qui inflige 20 points de dommages, PA 4. </p> <p> Il n’y a aucun malus de portée, de couvert ou d’obscurité. Les effets des Atouts et des autres sorts, miracles, pouvoirs ou capacités surnaturelles s’appliquent normalement. </p> <p> <em>Éclair</em> ne peut être utilisé qu’une seule fois par Scène, une telle puissance n’est pas accordée à la légère !</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "good": "Dommages +1 BD",
+      "castingtime": "Voir ci-dessous",
+      "duration": "Instantanée",
+      "outstanding": "Dommages +2 BD",
+      "range": "100 mètres"
     },
     "Linguist": {
       "name": "Linguiste",
@@ -3406,13 +3406,13 @@
       "notes": ""
     },
     "Repel": {
-      "name": "Repel",
-      "description": "<p>Sometimes a holy champion simply needs to clear a path through his foes or humble a nonbeliever with a visible display of otherworldly might.</p>\n<p><em>Repel</em> summons an invisible force radiating out from the caster in a circle that pushes away all hostile characters and creatures (allies are unaffected).</p>\n<p>The force has <em>Strength</em> equal to the invoker&rsquo;s <em>faith</em> and affects those enemies of equal or lesser Strength. Those affected are pushed back five meters and Stymied.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "good": "The effective Strength is equal to faith +2",
+      "name": "Répulsion",
+      "description": "<p> Parfois un champion sanctifié a besoin de se frayer un chemin à travers ses adversaires ou faire une démonstration de puissance divine à des non-croyants. </p> <p> <em>Répulsion</em> invoque une puissance invisible qui irradie de l’invocateur en un cercle qui repousse tous les personnages et créatures hostiles (les alliés ne sont pas affectés). </p> <p> Cette puissance a une <em>Force</em> égale à la <em>Foi</em> de l’invocateur et affecte tous les ennemis qui ont une <em>Force</em> inférieure ou égale. Ceux qui sont affectés sont repoussés de cinq mètres et sont Déstabilisés. </p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "good": "La Force effective est égale à la Foi de l’invocateur +2.",
       "castingtime": "1 action",
-      "duration": "Instant",
-      "outstanding": "As a Good result, and the foes are Very Stymied",
-      "range": "5 meters"
+      "duration": "Instantanée",
+      "outstanding": "Comme pour un succès Supérieur et les adversaires sont Très déstabilisés.",
+      "range": "5 mètres"
     },
     "Resilient": {
       "name": "Résistant",
@@ -3653,13 +3653,13 @@
       "prerequisites": "Au moins 3 rangs en Armes Énergétique, Armes à feu ou Armes de Jet."
     },
     "Soothe": {
-      "name": "Soothe",
-      "description": "<p><em>Soothe</em> sends out a refreshing wave of energy to the invoker and allies in range. Those affected instantly recover 2 Shock.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "good": "The affected recover 3 Shock",
+      "name": "Apaisement",
+      "description": "<p><em>Apaisement</em> lib&egrave;re une vague d&rsquo;&eacute;nergie apaisante qui affecte l&rsquo;invocateur et ses alli&eacute;s &agrave; port&eacute;e. Ceux qui sont affect&eacute;s r&eacute;cup&egrave;rent imm&eacute;diatement de 2 points de Choc</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "good": "Ceux qui sont affectés récupèrent de 3 points de Choc",
       "castingtime": "1 action",
-      "duration": "Instant",
-      "outstanding": "The affected recover 4 Shock",
-      "range": "5 meters"
+      "duration": "Instantanée",
+      "outstanding": "Ceux qui sont affectés récupèrent de 4 points de Choc.",
+      "range": "5 mètres"
     },
     "Soul Implement": {
       "name": "Soul Implement",
@@ -3782,7 +3782,7 @@
     },
     "Strangle": {
       "name": "Strangle",
-      "description": "<p>Invisible but deadly, strangle is a frightening technique where a telekinetic squeezes blood vessels or organs inside a foe.</p>\n<p>Victims of the attack suffer 2 Shock.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "description": "<p>Parfois m&ecirc;me le plus pacifique des &eacute;lus doit avoir recours &agrave; la force. Ce puissant miracle conf&egrave;re une certaine puissance &agrave; une arme. <em>Frappe</em> affecte une seule arme de m&ecirc;l&eacute;e ou de jet ; l&rsquo;option Cibles multiples n&rsquo;est pas autoris&eacute;e.</p><p>Avec <em>Frappe</em>, la valeur de dommages de l&rsquo;arme choisie est augment&eacute;e de +1. Qu&rsquo;il s&rsquo;agisse d&rsquo;une arme &agrave; distance ou d&rsquo;une arme de m&ecirc;l&eacute;e n&rsquo;a aucune importance, ses dommages de base sont augment&eacute;s de +1. <em>Frappe</em> doit &ecirc;tre utilis&eacute; sur une arme, pas sur des munitions.</p><p>Une arme b&eacute;nie par le miracle <em>Frappe</em> est consid&eacute;r&eacute;e comme magique pour d&eacute;terminer si elle peut affecter des adversaires ayant la capacit&eacute; &Eacute;th&eacute;r&eacute;e ou une capacit&eacute; similaire qui permet d&rsquo;ignorer les armes normales.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
       "good": "The attack causes 3 Shock",
       "castingtime": "1 action",
       "duration": "Concentration",
@@ -3790,13 +3790,13 @@
       "range": "50 meters"
     },
     "Strike": {
-      "name": "Strike",
+      "name": "Frappe",
       "description": "<p>Sometimes even the most peaceful of the chosen must pick up the staff. This powerful miracle makes sure that staff packs a punch. <em>Strike</em> affects a single melee or missile weapon, no Multi-Targeting is allowed.</p>\n<p><em>Strike</em> increases the damage value of a weapon by +1. It doesn&rsquo;t matter if the weapon is ranged or designed for melee&mdash;its base damage is still increased. <em>Strike</em> must be cast on a weapon, not ammunition.</p>\n<p>A weapon blessed with <em>strike</em> counts as magical for purposes of affecting foes with the Ethereal or similar abilities that generally ignore normal weapons.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "good": "Damage +2",
+      "good": "Dommage +2",
       "castingtime": "1 action",
       "duration": "3 rounds",
-      "outstanding": "Damage +3",
-      "range": "Touch"
+      "outstanding": "Dommage +3",
+      "range": "Contact"
     },
     "Strong-willed": {
       "name": "Obstiné",
@@ -4189,13 +4189,13 @@
       "notes": "Déséquilibre, Deux Mains, Peu Maniable"
     },
     "Ward Enemy": {
-      "name": "Ward Enemy",
-      "description": "<p><em>Ward enemy</em> protects the faithful from supernatural beings that prey on or seek to harm humanity.</p>\n<p>To cast, the invoker must brandish a holy symbol, recite prayers, or otherwise clearly call on the source of his power, making him an obvious target for the taunts of spirits, demons, or other antagonists likely to be affected.</p>\n<p>While the ward is active, all allies within five meters add +1 to their defenses versus @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.Pu4XsglS98BqDRgX#supernatural-evil]{supernaturally evil} creatures and their attacks. The bonus counts toward both physical and interaction defenses.</p>\n<p><strong>Special:</strong> This miracle may be attempted without the Miracles Perk if the <em>faith</em> prerequisite is met.</p>\n<p>In the Cyberpapacy faith, witches and other spellcasters are considered supernatural enemies of the faith. In addition to supernaturally evil creatures, the ward enemy miracle invoked by a worshiper of the Cyberpapacy functions against any character with any Spellcaster Perk or spellcasting Special Ability.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "good": "Those protected add +2 to all defenses",
+      "name": "Protection contre les ennemis",
+      "description": "<p> <em>Protection contre les ennemis</em> protège les fidèles des entités surnaturelles qui veulent nuire à l’humanité. </p> <p> Pour l’invoquer, le fidèle doit brandir un symbole saint, réciter des prières ou effectuer toute autre action qui indique clairement qu’il en appelle à la source de son pouvoir, ce qui en fait la cible principale des esprits, des démons et de tout autre antagoniste pouvant être affecté. </p> <p> Tant que la protection est active, tous les alliés situés à 5 mètres bénéficient d’un bonus de +1 à leurs défenses contre les @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.Pu4XsglS98BqDRgX#creatures-surnaturelles-malefiques]{Créatures Surnaturelles Maléfiques} et leurs attaques. Ce bonus est valable pour les défenses physiques et d’interaction. </p> <p> <strong>Spécial</strong> : Ce miracle peut être tenté sans l’Atout Miracles si celui qui l’invoque a le niveau de <em>Foi</em> requis. </p><p> In the Cyberpapacy faith, witches and other spellcasters are considered supernatural enemies of the faith. In addition to supernaturally evil creatures, the ward enemy miracle invoked by a worshiper of the Cyberpapacy functions against any character with any Spellcaster Perk or spellcasting Special Ability. </p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "good": "Ceux qui sont protégés ont un bonus de +2 à toutes leurs défenses.",
       "castingtime": "1 action",
       "duration": "Concentration",
-      "outstanding": "As the Good result, and supernaturally evil creatures who fail an attack against any of the protected individuals are Stymied",
-      "range": "5 meter radius"
+      "outstanding": "Comme pour un succès Supérieur et les créatures surnaturelles maléfiques qui ratent une attaque contre un individu protégé sont Déstabilisées.",
+      "range": "Rayon de 5 mètres"
     },
     "Warden": {
       "name": "Gardien",
@@ -4235,13 +4235,13 @@
       "prerequisites": "<p>At least one add in faith, and at least one add in alteration, apportation, conjuration, or divination, and follower of @UUID[Compendium.te001-core-rulebook.rules.JournalEntry.uTwRLGOalhiSSWeA.JournalEntryPage.r4Txsus7j2Xabtw0#neopaganism]{Neopaganism}.</p>"
     },
     "Wither": {
-      "name": "Wither",
-      "description": "<p>This dark miracle drains the life force of any living thing it touches.</p>\n<p>With a successful <em>faith</em> roll, the invocation causes 12 damage that ignores all physical armor. <em>Wither</em> works only on living things&mdash;it has no effect on objects, constructs, undead, etc.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
-      "good": "Damage +1 BD",
+      "name": "Flétrissement",
+      "description": "<p>Ce sinistre miracle absorbe la force vitale de tout &ecirc;tre vivant affect&eacute;.</p><p>En r&eacute;ussissant un test de <em>Foi</em>, l&rsquo;invocation inflige 12 points de dommages sans tenir compte des armures physiques. <em>Fl&eacute;trissement</em> ne fonctionne que contre les &ecirc;tres vivants, il n&rsquo;a aucun effet sur les objets, les cr&eacute;atures artificielles, les morts vivants, etc.</p>\n<p>&nbsp;</p>\n<p>Présent dans <strong>Core Rules</strong></p>",
+      "good": "Dommage +1 BD",
       "castingtime": "1 action",
-      "duration": "Instant",
-      "outstanding": "Damage +2 BD",
-      "range": "5 meters"
+      "duration": "Instantanée",
+      "outstanding": "Dommage +2 BD",
+      "range": "5 mètres"
     },
     "Without a Trace": {
       "name": "Without a Trace",
